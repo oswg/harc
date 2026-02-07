@@ -1,0 +1,21 @@
+# HARC Jekyll site (converted from HARC Amalie Lite Child WordPress theme)
+
+title: "High Altitude Receiving Center"
+description: ""
+baseurl: ""
+url: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+
+# Pagination (matches WP theme's posts_per_page: 15)
+paginate: 15
+paginate_path: "/page:num/"
+
+# Custom logo path (relative to site root); set to empty to hide
+logo: "/assets/logo.png"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

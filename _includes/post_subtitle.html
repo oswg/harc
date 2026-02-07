@@ -1,0 +1,27 @@
+{% comment %}
+  Renders the subtitle block (circle, event, session, date) and optional training label.
+  Pass the post/page as include.item (or it defaults to page for single-post layout).
+{% endcomment %}
+{% assign item = include.item | default: page %}
+<div class="subtitle">
+  {% if item.categories contains "Training Session" %}
+  <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
+  {% endif %}
+  {% if item.circle %}<span class="subtitle-line">{{ item.circle }}</span>{% endif %}
+  {% if item.event %}<span class="subtitle-line">{{ item.event }}</span>{% endif %}
+  {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
+  {% if item.date %}
+  <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
+  {% endif %}
+</div>
+<div class="subtitle-mobile">
+  {% if item.categories contains "Training Session" %}
+  <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
+  {% endif %}
+  {% if item.circle %}<span class="subtitle-line">{{ item.circle }}</span>{% endif %}
+  {% if item.event %}<span class="subtitle-line">{{ item.event }}</span>{% endif %}
+  {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
+  {% if item.date %}
+  <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
+  {% endif %}
+</div>

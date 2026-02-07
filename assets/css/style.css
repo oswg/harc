@@ -1,0 +1,139 @@
+/*
+  HARC Jekyll theme (converted from HARC Amalie Lite Child WordPress theme)
+  Based on Amalie Lite by Anariel Design
+*/
+
+body,
+.widget-title {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.site-title {
+  font-size: 4rem;
+  margin-top: 2rem;
+}
+
+.subtitle {
+  border: 2px solid gray;
+  color: gray;
+  padding: 1.5rem;
+  text-align: right;
+  max-width: 50%;
+  float: right;
+  display: block;
+  margin: 0 0 1rem 1rem;
+}
+
+.subtitle-mobile {
+  display: none;
+}
+
+.subtitle-line {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 100;
+  display: block !important;
+}
+
+.training-label {
+  background-color: black;
+  border: none;
+  border-radius: 25px;
+  color: yellow;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: block !important;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 75%;
+  text-align: center !important;
+}
+
+.training-caveat {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.entry-header {
+  margin-bottom: 3rem;
+}
+
+.entry-title {
+  margin-bottom: 1rem;
+  clear: none;
+}
+
+.widget-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.widget-list li {
+  border-top: 1px solid #ddd9d6;
+  padding: 0.7667em 0;
+}
+
+.widget-list li:first-child {
+  border-top: none;
+  padding: 0.7667em 0;
+}
+
+.excerpt-permalink {
+  text-align: right;
+  font-style: italic;
+}
+
+img.custom-logo {
+  padding: 0 10%;
+}
+
+.site-header {
+  padding: 0 10%;
+}
+
+.pagination {
+  margin-top: 2rem;
+  padding: 1rem 0;
+}
+
+.pagination .prev {
+  margin-right: 1rem;
+}
+
+.pagination .next {
+  margin-left: 1rem;
+}
+
+.entry-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd9d6;
+}
+
+.entry-footer .cat-links::after {
+  content: " | ";
+}
+
+@media only screen and (max-width: 955px) {
+  a.custom-logo-link img {
+    display: none;
+  }
+  .entry-title {
+    clear: both;
+  }
+  .subtitle-mobile {
+    border: 2px solid gray;
+    margin: 0;
+    color: gray;
+    padding: 1rem;
+    text-align: right;
+    display: block;
+  }
+  .subtitle {
+    display: none;
+  }
+  .site-title {
+    margin-top: 0;
+  }
+}

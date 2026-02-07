@@ -1,0 +1,12 @@
+<header id="masthead" class="site-header" role="banner">
+  <div class="site-branding">
+    {% if site.logo and site.logo != "" %}
+    <a href="{{ "/" | relative_url }}" class="custom-logo-link">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="custom-logo" />
+    </a>
+    {% endif %}
+    <h1 class="site-title">
+      <a href="{{ "/" | relative_url }}" rel="home">{{ site.title }}</a>
+    </h1>
+  </div>
+</header>

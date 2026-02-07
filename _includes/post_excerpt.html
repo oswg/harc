@@ -1,0 +1,16 @@
+{% comment %}
+  Single post in a list (index, archive, search). Pass post in include.post.
+{% endcomment %}
+{% assign post = include.post %}
+<article class="post" id="post-{{ post.id | slugify }}">
+  <header class="entry-header">
+    {% include post_subtitle.html item=post %}
+    <h2 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+  </header>
+  <div class="entry-content">
+    {{ post.excerpt }}
+    <div class="excerpt-permalink">
+      <a href="{{ post.url | relative_url }}">Go to the transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>
+    </div>
+  </div>
+</article>
