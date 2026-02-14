@@ -1,11 +1,31 @@
 /*
   HARC Jekyll theme (converted from HARC Amalie Lite Child WordPress theme)
   Based on Amalie Lite by Anariel Design
+
+  Typography:
+  - Cormorant Garamond: all headers
+  - Palatino stack: body text
 */
 
 body,
-.widget-title {
+ .site-description,
+ .widget-list,
+ .entry-content,
+ .entry-summary,
+ .page-content,
+ p, li, td, th, label, input, select, textarea {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page-title,
+.widget-title,
+.entry-title,
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6,
+.entry-summary h1, .entry-summary h2, .entry-summary h3,
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6 {
+  font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 .site-title {

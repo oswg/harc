@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About
+layout: page
+title: About the Center
 permalink: /about/
 ---
 
@@ -15,14 +15,3 @@ Many perspectives abound in the universe, including views held by entities who d
 We channel with extreme care, and do not proceed in a session if there is any reason to doubt our clarity, our intentions, or our inner strength. Channeling shall never be performed in a group of less than three; it is crucial an instrument receives assistance from a group in order to rely on balanced energies to help identify metaphysical blind alleys. The group hones their intentions along with the instrument, thereby playing a role in the quality of information received. We studiously avoid topics that are of transient value such as conspiracies, politics, and personal requests for material aid or trivial curiosity. Seeking information on these topics would detune our instruments, and we do not proceed with any channeling where we cannot be certain of the provenance of the messages received.
 
 Regardless of the safeguards we employ in order to keep the information on this site pure and maximally helpful, we implore the reader to read these messages carefully and critically. Not every entity out there has the right message for you. If a message does not resonate or seems "off", it is our fervent wish that the reader disregard it. This is also the consistent advice we receive from our contacts, as ultimately there is no authority but the self when it comes to matters of the spirit.
-
-## Active Instruments
-
-- Nithin R.
-- Jeremy Weiland
-- Steve Tyman
-
-## Active Circles
-
-- [The HARC Circle](https://harc.otherselvesworking.group/harc-circle)
-- [The Richmond Meditation Circle](https://harc.otherselvesworking.group/richmond-meditation-circle)

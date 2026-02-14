@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% assign doc = page %}
+<article id="page{{ doc.id | slugify }}" class="page type-page status-publish format-standard hentry">
+  <header class="entry-header">
+    <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
+  </header><!-- .entry-header -->
+
+  <div class="entry-content">
+    {{ content }}
+  </div><!-- .entry-content -->
+
+</article>
