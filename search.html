@@ -1,0 +1,123 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
+<header class="page-header search-page-header">
+  <h1 id="page-title" class="page-title">Search</h1>
+</header>
+
+<div id="search-results" class="search-results" aria-live="polite">
+  <p id="search-status" class="search-status">Loading search index…</p>
+  <div id="search-results-list" class="search-results-list" aria-label="Search results"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" crossorigin="anonymous"></script>
+<script>
+(function() {
+  var statusEl = document.getElementById('search-status');
+  var listEl = document.getElementById('search-results-list');
+
+  var params = new URLSearchParams(window.location.search);
+  var initialQuery = params.get('q') || '';
+
+  var index = null;
+  var store = null;
+
+  var titleEl = document.getElementById('page-title');
+
+  function runSearch(query) {
+    if (!index || !store) return;
+    query = (query || '').trim();
+    if (!query) {
+      titleEl.textContent = 'Search';
+      statusEl.textContent = 'Enter a search term in the sidebar to find transcripts.';
+      statusEl.style.display = '';
+      listEl.innerHTML = '';
+      return;
+    }
+    try {
+      var results = index.search(query);
+      titleEl.textContent = results.length + ' search result' + (results.length === 1 ? '' : 's') + ' for "' + query + '"';
+      if (results.length === 0) {
+        statusEl.textContent = '';
+        statusEl.style.display = 'none';
+        listEl.innerHTML = '';
+        return;
+      }
+      statusEl.textContent = '';
+      statusEl.style.display = 'none';
+      listEl.innerHTML = results.map(function(r) {
+        var doc = store[r.ref];
+        if (!doc) return '';
+        var intro = doc.introduction || '';
+        var slug = (doc.url || '').replace(/^\//, '').replace(/\/$/, '').replace(/\//g, '-') || 'post';
+        var trainingLabel = doc.is_training ? '<span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>' : '';
+        var subtitleLines = [];
+        if (doc.circle_display) subtitleLines.push('<span class="subtitle-line">' + escapeHtml(doc.circle_display) + '</span>');
+        if (doc.event_display) subtitleLines.push('<span class="subtitle-line">' + escapeHtml(doc.event_display) + '</span>');
+        if (doc.session) subtitleLines.push('<span class="subtitle-line">Session ' + escapeHtml(String(doc.session)) + '</span>');
+        if (doc.date_display) subtitleLines.push('<span class="subtitle-line">' + escapeHtml(doc.date_display) + '</span>');
+        var subtitleHtml = (trainingLabel + subtitleLines.join('')) ? '<div class="subtitle">' + trainingLabel + subtitleLines.join('') + '</div><div class="subtitle-mobile">' + trainingLabel + subtitleLines.join('') + '</div>' : '';
+        return '<article class="post" id="post-' + escapeAttr(slug) + '">' +
+          '<header class="entry-header">' +
+          '<h2 class="entry-title"><a href="' + escapeAttr(doc.url) + '" rel="bookmark">' + escapeHtml(doc.title) + '</a></h2>' +
+          subtitleHtml +
+          '</header>' +
+          '<div class="entry-content">' +
+          (intro ? '<p>' + escapeHtml(intro) + '</p>' : '') +
+          '<div class="excerpt-permalink">' +
+          '<a href="' + escapeAttr(doc.url) + '">Go to the transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>' +
+          '</div></div></article>';
+      }).join('');
+    } catch (e) {
+      statusEl.textContent = 'Search error. Try different words.';
+      statusEl.style.display = '';
+      listEl.innerHTML = '';
+    }
+  }
+
+  function escapeHtml(s) {
+    if (!s) return '';
+    var div = document.createElement('div');
+    div.textContent = s;
+    return div.innerHTML;
+  }
+
+  function escapeAttr(s) {
+    if (!s) return '';
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+  }
+
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      index = lunr(function() {
+        this.ref('url');
+        this.field('title', { boost: 10 });
+        this.field('introduction', { boost: 5 });
+        this.field('categories', { boost: 3 });
+        this.field('content');
+        data.forEach(function(doc) {
+          this.add(doc);
+        }, this);
+      });
+      store = {};
+      data.forEach(function(doc) {
+        store[doc.url] = doc;
+      });
+      statusEl.textContent = 'Search ready. ' + data.length + ' transcripts indexed.';
+      if (initialQuery) runSearch(initialQuery);
+    })
+    .catch(function() {
+      statusEl.textContent = 'Could not load search index.';
+    });
+
+})();
+</script>

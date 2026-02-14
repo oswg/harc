@@ -30,6 +30,17 @@ module Jekyll
         category_name.to_s
       end
     end
+
+    # Returns just the child part for Parent/Child categories (e.g. "Acceptance" from "Topics/Acceptance")
+    def category_short(category_name)
+      return category_name.to_s if category_name.to_s.strip.empty?
+      if category_name.to_s.include?("/")
+        _parent, child = category_name.to_s.split("/", 2).map(&:strip)
+        child.to_s
+      else
+        category_name.to_s
+      end
+    end
   end
 end
 

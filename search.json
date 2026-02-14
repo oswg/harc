@@ -1,0 +1,32 @@
+---
+layout: null
+---
+[
+{% for post in site.posts %}
+{% assign circle_key = post.circle | downcase | replace: " ", "-" %}
+{% assign event_key = post.event | downcase | replace: " ", "-" %}
+{% assign mappings = site.designation_mappings %}
+{% if post.categories contains "Training Session" %}{% assign is_training = true %}{% else %}{% assign is_training = false %}{% endif %}
+{% assign circle_display = mappings.circle[circle_key] | default: post.circle | default: "" %}
+{% assign event_display = mappings.event[event_key] | default: post.event | default: "" %}
+{% assign categories_short = "" %}
+{% for cat in post.categories %}
+{% assign c = cat | category_short %}
+{% if c != "" %}{% if categories_short != "" %}{% assign categories_short = categories_short | append: ", " %}{% endif %}{% assign categories_short = categories_short | append: c %}{% endif %}
+{% endfor %}
+{
+  "title": {{ post.title | jsonify }},
+  "url": {{ post.url | relative_url | jsonify }},
+  "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+  "date_display": {{ post.date | date: "%A, %B %-d, %Y" | jsonify }},
+  "content": {{ post.content | strip_html | jsonify }},
+  "introduction": {{ post.Introduction | default: post.introduction | default: "" | strip_html | jsonify }},
+  "categories": {{ post.categories | join: " " | jsonify }},
+  "categories_display": {{ categories_short | jsonify }},
+  "circle_display": {{ circle_display | jsonify }},
+  "event_display": {{ event_display | jsonify }},
+  "session": {{ post.session | default: "" | jsonify }},
+  "is_training": {{ is_training | jsonify }}
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
