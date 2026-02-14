@@ -3,8 +3,9 @@
 title: "High Altitude Receiving Center"
 description: ""
 baseurl: ""
-url: ""
-
+url: "https://har.center"
+permalink: /:name
+excerpt_separator: <!--intro-->
 # Build
 markdown: kramdown
 highlighter: rouge

@@ -2,33 +2,31 @@
 layout: default
 ---
 
-<article class="post" id="post-{{ page.id | slugify }}">
+<article id="post-{{ post.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
-    {% include post_subtitle.html %}
-    <h1 class="entry-title">{{ page.title }}</h1>
-  </header>
+    <div class="subtitle">
+      <span class="subtitle-line">{{ post.circle}}</span>
+      <span class="subtitle-line"></span>{{ post.event }}</span>
+      <span class="subtitle-line">Session {{ post.session }}</span>
+      <span class="subtitle-line">
+        {{ post.date | date: "%A, %B %-d, %Y" }} </span>
+    </div>
+    <h2 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <div class="subtitle-mobile">
+      <span class="subtitle-line">{{ post.circle}}</span>
+      <span class="subtitle-line"></span>{{ post.event }}</span>
+      <span class="subtitle-line">Session {{ post.session }}</span>
+      <span class="subtitle-line">
+        {{ post.date | date: "%A, %B %-d, %Y" }} </span>
+    </div>
+  </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% if page.categories contains "Training Session" %}
-    <p class="training-caveat"><i class="fas fa-exclamation-triangle"></i> IMPORTANT CAVEAT: This session is part of the training for new instruments. As such, please use extra caution in reading and forgive any errors of fact, orientation, or composition.</p>
-    {% endif %}
-    {{ content }}
-  </div>
+    <p>{{ post.excerpt }}</p>
+    <div class="excerpt-permalink">
+      <a href="{{ post.url | relative_url }}">Go to the
+        transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>
+    </div>
+  </div><!-- .entry-content -->
 
-  <footer class="entry-footer">
-    {% if page.categories.size > 0 %}
-    <span class="cat-links"><span class="screen-reader-text">Categories </span>
-      {% for cat in page.categories %}
-        <a href="{{ site.baseurl }}/category/{{ cat | slugify }}/">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    </span>
-    {% endif %}
-    {% if page.tags.size > 0 %}
-    <span class="tags-links"><span class="screen-reader-text">Tags </span>
-      {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    </span>
-    {% endif %}
-  </footer>
 </article>
