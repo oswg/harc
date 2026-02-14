@@ -38,7 +38,7 @@ In `_config.yml`: `logo: "/assets/logo.png"` (or leave empty to hide).
    ruby scripts/wxr_to_jekyll.rb ~/Downloads/harc_wp.xml --dry-run   # Preview
    ruby scripts/wxr_to_jekyll.rb ~/Downloads/harc_wp.xml            # Write to _posts/
    ```
-3. The script reads custom fields and categories from the WXR, maps circle/event/session into filenames (`YYYY-MM-DD_circle_event_session.md`), and extracts Introduction and Group Questions from the content into front matter.
+3. The script reads custom fields and categories from the WXR, maps circle/event/session into filenames (`YYYY-MM-DD_circle_event_session.md`), and extracts Introduction and Group question from the content into front matter.
 
 If har.center uses different custom field names or category structures, the script may need tweaks. See `scripts/wxr_to_jekyll.rb` for the mapping logic.
 

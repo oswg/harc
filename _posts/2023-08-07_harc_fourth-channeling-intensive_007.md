@@ -2,9 +2,9 @@
 Date: '2023-08-07'
 Circle: harc
 title: Q'uo on the Enduring Effect of the Choice in Higher Densities
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '007'
-Group Questions: The question for this afternoon is drawn from a passage1 in the Law of One in which we have learned that, during the last octave, as Ra accounts it, the third density was much elongated, while on the other hand the fifth and sixth density in particular were much shortened in comparison to what they are in this octave. What we would like some information about is the question of how that difference has registered in the dynamic of spiritual evolution as it proceeds now in this octave. That is to say, we would like to know how the fifth and the sixth densities have been altered in the current octave, and particularly we would like to know the role of wandering in that difference. Thank you.
+Group question: The question for this afternoon is drawn from a passage1 in the Law of One in which we have learned that, during the last octave, as Ra accounts it, the third density was much elongated, while on the other hand the fifth and sixth density in particular were much shortened in comparison to what they are in this octave. What we would like some information about is the question of how that difference has registered in the dynamic of spiritual evolution as it proceeds now in this octave. That is to say, we would like to know how the fifth and the sixth densities have been altered in the current octave, and particularly we would like to know the role of wandering in that difference. Thank you.
 Introduction: In this session those of Q'uo discuss the various long-running effects of the veil experienced in third density on the later densities' balancing. Polarization provides much impetus for seeking, but this lopsided desire does eventually require balancing in the higher densities. Q'uo describes the various ways in which wandering back into third density helps the mind/body/spirit complex explore its original choice in more detail. This to-and-fro between lower and higher densities seems to have served to complicate the otherwise smooth path back to the Creator in this octave, shortening third and fourth densities relative to the last octave but lengthening fifth and sixth densities.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -28,7 +28,6 @@ categories:
 - Topics/Wanderers
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

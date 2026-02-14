@@ -2,9 +2,9 @@
 Date: '2022-05-16'
 Circle: colorado-springs
 title: Q'uo on Disciplining the Emotions into Love
-Event: second-channeling-intensive
+Event: ci2
 Session: '002'
-Group Questions: |-
+Group question: |-
   We would like Q’uo to expand on the meaning of the following passage from Ra, which can be found in session 64, question 4:
 
   "The principle behind any ritual of the white magical nature is to so configure the stimuli which reach down into the trunk of mind that this arrangement causes the generation of disciplined and purified emotion or love which then may be both protection and the key to the gateway to intelligent infinity."
@@ -24,7 +24,6 @@ categories:
 audio: /assets/audio/2022-05-16_1206_love_tracking.mp3
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

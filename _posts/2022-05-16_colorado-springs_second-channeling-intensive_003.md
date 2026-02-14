@@ -2,9 +2,9 @@
 Date: '2022-05-16'
 Circle: colorado-springs
 title: Q'uo on the Transformation of Mind Archetype
-Event: second-channeling-intensive
+Event: ci2
 Session: '003'
-Group Questions: Q’uo, this evening we would like you to speak to us about the transformation of the mind.
+Group question: Q’uo, this evening we would like you to speak to us about the transformation of the mind.
 Introduction: In this session those of Q'uo engage in a broad discussion of the purpose, nature, and ramifications of the Transformation of Mind archetype. Because the theme of the archetype's tarot image involves choosing merely one kind of relationship to the self and deep mind over the other kind, Q'uo reminds us that letting go of the unchosen is an important part of transformation. We are advised to have compassion for ourselves in this pregnant state of change, as the fear attending transformation redounds to the depths of the contingency entailed in spiritual evolution. Both paths lead not only back to the Creator but also each teach as old patterns are balanced, and it is in the caring for the fragile third density self through the growth pains and alien feelings of transformation that we more completely integrate ourselves to be full participants in the next stage of evolution.
 categories:
 - Circles/Colorado Springs Circle
@@ -21,7 +21,6 @@ categories:
 audio: /assets/audio/2022-05-16_1720_transformation_of_mind.mp3
 ---
 
-## Channeled Message
 
 _(Jade channeling)_
 

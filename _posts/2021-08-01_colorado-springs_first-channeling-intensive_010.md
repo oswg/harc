@@ -2,7 +2,7 @@
 Date: '2021-08-01'
 Circle: colorado-springs
 title: Q'uo on Empathy
-Event: first-channeling-intensive
+Event: ci1
 Session: '010'
 Introduction: In this session from the Other Selves Working Group’s first channeling intensive, those of Q'uo explore the conditions of sorrow that so frequently transform the natural empathy we feel towards our other selves into a self-protective aversion. The work of accepting and balancing heartache felt by another lies in our willingness to feel those emotions along with them, alleviating the loneliness of sorrow in the other and obtaining on both parties' behalf a new perspective on this experience that teaches the Creator so much. We may convey our balance to those suffering just as their imbalance is felt by us, transmuting the experience so that no part of the Creator is left behind.
 categories:
@@ -16,7 +16,6 @@ categories:
 audio: /assets/audio/2021-08-01_empathy_edit.mp3
 ---
 
-## Channeled Message
 
 _(Jade channeling)_
 

@@ -2,9 +2,9 @@
 Date: '2022-05-16'
 Circle: colorado-springs
 title: Q'uo on the Dynamics of Contact and the Rule of Three
-Event: second-channeling-intensive
+Event: ci2
 Session: '001'
-Group Questions: What are the spiritual principles surrounding the advice often given to only channel outer planes entities with at least three people in the circle?
+Group question: What are the spiritual principles surrounding the advice often given to only channel outer planes entities with at least three people in the circle?
 Introduction: 'In this first session from the second OSWG channeling intensive, Q’uo offers details about the different kinds of entities one might channel and how to appropriately protect oneself in doing so. They begin by articulating the inner planes/outer planes distinction and why it makes a difference in channeling. The rule of three helps anchor the wavelength when it is projected into the outer realms where there is less natural protection. The existence of entities who would want to redirect communication to their own ends is what makes tuning and protection necessary. Throughout this message, Q’uo is careful to attend to the special relationship the higher self has to the self, in both its limitations and its protections. They dwell on the number three: it is an auspicious and nonarbitrary number; however, the higher the number of aligned seekers, the greater the protection. Q’uo closes with a reminder that the circle of seeking is not limited to the space and time in which channeling occurs.'
 categories:
 - Circles/Colorado Springs Circle
@@ -23,7 +23,6 @@ categories:
 audio: /assets/audio/2022-05-16_1032_threeness_mix.mp3
 ---
 
-## Channeled Message
 
 _(Joseph channeling)_
 

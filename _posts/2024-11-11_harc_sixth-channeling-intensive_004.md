@@ -2,7 +2,7 @@
 Date: '2024-11-11'
 Circle: harc
 title: Q'uo on Desire and Catalyst
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '004'
 Introduction: In this session, the principle of Q'uo explores the nuanced relationship between desire and catalyst, suggesting that desire extends beyond the individual to encompass one's collective identities and groups. The selective nature of desire combines with the occluded nature of catalyst to deliver its internal conflicts, culminating in the sacrifice that releases and transforms the desire. Delving into the overlap between this idea and the catalyst stations of the tarot, Q'uo calls out a few of the broader qualities of each archetype, noting the reflective nature of body and the intensifying overtones of spirit. They conclude with a challenge to individual responsibility for desire and its attendant catalyst, hinting at the wisdom of pursuing a deeper appreciation for these two features of the seeker's journey.
 categories:

@@ -2,9 +2,9 @@
 Date: '2023-08-04'
 Circle: harc
 title: Q'uo on Catalyst Gone Awry
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '011'
-Group Questions: What does it mean for catalyst to have gone awry?
+Group question: What does it mean for catalyst to have gone awry?
 Introduction: In this final session from the fourth channeling intensive, Q'uo addresses a variety of perspectives on the meaning and function of that catalyst which does not achieve its desired objective of promoting change and growth, a condition first mentioned by those of Ra[1](#footnote-1). It appears that the confusion of incarnation often leads to a dislocation between the finer balance being sought in such experiences and the comfort that a mind/body/spirit complex naturally tends to seek in third density. The post-incarnative life review in time/space allows for the kind of overview by which incomplete balances may be best engaged, and those of Q'uo briefly answer questions on the random character of catalyst and the malleability of the pre-incarnative plan.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -21,7 +21,6 @@ categories:
 - Topics/Wanderers
 ---
 
-## Channelled message
 
 _(Nithin channeling)_
 

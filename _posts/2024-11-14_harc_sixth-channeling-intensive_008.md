@@ -2,7 +2,7 @@
 Date: '2024-11-14'
 Circle: harc
 title: Q’uo on Catalyst and Experience
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '008'
 Introduction: In this session, Q'uo explores the archetypal stations of catalyst and experience as they are encountered in daily life, emphasizing a model of projection and reflection that imbues waking life with the veiled messages of the deep mind. Addressing these two stations of the tarot across mind, body, and spirit, their commentary largely centers on how to profitably think about the operation of catalysis and recognize the signs of its grounding, balancing, and integration. Q'uo then follows up on their monologue to address this subject in light of working with dreams and the possibility of catalyst becoming diminished or less obnoxious, in both cases suggesting attitudes with which the mind/body/spirit complex's extant approaches and processes may be cooperated with more deeply.
 categories:
@@ -41,7 +41,6 @@ categories:
 - Topics/Wisdom
 ---
 
-## Channeled message
 
 _(Jeremy channeling)_
 

@@ -2,9 +2,9 @@
 Date: '2024-12-09'
 Circle: harc
 title: Q'uo on Catalyst and Experience of Body and Healing
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '014'
-Group Questions: What is the relationship between healing and the archetypes of the Catalyst of the Body and the Experience of the Body?
+Group question: What is the relationship between healing and the archetypes of the Catalyst of the Body and the Experience of the Body?
 Introduction: Q'uo discusses the archetypal mind's influence on healing, urging listeners to discern their own truths from the shared insights. They liken life's challenges to a relentless Wheel of Fortune, where the body experiences and absorbs various catalysts. Drawing an analogy to homeopathy, Q'uo suggests that healing can come from small doses of what might otherwise harm, indicating that challenges often contain their own remedies. By reflecting on and integrating these experiences, one can learn and grow, embodying the enchantress who calmly directs the lion. Q'uo advocates for gratitude towards the body and life's catalysts, as they are essential for progress and enriching the soul's journey back to the Creator.
 categories:
 - Contacts/Q'uo
@@ -22,7 +22,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 (_Jamie Channeling_)
 

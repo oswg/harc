@@ -27,6 +27,15 @@ layout: default
   </header><!-- .entry-header -->
 
   <div class="entry-content">
+    {% if doc.Introduction or doc.introduction %}
+    <h2>Introduction</h2>
+    {{ doc.Introduction | default: doc.introduction | markdownify }}
+    {% endif %}
+    {% if doc["Group question"] or doc.group_question %}
+    <h2>Group question</h2>
+    {{ doc["Group question"] | default: doc.group_question | markdownify }}
+    {% endif %}
+    <h2>Channeled Message</h2>
     {% assign audio_url = doc.audio | default: doc.Media %}
     {% if audio_url %}
     <div class="post-audio">
@@ -35,14 +44,6 @@ layout: default
         <p>Your browser does not support the audio element. <a href="{{ audio_url | relative_url }}">Download audio</a>.</p>
       </audio>
     </div>
-    {% endif %}
-    {% if doc.Introduction or doc.introduction %}
-    <h2>Introduction</h2>
-    {{ doc.Introduction | default: doc.introduction | markdownify }}
-    {% endif %}
-    {% if doc["Group Questions"] or doc.group_questions %}
-    <h2>Group question</h2>
-    {{ doc["Group Questions"] | default: doc.group_questions | markdownify }}
     {% endif %}
     {{ content }}
   </div><!-- .entry-content -->

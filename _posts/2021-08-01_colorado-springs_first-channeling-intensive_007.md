@@ -2,7 +2,7 @@
 Date: '2021-08-01'
 Circle: colorado-springs
 title: Q'uo on Humility
-Event: first-channeling-intensive
+Event: ci1
 Session: '007'
 Introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo discusses humility, starting with comparing our condition to that of the second density sapling vulnerably striving towards the light without self-consciousness. Q’uo then ties in false humility, arrogance, acceptance of self, protection, specialization, and authority to explore the experiences that we encounter as we hone the personality shells that third density provides us. Given the service we expect to perform, Q’uo suggests we seek to share the burden and comfort one another, recognizing we all started out as more naive and less wise than we are now.
 categories:
@@ -19,7 +19,6 @@ categories:
 audio: /assets/audio/2021-08-01_humility.mp3
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

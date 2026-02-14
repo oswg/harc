@@ -2,9 +2,9 @@
 Date: '2023-08-04'
 Circle: harc
 title: Q'uo on Cynicism
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '008'
-Group Questions: The question for this session is how does one best relate to the cynicism within oneself?
+Group question: The question for this session is how does one best relate to the cynicism within oneself?
 Introduction: Those of Q'uo address the dynamic of cynicism or doubt as a normal aspect of life in third density given how little we truly know and can see about the nature of our illusion. Working with this cynicism is part and parcel of working with its opposite, faith, and in this balancing we learn to ascertain the true nature of reality through direct experience. Q'uo also discusses the role cynicism plays in how we relate to other selves as a projection of our inner integration.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -17,7 +17,6 @@ categories:
 - Topics/Trust
 ---
 
-## Channeled message
 
 (_Nithin Channeling_)
 

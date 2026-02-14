@@ -2,7 +2,7 @@
 Date: '2022-10-22'
 Circle: colorado-springs
 title: Q'uo on the Nature of Mind and its Creature, the Body
-Event: third-channeling-intensive
+Event: ci3
 Session: '006'
 categories:
 - Circles/Colorado Springs Circle
@@ -20,17 +20,10 @@ categories:
 - Topics/Mind Complex
 - Topics/Spirit Complex
 audio: /assets/audio/ci03s06_quo_2022-10-08.mp3
+Introduction: In this session, those of Q’uo address the nature of mind and its relation to the body. They discuss the grounding of mind in love and how its fluid nature relates to manifestation and embodiment. Some hints are also offered about how the body relates mind back to itself. Towards the end, Q’uo answers a question on the “tree of mind” metaphor as viewed from the body complex.
+Group question: What is mind? What did those of Ra mean when they described the body as “the creature of the mind”?
 ---
 
-## **Introduction**
-
-In this session, those of Q’uo address the nature of mind and its relation to the body. They discuss the grounding of mind in love and how its fluid nature relates to manifestation and embodiment. Some hints are also offered about how the body relates mind back to itself. Towards the end, Q’uo answers a question on the “tree of mind” metaphor as viewed from the body complex.
-
-## **Group Question**
-
-What is mind? What did those of Ra mean when they described the body as “the creature of the mind”?
-
-## **Channeled Message**
 
 _(Jeremy channeling)_
 

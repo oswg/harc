@@ -2,9 +2,9 @@
 Date: '2023-11-10'
 Circle: harc
 title: Q'uo on Resistances in the Exercise of Will
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '004'
-Group Questions: We often find that in attempting to realize our will, we encounter resistances of various kinds. Could you  comment on the dynamics involved in exercising will in a disciplined manner?
+Group question: We often find that in attempting to realize our will, we encounter resistances of various kinds. Could you  comment on the dynamics involved in exercising will in a disciplined manner?
 Introduction: This session features those of Q'uo discussing the dynamics of invoking the will, emphasizing intention as a crystallization of desire that gives us a way to relate to that which draws us forward. Along the way we encounter obstacles evincing unrecognized aspects of our desire in our blockages, confusion, and unexamined thoughts, and we wisely avoid the temptation to wrest the self into acceptability by a sheer act of will. Using a lighter, more patient touch will help us delicately work with catalyst on a more manageable basis in order to more gently address our distortions, accept and learn from our missteps, and discipline our conduct as we seek the love in each moment.
 categories:
 - Contacts/Q'uo
@@ -26,7 +26,6 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

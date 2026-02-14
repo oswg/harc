@@ -2,9 +2,9 @@
 Date: '2023-11-10'
 Circle: harc
 title: Q’uo on Will, Memory, and Truth
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '009'
-Group Questions: What is the relation between memory and will when it comes to the question of truth?
+Group question: What is the relation between memory and will when it comes to the question of truth?
 Introduction: |-
   In the final session of the fifth intensive, those of Q'uo expand upon the topic of memory from the last session with an emphasis on the existence, nature, and meaning of the "truth." Here too, will plays a role in the dyadic activity of remembrance, coupling subject to a limited perspective on an event. Given the veil of forgetting, Q'uo endorses no external standard by which veracity can be reliably and objectively teased out from the confusion of siloed and contradictory memories.
 
@@ -38,7 +38,6 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

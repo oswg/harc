@@ -2,9 +2,9 @@
 Date: '2024-11-12'
 Circle: harc
 title: Q'uo on Witnessing Planetary Sorrow
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '019'
-Group Questions: How might we best relate to working within a social energy complex in which so much exploitation and negativity creates the conditions of our lives? Do we contribute to that negativity by our passive participation? How should we relate to this when those of Ra point out that this system makes the leisure necessary for inward seeking possible?
+Group question: How might we best relate to working within a social energy complex in which so much exploitation and negativity creates the conditions of our lives? Do we contribute to that negativity by our passive participation? How should we relate to this when those of Ra point out that this system makes the leisure necessary for inward seeking possible?
 Introduction: In this session, those of Q'uo delve into the nature of our moral agency and the powerful institutions that affect our convenient lives in late stage third density civilization. They address how we, as individuals, can navigate and relate to a world rife with exploitation and negativity—-a world that paradoxically provides the leisure necessary for inward spiritual seeking. They challenge the listener to witness planetary sorrow not as passive bystanders but as active participants in a shared journey towards social memory and earth healing.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -38,7 +38,6 @@ categories:
 - Topics/Yellow Ray
 ---
 
-## Channeled message
 
 **I am Q'uo** &nbsp;and am with this instrument at this time on this beautiful planet's surface, greeting each here in the love and light and the sacred promise of our One Infinite Creator. How marvelous these times together have been, my friends
 

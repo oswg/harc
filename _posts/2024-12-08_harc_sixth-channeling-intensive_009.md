@@ -2,7 +2,7 @@
 Date: '2024-12-08'
 Circle: harc
 title: Laitos on Humility
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '009'
 Introduction: Here Laitos delves into humility as a multifaceted virtue essential for spiritual growth, emphasizing its role in fostering learning and deepening relationships. Humility is contrasted with pride, which is depicted as a fear-based defense, and the discussion highlights the freedom and authenticity that come from embracing humility. The concept of dignity is also explored, suggesting that true self-worth complements humility, allowing for a balanced sense of interconnectedness and self-respect.
 categories:
@@ -20,7 +20,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 _(Linus channeling)_
 

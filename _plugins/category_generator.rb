@@ -4,6 +4,15 @@
 # Slugs conform to parent/child for hierarchical categories.
 # Run after posts are read so site.categories is populated.
 
+EVENT_CI_SLUGS = {
+  "first-channeling-intensive" => "ci1",
+  "second-channeling-intensive" => "ci2",
+  "third-channeling-intensive" => "ci3",
+  "fourth-channeling-intensive" => "ci4",
+  "fifth-channeling-intensive" => "ci5",
+  "sixth-channeling-intensive" => "ci6",
+}.freeze
+
 module Jekyll
   class CategoryArchiveGenerator < Generator
     safe true
@@ -16,6 +25,7 @@ module Jekyll
         return nil if parent.empty? || child.empty?
         p_slug = Jekyll::Utils.slugify(parent)
         c_slug = Jekyll::Utils.slugify(child)
+        c_slug = EVENT_CI_SLUGS[c_slug] || c_slug if p_slug == "events"
         return nil if p_slug.nil? || p_slug.empty? || c_slug.nil? || c_slug.empty?
         "#{p_slug}/#{c_slug}"
       else

@@ -2,9 +2,9 @@
 Date: '2023-11-20'
 Circle: harc
 title: Q'uo on Stewardship
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '005'
-Group Questions: Given the central role of free will, what is the nature of positive stewardship in third density?
+Group question: Given the central role of free will, what is the nature of positive stewardship in third density?
 Introduction: Ever the ones to disclaim authority, Q'uo provide in this session their best effort at articulating the proper balance between respecting free will and exercising power over others on the service-to-others path. They paint an evolutionary portrait of the role of stewardship that incrementally assembles a complex and precarious web of cultural responsibilities, societal norms, psychological repressions, and codical strictures adhering to its rightful exercise, none of which much limits the potential for abuse, distortion, confusion, or unintended side effects. The one saving grace of the positive steward seems to lie in the guidance discovered within, involving a continual reckoning with one's own blockages and desires that unearths a hard-won humility found in the balancing of the self and the experience of authority enacted both by and upon the self. The goal of all stewardship is to free other selves, achieving the harmony that allows for full expression of mind/body/spirit complexes without need for outer governance; yet a reliable recipe to effect this harmony appears to evade those of Q'uo.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -37,7 +37,6 @@ categories:
 - Topics/Trust
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

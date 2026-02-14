@@ -2,7 +2,7 @@
 Date: '2023-08-04'
 Circle: harc
 title: Laitos on Worthiness, Despair, and Faith
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '002'
 Introduction: Those of Laitos discuss the subject of despair as a salutary stage of spiritual seeking. While it may attend feelings of loss, confusion, and angst, it also conveys to the seeker a new possibility for an aspirational self and new perspective on one's life. That this transformation so often requires the breaking of the old concept of self and self's possibility for further service and growth in the world is regrettable, for we must present a coherent and workable self to the world in order to participate in it. However, by enduring faith in a head-on manner, we learn to bring the faith to bear that our inner light is sufficient to carry on through many trials and sorrows, much as higher density entities have learned to do.
 categories:
@@ -15,7 +15,6 @@ categories:
 - Topics/Faith
 ---
 
-## Channeled message
 
 _(Jeremy channeling)_
 

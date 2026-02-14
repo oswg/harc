@@ -2,7 +2,7 @@
 Date: '2021-08-02'
 Circle: colorado-springs
 title: Q'uo on the Cycle of Desire, Love, Despair and Healing
-Event: first-channeling-intensive
+Event: ci1
 Session: '011'
 Introduction: Q’uo here addresses the issue of love in the context of human experience, where it is described as an essential portion of a cycle in which love seems to become first lost and then recovered. In this respect, love undergoes transformations that deepen the life experience of the mind/body/spirit complex that aspires to evolve.
 categories:
@@ -16,7 +16,6 @@ categories:
 audio: /assets/audio/2021-08-02_love_desire_despair_healing.mp3
 ---
 
-## Channeled Message
 
 _(Steve Channeling)_
 

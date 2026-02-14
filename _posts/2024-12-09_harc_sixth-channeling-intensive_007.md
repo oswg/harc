@@ -2,7 +2,7 @@
 Date: '2024-12-09'
 Circle: harc
 title: Laitos on the Shadow Self
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '007'
 Introduction: In this transmission, Laitos addresses the concept of the shadow self, a byproduct of third density separation from unity, which grows from repressed shame and emotions. The shadow, often ignored or hidden, can unexpectedly resurface, causing confusion. Understanding and accepting the shadow involves recognizing and forgiving the aspects of the self that are projected onto others. Through acceptance and loving awareness, one can integrate the shadow, leading to self-healing, compassion, and a sense of wholeness. This process diminishes judgment and fosters a more integrated self, essential for the spiritual journey towards unity with the One Infinite Creator.
 categories:
@@ -28,7 +28,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 _(Jamie channeling)_
 

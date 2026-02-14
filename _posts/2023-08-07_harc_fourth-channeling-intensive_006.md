@@ -2,9 +2,9 @@
 Date: '2023-08-07'
 Circle: harc
 title: Q'uo on Evolutionary Efficiency
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '006'
-Group Questions: What is being economized on when those of the Confederation speak of efficiency in seeking? Does it have anything to do with the mechanism of trial and error in evolution?
+Group question: What is being economized on when those of the Confederation speak of efficiency in seeking? Does it have anything to do with the mechanism of trial and error in evolution?
 Introduction: What do those of Ra and the Confederation mean by "efficiency" when discussing spiritual evolution? Those of Q'uo tackle this question in light of the protean, "trial and error" nature of evolution, articulating the role the self-aware seeker plays in the total expression of the Creator's nature in this octave. Each octave seems to constitute an experiment in improving the balance between joy and sorrow as two poles in a continuum properly experienced as one follows the upwards spiraling light. This current octave's introduction of the veil between conscious and unconscious mind has improved the motivation to seek through third density polarization, but it has introduced a side effect by increasing the concentration of sorrow in that density, leading to the sinkhole of indifference. Those of sixth density seek to ameliorate this side effect, but their help is often rejected, and they are relegated to merely sharing in this sorrow as they send their love/light.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -30,7 +30,6 @@ categories:
 - Topics/Third Density
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

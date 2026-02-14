@@ -2,9 +2,9 @@
 Date: '2024-12-09'
 Circle: harc
 title: Q'uo on the Matrix and Potentiator of the Body and Healing
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '013'
-Group Questions: The question today is having to do with the archetypical mind, the body archetype specifically. And we will begin with the matrix of the body and the potentiator of the body within the context of healing.
+Group question: The question today is having to do with the archetypical mind, the body archetype specifically. And we will begin with the matrix of the body and the potentiator of the body within the context of healing.
 Introduction: Q'uo describes healing as a dynamic interplay between the body's signals of imbalance and the wisdom to make effective choices for restoration. The matrix of the body, representing balance, and the potentiator of the body, associated with wisdom, guide this process. Healing involves observing and responding to these signals with consistent attention, aligning with the body's natural rhythms to maintain wellness.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -25,7 +25,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 _(Linus channeling)_
 

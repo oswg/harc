@@ -2,9 +2,9 @@
 Date: '2022-05-19'
 Circle: colorado-springs
 title: Q'uo on the Slogan "All Is Well" and the Stakes of Evolution
-Event: second-channeling-intensive
+Event: ci2
 Session: '009'
-Group Questions: Ra gives assurance many times that all is well. And yet, from a third density perspective, it very often seems that this is not and cannot be the case. Is it actually clear in higher densities that all is well or can there be something of the nature of a spiritual experience of terror in the higher densities, which would suggest that it’s possible that all is not well? Are there stakes even beyond the veil? Moreover, if it’s true that all is indeed well, how can we integrate that thought into our third density lives without becoming callous to the suffering of others?
+Group question: Ra gives assurance many times that all is well. And yet, from a third density perspective, it very often seems that this is not and cannot be the case. Is it actually clear in higher densities that all is well or can there be something of the nature of a spiritual experience of terror in the higher densities, which would suggest that it’s possible that all is not well? Are there stakes even beyond the veil? Moreover, if it’s true that all is indeed well, how can we integrate that thought into our third density lives without becoming callous to the suffering of others?
 Introduction: In our group there has been a concern about the putatively extremely positive notion that it is always the case that all is right in the universe, when we can see all around us that, at least from our own limited point of view, this does not seem to be so. Suffering abounds, injustice too often prevails, and opportunities for advancement are too often prematurely truncated. Moreover, there seems to be a dimension of the creation that is the home of terror itself, as negative time/space would suggest. Q’uo responds by strongly reaffirming the “all is well message,” while at the same time acknowledging the validity of the very perceptions that gave rise to our concern. Interestingly, Q’uo also admits that, within the group of social memory complexes going by this name, there are some quite different perspectives at play on this very question. These differences are here explored in some detail.
 categories:
 - Circles/Colorado Springs Circle
@@ -17,7 +17,6 @@ categories:
 audio: /assets/audio/2022-05-19_1929_all_is_well.mp3
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

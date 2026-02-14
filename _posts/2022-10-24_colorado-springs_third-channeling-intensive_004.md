@@ -2,7 +2,7 @@
 Date: '2022-10-24'
 Circle: colorado-springs
 title: Q'uo on Third Density Systems of Control
-Event: third-channeling-intensive
+Event: ci3
 Session: '004'
 categories:
 - Circles/Colorado Springs Circle
@@ -28,17 +28,10 @@ categories:
 - Topics/Social Memory
 - Topics/Third Density
 audio: /assets/audio/ci03s04_quo_2022-10-07.mp3
+Introduction: "Those of Q’uo discuss several aspects of third density systems of manipulation and domination that we experience in our individual lives, making key connections and distinctions between the single self and the collective nature of participation in these systems. Liberation is discussed in a variety of senses: as a surrender to the rightness of our catalyst and the salutary nature of manifestation, as a project of the self freeing itself and reaching back to others, and as a communal project that seeks to subvert the control of individuals with coordinated self-expression. While Q’uo refuses to direct our outward expressions of emancipation, they do offer several thoughts on how to identify the liberatory project in our service and conduct."
+Group question: "Upon the service-to-others path, how does one best emancipate oneself from third density systems of control and manipulation?"
 ---
 
-## **Introduction**
-
-Those of Q’uo discuss several aspects of third density systems of manipulation and domination that we experience in our individual lives, making key connections and distinctions between the single self and the collective nature of participation in these systems. Liberation is discussed in a variety of senses: as a surrender to the rightness of our catalyst and the salutary nature of manifestation, as a project of the self freeing itself and reaching back to others, and as a communal project that seeks to subvert the control of individuals with coordinated self-expression. While Q’uo refuses to direct our outward expressions of emancipation, they do offer several thoughts on how to identify the liberatory project in our service and conduct.
-
-## **Group Question**
-
-Upon the service-to-others path, how does one best emancipate oneself from third density systems of control and manipulation?
-
-## **Channeled Message**
 
 _(Claire channeling)_
 

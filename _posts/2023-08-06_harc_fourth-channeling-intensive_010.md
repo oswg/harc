@@ -2,9 +2,9 @@
 Date: '2023-08-06'
 Circle: harc
 title: Q'uo on Individuality Across Octaves
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '010'
-Group Questions: In the great rhythm of the heartbeat of the creation, wherein all that is sent out is eventually drawn back inward, does individuality persist from creation to creation? Or is individuality all dissolved into unity in such a way that when unity gives way to multiplicity again, all the individualities are again unique and fresh and new?
+Group question: In the great rhythm of the heartbeat of the creation, wherein all that is sent out is eventually drawn back inward, does individuality persist from creation to creation? Or is individuality all dissolved into unity in such a way that when unity gives way to multiplicity again, all the individualities are again unique and fresh and new?
 Introduction: "In 2010 Q'uo offered a curious insight into the enduring nature of the individual across octaves:\n\n> Those within the principle of Q’uo have not yet gone through the ending of an octave of creation. However, it is our understanding, limited though it may be, that the essence of each part of the Creator that has been sent out remains in potentiation as the Creator breathes and decides again to know Itself better. And when It sends out parts of Itself again, there is a natural tendency to fracture or be splintered into the precisely identical soul stream that you experienced in the previous octave. So in truth, you, as an individual, are never lost. You simply are folded up into the Creator after a full octave of experience. After coming from alpha to omega you start again and you learn again and you desire again and the fruits of that are preserved for the Creator so that It may know Itself ever better.\n> \n> [L/L Research Conscious Channeling Library, October 23, 2010](https://www.llresearch.org/channeling/2010/1023)\n\nQ'uo revisits this subject in this session to expand upon the relationship between the individual or soul stream and the unified Creator as it evolves and explores its own nature across the octaves of existence. The value of the individual \"centers to infinity\" evolving as co-Creators is explored in terms of the Creation's fractal nature, with each unit conveying a kind of memory of the specific distilled learning back to the Creator along lines that are consistent and inherent to this protean exercise of creation. There is the implication that this consistent fractal structure is the constant across octaves that allows for each new creation to be relatively appreciated for its novelty and for its distilled content to be shuttled back to the One Infinite Creator."
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -21,7 +21,6 @@ categories:
 - Topics/Octaval Evolution
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

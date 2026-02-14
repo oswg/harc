@@ -2,9 +2,9 @@
 Date: '2022-05-19'
 Circle: colorado-springs
 title: Q'uo on Anxiety
-Event: second-channeling-intensive
+Event: ci2
 Session: '008'
-Group Questions: Is there a way to address anxiety so as to diminish its negative effects? Is there a positive use of anxiety?
+Group question: Is there a way to address anxiety so as to diminish its negative effects? Is there a positive use of anxiety?
 Introduction: Among the biases and gifts we bring with us from second density to third is the bodily state of alertness and angst that we understand as anxiety. While it served us well in second density consciousness, our ability to engage in abstract thought in the social complex, combined with our deep longing to return to the Creator, often magnifies justifiable anxiety into patterns of negative thought that impede our progress towards love and the realizations of spirit. When used in a disciplined manner, however, it can help us prepare for the emotional toll of eventualities and give us lessons in acceptance. As we grow into social memory, we learn to balance anxiety not just on our own but with others' help.
 categories:
 - Circles/Colorado Springs Circle
@@ -20,7 +20,6 @@ categories:
 audio: /assets/audio/2022-05-19_0959_anxiety.mp3
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

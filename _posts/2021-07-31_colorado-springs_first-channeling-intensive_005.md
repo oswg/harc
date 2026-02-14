@@ -2,7 +2,7 @@
 Date: '2021-07-31'
 Circle: colorado-springs
 title: Laitos on Earth Healing
-Event: first-channeling-intensive
+Event: ci1
 Session: '005'
 Introduction: In this session from the Other Selves Working Group's first channeling intensive, those of Laitos describe Earth's transition from third density to fourth density as a birthing process experiencing difficulty and requiring aid from her inhabitants. The seeker is capable of providing love, comfort, and assistance by maintaining a welcoming, nurturing, and peaceful attitude in the face of what may appear to be catastrophe. Healing the strife that hinders the delivery process is part of looking beyond the individual to the collective possibilities of the coming density. Laitos expands on this metaphysical relation between humans and planet by suggesting the Earth serves as a kind of unconscious for the emerging social memory complex of sub-sub-Logoi on her surface[1](#footnote-1).
 categories:
@@ -23,7 +23,6 @@ categories:
 audio: /assets/audio/2021-07-31_earth_healing.mp3
 ---
 
-## Channeled Message
 
 _(Jade channeling)_
 

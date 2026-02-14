@@ -4,7 +4,7 @@ Circle: richmond
 title: Auxhall on Thought Forms and Service
 Event: 2025-invitational
 Session: '003'
-Group Questions: What is the relationship and distinction between thought forms and mind/body/spirit complexes? How do they relate to conscious service?
+Group question: What is the relationship and distinction between thought forms and mind/body/spirit complexes? How do they relate to conscious service?
 Introduction: Closing out the 2025 Invitational event, Auxhall visits the circle to invite contemplation on the nature of thought forms and our role as creators within the cosmic hierarchy. Auxhall emphasizes the distinction between our own conscious agency and the more passive existence of thought forms which lack will and are shaped by our intentions. Thoughts are not merely _ex nihilo_ creations but the means by which we release latent potential within infinity, a faculty only entities in the logoic chain possess. The message also touches upon the importance of focusing on love and service rather than seeking control or wisdom and the power of faith in navigating our third density existence, specifically addressing how service-to-self forces might be confronted.
 categories:
 - Channeling Session
@@ -40,7 +40,6 @@ categories:
 audio: /assets/audio/2025-08-16_richmond_2025-invitational_003.mp3
 ---
 
-## Channeled message
 
 _(Jeremy channeling)_
 

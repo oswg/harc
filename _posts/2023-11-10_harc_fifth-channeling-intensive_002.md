@@ -2,9 +2,9 @@
 Date: '2023-11-10'
 Circle: harc
 title: Q’uo on Personality and Subconscious Will
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '002'
-Group Questions: 'Expand on the Ra quote at Session 52, Question 7, which states: “There is great danger in the use of the will as the personality becomes stronger, for it may be used even subconsciously in ways reducing the polarity of the entity.”'
+Group question: 'Expand on the Ra quote at Session 52, Question 7, which states: “There is great danger in the use of the will as the personality becomes stronger, for it may be used even subconsciously in ways reducing the polarity of the entity.”'
 Introduction: Those of Q'uo describe the life of the will as an entity evolves towards a stronger and more effective energy distribution system otherwise known as a personality. Because will transcends the veil between the conscious and unconscious minds, the very catalyst that challenges us to know ourselves also mobilizes our deeper selves within as blockages are untangled, patterns from past experiences and incarnations crop up, and the personality increasingly draws upon the latent power of our inner architecture. While this power is a fruit of the proper polarization process, it can manifest in strange and unwelcome ways, and we are encouraged to mind our thoughts and intentions carefully in order to serve effectively, accept ourselves, and balance that whole self we channel.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -34,7 +34,6 @@ categories:
 - Topics/Thought Forms
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

@@ -2,7 +2,7 @@
 Date: '2021-08-01'
 Circle: colorado-springs
 title: Q'uo on Yellow Ray Concerns in Organizations
-Event: first-channeling-intensive
+Event: ci1
 Session: '008'
 Introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo lays the groundwork for social dynamics that span from the one-on-one relationship to the large institution, showing how these different scales of association allow for the issue of energies that allow us to work with the lessons of the yellow ray center. Conflict, humiliation, and frustration are far from errant experiences -- they are the means by which we learn the path towards social memory. If we can make our expectations within our groups plain, both to ourselves and to our other selves, we can set an example of the vast potential available to the group when each individual heart is opened and made vulnerable.
 categories:
@@ -14,7 +14,6 @@ categories:
 audio: /assets/audio/2021-08-01_yellow_ray_and_orgs.mp3
 ---
 
-## Channeled Message
 
 _(Jeremy channeling_)
 

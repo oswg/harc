@@ -2,9 +2,9 @@
 Date: '2024-12-09'
 Circle: harc
 title: Q'uo on Discernment in Spiritual Seeking
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '018'
-Group Questions: How does discernment factor into the life of spiritual seeking?
+Group question: How does discernment factor into the life of spiritual seeking?
 Introduction: In this training session, Q'uo delves into the significance of discernment in navigating the complexities of information exchange in our interconnected society. They underscore the necessity of self-honesty in recognizing one's true desires and intentions, which is essential for sifting through external influences and seeking truth. The communication highlights the potential pitfalls of self-promotion and biased information sharing, suggesting that these can hinder the pursuit of authenticity and connection. To cultivate discernment, Q'uo advises forming bonds with trustworthy individuals, considering a wide array of viewpoints to discern a collective truth, and understanding the underlying motives of information sources. Emphasizing compassion in the process, Q'uo reminds us that love is a crucial companion in the journey through the labyrinth of collective communication.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -21,7 +21,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 _(Linus channeling)_
 

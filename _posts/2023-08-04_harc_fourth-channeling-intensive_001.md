@@ -2,7 +2,7 @@
 Date: '2023-08-04'
 Circle: harc
 title: Laitos on the Components of Forgiveness
-Event: fourth-channeling-intensive
+Event: ci4
 Session: '001'
 Introduction: Those of Laitos open the Fourth Channeling Intensive with a treatment of the concept and import of forgiveness. The means for forgiving others change with the details of the illusion, sometimes involving greater imagination and faith than one might expect. These lessons may then be directed within in order to realize a more holistic, balanced and integrated self than the identity we curate for the illusion, one that is redeemed in knowing and accepting its wholeness and goodness. As we learn to use the vehicle of our waking personality limber and adaptable enough to open the heart in unconditional love, we discover how forgiveness disciplines our personalities to accept what we come to learn about the third density condition within and without.
 categories:
@@ -15,7 +15,6 @@ categories:
 - Topics/Transformation
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

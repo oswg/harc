@@ -2,9 +2,9 @@
 Date: '2024-12-08'
 Circle: harc
 title: Laitos on Sovereignty
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '005'
-Group Questions: What is the role of sovereignty in polarization towards service to others?
+Group question: What is the role of sovereignty in polarization towards service to others?
 Introduction: In this training session for newer instruments, the entity Laitos explores the concept of both individual and collective sovereignty as it relates to the spiritual journey and the evolution of consciousness. Laitos discusses how sovereignty is a recognition of one's power and the ability to respect others' personal domains, which is especially relevant in the face of the challenges posed by Earth's economic and political systems, emphasizing the role of the heart in connecting individuals and understanding the blend of personal and collective sovereignty. They suggest sovereignty is not a solitary endeavor but a collective one, where shared experiences and empathy can strengthen both individual and communal sovereignty. The concept of dignity is highlighted as a key aspect of sovereignty, suggesting that recognizing dignity in others can transform sovereignty from a defensive stance to a basis for unity.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -36,7 +36,6 @@ categories:
 - Training Session
 ---
 
-## Channeled message
 
 _(Jeremy channeling)_
 

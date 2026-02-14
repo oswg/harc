@@ -36,15 +36,15 @@ designation_mappings:
     harc: The High Altitude Receiving Center (HARC) Circle
   event:
     ccp: Confederation Channeling Practice
+    ci1: First Channeling Intensive
+    ci2: Second Channeling Intensive
+    ci3: Third Channeling Intensive
+    ci4: Fourth Channeling Intensive
+    ci5: Fifth Channeling Intensive
+    ci6: Sixth Channeling Intensive
     gm: Guided Meditation
     2025-invitational: 2025 Invitational
-    fifth-channeling-intensive: Fifth Channeling Intensive
-    first-channeling-intensive: First Channeling Intensive
-    fourth-channeling-intensive: Fourth Channeling Intensive
     gathering-24: Gathering '24
-    second-channeling-intensive: Second Channeling Intensive
-    sixth-channeling-intensive: Sixth Channeling Intensive
-    third-channeling-intensive: Third Channeling Intensive
 
 plugins:
   - jekyll-paginate

@@ -2,7 +2,7 @@
 Date: '2021-08-01'
 Circle: colorado-springs
 title: Q'uo on the Significator, Matrix, and Potentiator
-Event: first-channeling-intensive
+Event: ci1
 Session: '009'
 Introduction: In this session from the Other Selves Working Group's first channeling intensive, Q'uo elaborates on functional characteristics involved in three of the seven classifications used to study the archetypal mind. The significator provides a unifying concept of selfhood that derives elaboration from the mutual reinforcement of matrix and potentiator, variously synthesizing the activity/passivity and generation/reception dynamics that accrue from their respective masculine or feminine correspondences. In their answers to questions, Q'uo briefly touches on the choice archetype's relationship to the significator, and finally they establish the primacy of free will relative to the archetypal mind, suggesting a mysterious, macrocosmic superstructure governing octaval evolution.
 categories:
@@ -21,7 +21,6 @@ categories:
 audio: /assets/audio/2021-08-01_archetypes.mp3
 ---
 
-## Channeled Message
 
 _(Joseph channeling)_
 

@@ -2,9 +2,9 @@
 Date: '2024-11-11'
 Circle: harc
 title: Q'uo on Intellect and Intuition in Archetypal Study
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '001'
-Group Questions: What is the intellect's role in archetypal study? When does it get in the way?
+Group question: What is the intellect's role in archetypal study? When does it get in the way?
 Introduction: In this exploration of the mind's intricate dance between intellect and intuition, those of the principle of Q'uo invite us to consider the delicate interplay of these facets of consciousness when we make a study of the archetypal mind. Having sketched out the functions and value in the seeking process that these two faculties defined by the veil exhibit, Q'uo draws in the interaction of the matrix and the potentiator as foundational patterns of energy flow in manifestation. However, the pattern described cannot banish the primacy of mystery in seeking, and we are cautioned to balance intellectual approaches and intuition when we study the archetypal mind, abiding with that which our consciously available mental tools cannot explain to our immediate satisfaction.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -24,7 +24,6 @@ categories:
 - Topics/The Veil
 ---
 
-## Channeled message
 
 _(Steve channeling)_
 

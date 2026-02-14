@@ -2,9 +2,9 @@
 Date: '2023-11-10'
 Circle: harc
 title: Q'uo on Positive Magical Working
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '003'
-Group Questions: When we work in a polarized, magical fashion, how is that polarity balanced? In service-to-others magic, how can we make room for the negative balancing? And how should we think about our work when we see so little?
+Group question: When we work in a polarized, magical fashion, how is that polarity balanced? In service-to-others magic, how can we make room for the negative balancing? And how should we think about our work when we see so little?
 Introduction: In this session those of Q'uo discuss the breadth of concerns and implications resulting from attempts at magical practice on the service-to-others path. With no shortage of cautionary admonitions, several elements of disciplined study and self-inquiry are explicated briefly, including the role of the energy centers, the choice of polarity, the archetypal mind, and the shadow self. The well grounded access of the higher self then plays a pivotal part in the positive adept's transmutation of the negative energies at work in many conditions we might seek to affect through magical working. However, Q'uo continually remind us that this work demands immense levels of preparation and focus not required for third density polarization, and we can safely effect good through more modest forms of service.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -39,7 +39,6 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

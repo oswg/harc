@@ -2,9 +2,9 @@
 Date: '2022-05-18'
 Circle: colorado-springs
 title: Q'uo on the Role of the Spirit Complex in Self-Consciousness
-Event: second-channeling-intensive
+Event: ci2
 Session: '005'
-Group Questions: Is there a relationship between the introduction of the spirit complex in third density and self-awareness/self-consciousness? If so, what is the nature of the relationship? What is it about spirit that causes reflection/mirroring to begin to occur?
+Group question: Is there a relationship between the introduction of the spirit complex in third density and self-awareness/self-consciousness? If so, what is the nature of the relationship? What is it about spirit that causes reflection/mirroring to begin to occur?
 Introduction: This session features Q'uo discussing the concept of self-consciousness and how it serves the Creator's evolutionary mission. There is a quantum leap in awareness demarcated by the second density entity's discovery of the possibility of stepping outside its feedback loop between mind and body. This new position recapitulates the initial stages of the Creation's articulation through the octaves, making possible the Choice that assembles the metaphysical power necessary to reach back to the Creator through the infinite medium of an emerging spirit complex. Finally, Q'uo frames this polarity of service-to-self and service-to-others as itself issuing from the development of the more primitive mover/moved polarity with which spirit initially engaged the creation. Through extending its feedback mechanism to the spirit complex, the self-aware entity grows to be an instrument of spirit, indirectly plumbing the mysteries of separation and the finite as an ever-unfolding discovery of its one infinite source.
 categories:
 - Circles/Colorado Springs Circle
@@ -23,7 +23,6 @@ categories:
 audio: /assets/audio/2022-05-18_1005_spirit_and_self_consciousness.mp3
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 

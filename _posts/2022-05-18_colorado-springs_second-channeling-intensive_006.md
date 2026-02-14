@@ -2,9 +2,9 @@
 Date: '2022-05-18'
 Circle: colorado-springs
 title: Q'uo on the Spiritual Aspects of Safety
-Event: second-channeling-intensive
+Event: ci2
 Session: '006'
-Group Questions: |-
+Group question: |-
   Ra says in session 41, question 19 that “The key to balance may then be seen in the unstudied, spontaneous, and honest response of entities toward experiences, thus using experience to the utmost, then applying the balancing exercises and achieving the proper attitude for the most purified spectrum of energy center manifestation in violet ray.”
 
   There seems to be a tension between the need to preserve both the incarnation one's relationships in a viable sense, and the more spontaneous response that could well put them at risk, but that could also yield extraordinary learning. What role do concerns for safety play in a well-balanced spiritual life? How much credence or attention should we give concerns of safety? Conversely, how expendable is an incarnational experience? Should an incarnation be used up and tossed away, or is it to be savored and protected?
@@ -25,7 +25,6 @@ categories:
 audio: /assets/audio/2022-05-18_1640_safety.mp3
 ---
 
-## Channeled Message
 
 _(Steve channeling)_
 

@@ -79,7 +79,7 @@ Jekyll::Hooks.register :site, :post_read do |site|
 
     date_str = data["date"].respond_to?(:strftime) ? data["date"].strftime("%Y-%m-%d") : data["date"].to_s
     session_padded = session.to_s.rjust(3, "0")
-    title_slug = Jekyll::Utils.slugify(data["title"].to_s)
+    title_slug = Jekyll::Utils.slugify(data["title"].to_s.gsub(/[''`]/, ""))
 
     post.data["permalink"] = "/#{date_str}/#{event_for_url}/#{session_padded}/#{title_slug}/"
     post.instance_variable_set(:@url, nil) if post.instance_variable_defined?(:@url)

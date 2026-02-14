@@ -2,9 +2,9 @@
 Date: '2024-12-08'
 Circle: harc
 title: Q'uo on the Matrix, Potentiator, and Significator of Spirit
-Event: sixth-channeling-intensive
+Event: ci6
 Session: '006'
-Group Questions: Please share information on the Matrix and Potentiator of Spirit.
+Group question: Please share information on the Matrix and Potentiator of Spirit.
 Introduction: Q'uo focuses here on those archetypes of Matrix, Potentiator, and Significator as they relate to work within the spirit complex. Dwelling upon the intense nature of seeking in this domain, they emphasize the importance of polarity and the need for the seeker to have firmly established their orientation towards service-to-others or service-to-self before venturing into the work of Spirit. After discussing the functional and affective aspects of the three stations of the Spirit cycle of archetypes, those of Q'uo affirm both the difficulty of the work in spirit and the profound joy and reward it offers to those who persevere. Before concluding, they entertain questions stemming from the abjectly daunting nature of the spirit complex Q'uo has described.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -36,7 +36,6 @@ categories:
 - Topics/Spirit Complex
 ---
 
-## Channeled message
 
 _(Please note the recording was started just after the channeling began, and the opening words were transcribed from memory)_
 

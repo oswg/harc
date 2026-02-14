@@ -2,9 +2,9 @@
 Date: '2023-11-21'
 Circle: harc
 title: Q’uo on Will and Desire
-Event: fifth-channeling-intensive
+Event: ci5
 Session: '006'
-Group Questions: We would like to ask you about the relationship between will and desire.
+Group question: We would like to ask you about the relationship between will and desire.
 Introduction: In this session, those of Q'uo examine the relationship and distinctions between desire and will within third density. They describe desire as a random, indistinct, and chaotic energy drawing the entity towards the upward spiralling light in an unclear and mysterious fashion. The activiation of the spirit complex introduces the mind/body/spirit complex to the possibility of self-consciously ordering this energy of desire towards more articulated ends through the faculty of will. Because of the operation of the veil clouding the true nature of these energies, will increasingly coheres into a choice of polarity that can work intelligently and creatively with desire's upward draw towards unity and co-creatorship. Q'uo hints that we take a key step towards social memory in fourth density as we recognize the patterns inherent in the integration of desire and will within ourselves and our other selves.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
@@ -31,7 +31,6 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
 
 _(Jeremy channeling)_
 
