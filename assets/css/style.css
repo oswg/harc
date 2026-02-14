@@ -144,9 +144,25 @@ img.custom-logo {
   max-width: 600px;
 }
 
+/* Desktop: align page title top with logo top in sidebar */
+@media only screen and (min-width: 955px) {
+  #main {
+    padding-top: 5.88vw; /* 20% of sidebar width (29.4118%) ≈ logo offset */
+  }
+  .page-header {
+    padding: 0 7.6923% 7.6923% 7.6923%;
+  }
+  .hentry {
+    padding-top: 0;
+  }
+}
+
 @media only screen and (max-width: 955px) {
   a.custom-logo-link img {
     display: none;
+  }
+  .site-content {
+    padding-top: 3rem;
   }
   .entry-title {
     clear: both;

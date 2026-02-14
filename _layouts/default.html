@@ -40,7 +40,7 @@
 				{% endif %}
 				<h1 class="site-title"><a href="{{ '/' | relative_url }}" rel="home">{{ site.title }}</a></h1>
 				<p class="site-description">{{ site.description | default: 'Inspirational messages from the Confederation of Planets in Service to the One Infinite Creator' }}</p>
-				<button class="secondary-toggle" aria-label="Menu and widgets">Menu and widgets</button>
+				<button class="secondary-toggle" aria-label="Menu and widgets" aria-expanded="false">Menu and widgets</button>
 			</div>
 		</header>
 
@@ -85,5 +85,7 @@
 			</div>
 		</footer>
 	</div>
+
+	<script src="{{ '/assets/js/secondary-toggle.js' | relative_url }}"></script>
 </body>
 </html>

@@ -9,6 +9,7 @@ layout: default
 {% assign doc = page %}
 <article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
+    <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle">
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
@@ -16,7 +17,6 @@ layout: default
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
-    <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle-mobile">
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>

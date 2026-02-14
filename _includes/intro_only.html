@@ -5,8 +5,8 @@
 {% assign post = include.post %}
 <article class="post" id="post-{{ post.id | slugify }}">
   <header class="entry-header">
-    {% include post_subtitle.html item=post %}
     <h2 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+    {% include post_subtitle.html item=post %}
   </header>
   <div class="entry-content">
     {% assign intro = post.Introduction | default: post.introduction | default: post.excerpt %}
