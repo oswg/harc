@@ -115,6 +115,15 @@ img.custom-logo {
   content: " | ";
 }
 
+.post-audio {
+  margin-bottom: 2rem;
+}
+
+.post-audio audio {
+  width: 100%;
+  max-width: 600px;
+}
+
 @media only screen and (max-width: 955px) {
   a.custom-logo-link img {
     display: none;
@@ -136,4 +145,19 @@ img.custom-logo {
   .site-title {
     margin-top: 0;
   }
+}
+
+.page-title {
+  margin-bottom: 1.5rem;
+}
+
+.page-description {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: #666;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }

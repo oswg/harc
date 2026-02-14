@@ -1,5 +1,6 @@
 {% comment %}
-  Single post in a list (index, archive, search). Pass post in include.post.
+  Post introduction for home page, archive, etc. Pass post in include.post.
+  Shows Introduction from front matter, or excerpt, with link to full transcript.
 {% endcomment %}
 {% assign post = include.post %}
 <article class="post" id="post-{{ post.id | slugify }}">
@@ -8,7 +9,14 @@
     <h2 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
   </header>
   <div class="entry-content">
-    {{ post.excerpt }}
+    {% assign intro = post.Introduction | default: post.introduction | default: post.excerpt %}
+    {% if intro %}
+      {% if post.Introduction or post.introduction %}
+        <p>{{ intro }}</p>
+      {% else %}
+        {{ intro }}
+      {% endif %}
+    {% endif %}
     <div class="excerpt-permalink">
       <a href="{{ post.url | relative_url }}">Go to the transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>
     </div>

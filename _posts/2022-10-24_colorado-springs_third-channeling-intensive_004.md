@@ -1,0 +1,149 @@
+---
+Date: '2022-10-24'
+Circle: colorado-springs
+title: Q'uo on Third Density Systems of Control
+Event: third-channeling-intensive
+Session: '004'
+categories:
+- Circles/Colorado Springs Circle
+- Contacts/Q'uo
+- Events/Third Channeling Intensive
+- Instruments/Jeremy
+- Instruments/Joseph/Claire
+- Instruments/Steve
+- Topics/Acceptance
+- Topics/Body Complex
+- Topics/Choice
+- Topics/Control
+- Topics/Desire
+- Topics/Despair
+- Topics/Discernment
+- Topics/Faith
+- Topics/Fourth Density
+- Topics/Free Will
+- Topics/Group Mind
+- Topics/Individuality
+- Topics/Overcoming
+- Topics/Service
+- Topics/Social Memory
+- Topics/Third Density
+audio: /assets/audio/ci03s04_quo_2022-10-07.mp3
+---
+
+## **Introduction**
+
+Those of Q’uo discuss several aspects of third density systems of manipulation and domination that we experience in our individual lives, making key connections and distinctions between the single self and the collective nature of participation in these systems. Liberation is discussed in a variety of senses: as a surrender to the rightness of our catalyst and the salutary nature of manifestation, as a project of the self freeing itself and reaching back to others, and as a communal project that seeks to subvert the control of individuals with coordinated self-expression. While Q’uo refuses to direct our outward expressions of emancipation, they do offer several thoughts on how to identify the liberatory project in our service and conduct.
+
+## **Group Question**
+
+Upon the service-to-others path, how does one best emancipate oneself from third density systems of control and manipulation?
+
+## **Channeled Message**
+
+_(Claire channeling)_
+
+**I am Q’uo** and I greet you in the love and the light of our One Infinite Creator. It is our great honor to be with you once again and we would encourage you, who serve as instruments to us, to let go of your expectations of what channeling ought to be. After all, we have the contact already and this is what channeling is.
+
+We would also remind you that what we have to say comes from our own perspective and should be taken into consideration only as an alternative perspective in the way you would regard any other alternative perspective. The value of our words should lie not in the authority that you might ascribe to us, but in the resonance that it might have with you.
+
+You have asked us about the options available when one finds oneself under some system of or some mechanism of control within your third density illusion. In the first place, we should emphasize that we do not claim to know a best way to respond to such a situation. But we can speak to the features of such a situation nevertheless.
+
+You would do well to recognize that mechanisms of control are replete throughout your third density. Control is one of the games or one of the primary mechanisms that you have committed to engaging with in undergoing a third density experience. Each must be subjected to and engage in control of other selves or by other selves in order to determine for themselves whether this is the kind of experience that that person might choose for themselves. For this reason, you should expect to see mechanisms of control everywhere. They are difficult to escape. It is as if the entire third density, at least from one perspective or one way of seeing it, is constituted by systems of control all the way down. And in fact the view that it is systems of control all the way down is precisely the aim of a service-to-self oriented perspective. It becomes difficult to see what love and acceptance might really be. Underneath the mushy layer, such an entity might be tempted to find ulterior motives of control, and if not be confounded at the inability to identify [those motives]. This is not to say that the service-to-self polarity is ignorant of the possibility of love; [rather, it is] suspicious of the sincerity of those who claim it. And rightly so, for indeed the tool or the game of control is one that each still engages in subtle ways, even along the service-to-others path.
+
+Consider a single relationship between yourself and a loved one. How often do you find yourself attempting to commandeer the kind of relationship that you will have with this person, or to set the terms of the relationships without fully respecting the terms that the other would prefer for the relationship? It is difficult to meet in honest cooperation, and easy to slip into subtle techniques of manipulation. And we would suggest that, unless you have walked the path to a very far extent, then yet in your future, there will be moments you will discover yourself to have been manipulative in ways you did not realize.
+
+Now to the question: what might one do, how might one respond when one discovers oneself within a system of manipulation or control? How might one emancipate oneself to remove oneself from this system, to take back control, so to speak, without yet deviating from the service-to-others path. On the one hand, it depends on the context. Each system of control will be different. For example, do you prefer to transform the relationship into one that is no longer controlling, or do you abandon the very idea of such a relationship because you do not think it is possible? The response that you might prefer to take depends on which of these circumstances you believe to obtain.
+
+But rather than explore all the many possibilities, we would prefer, through this instrument, to focus on a single point, a single topic, which is: the circumstance in which you might find yourself clearly to have been manipulated by a larger social structure in relation to which one cannot expect to find mutuality. In such a situation, it seems obvious that one must separate oneself, that emancipation is cutting oneself off from this social structure. Yet thi is not always possible. If the social structure is voluntary, purely voluntary, which is to say, an association one can do without tomorrow, like a club, then sure maybe it’s easy to extricate oneself from the system of control. But rarely is this the case since the control such a social entity would have over you would be commensurate with its predominance in your life and the meaning it has in your life. When such a social structure is meaningful as a means of interacting with others along the path, shirking off the structure seems like a loss of self. Emancipation is, indeed, a tricky accomplishment.
+
+And the truth is, in many ways there will not be a possibility for outward emancipation from a system of control. For example, it is unlikely that any of you will not live under a state, as you might call it. You can escape from one state to another, but you still live under the potential of coercion from a state. In some ways, this is a system of control, but again you face the question whether it’s a system of control that you wish to discard, even though it’s impossible, or [whether] you can hope to become a contributing member, under the aspiration of making it perhaps, slightly less controlling and more empowering. For the flip side of the coin of the idea of control and manipulation is the mutual empowerment of individuals in constituting the capacities of a social structure, capacities that can only exist through human collaboration. In such a case the emancipation has to be more of a spiritual emancipation. When you cannot outwardly, or you feel that it is not viable to outwardly shrug off the system that feels manipulative to you, then one must develop for oneself, if possible, a perspective on this feature of the world, in which you still have freedom to roam. After all, for any boundary you might carve out and be stuck within, there is still freedom of movement within that boundary, confining as it may feel. So, with that rather inadequate seeming expression of an answer, we would transfer the contact now to the one known as Jeremy. I am Q’uo.
+
+_(Jeremy channeling)_
+
+**We are those of Q’uo** and are with this instrument at this time. We wish to build on this message, not to address directly any inadequacy, [but] only to sketch out what control actually is in a Creation of free will in which subject and object are dancing about the problem.&nbsp;
+
+To the extent control and manipulation constitute a problem at all, it is largely in clearest view from your density. Do second density entities suffer under control? Not so much; there is no other perspective from which to view the exercise of power. The second density entity surrenders to nature, a much more all-encompassing form of control than any of you could possibly abide. No, it is when questions of choice intrude into the consciousness that suddenly an aversion to outer direction, a refusal of constraints that previously were involved in the formation of an entity as an entity itself, begin to grate against the aspiration that reflective self-consciousness tends to formulate.&nbsp;
+
+Now, we are aware that the experience of being controlled is one that tests one’s spiritual suitability to the wide vistas of possibility that the higher densities are offering you. One of the lessons of third density coalesces around the many varieties of surrender as well as the varied flavors, shall we say, of subjugation and even humiliation, for these are potent feelings. They are among the most catalytic of experiences because they call deep within the self for that self to make of itself a purposeful life. What would a purposeful life mean as a slave, we ask you? However, you probably suspect there is in essence a fantastic lesson in the experience of domination, one that might trouble you. And yet how else could you explain its frequency in the human condition throughout its history?&nbsp;
+
+This is not pleasant, is it? It is not a comforting idea to contemplate how the most abject lowness within the social energy complex has within it the seeds of liberation. We would not ask that you offer yourself as the lamb to the lion willingly. And we would not hold you back were you to fight for the right to be a peaceful flock. Indeed, one of the prophecies being realized at the cusp of the new age was recounted in your holy works: that the lamb and the lion shall lie down. We will not unravel this symbol further, but we will point out: _both_ lie down. There is a release of the contest.&nbsp;
+
+This does not occur, we would simply point out, on an individual basis, for there are two ways to think about subjugation and liberation: the individual and the group. Which calls to you? This is important for you to meditate upon, and more urgent if you feel that you cannot realize your true will. For the desire that we hold out as the engine of evolution in our way of understanding Creation–this desire must be embraced, and the frustration of unrealized desire burns just as much fuel. When the engine is idling, it is still powerful; it still takes fuel.&nbsp;
+
+What we can offer you [are] tools, possibilities of changing the perspective, so that a spiritual project is always in view. The work comes from resigning yourself to the position you find yourself in. It is a surrender to the goodness of the present moment, the suitability of a larger self exercising choice, even if you do not have direct access to the decisions that placed you here.&nbsp;
+
+We reflect on this instrument’s experience of questions of control, a frequent and painful thread of thought he has struggled with mightily (some would say he has struggled overly), but those who do not move do not feel their chains. And yet, are there ways of chaining spirit? Are there ways of chaining minds? Of course there are, but they do not come from without.&nbsp;
+
+Part of the surrender involved in the path of the adept is the recognition of the inherent goodness of one’s place in time and space. This is what is meant by “all is well”. It does not mean all is well for whatever mindset you might entertain. It means, you have only to change the mindset, and suddenly the opening is placed before you.&nbsp;
+
+This is unsatisfactory information for those who are impatient, for those who hurt with their fellow entities at how runaway concentrated power is. But there is another side to this, for how much human progress would obtain absent concentrations of power? Participation is the missing ingredient. Participation is not solely on one’s own terms, we are sad to say. It must be a communal liberation to go in the direction that does not simply subvert master and slave, and simply turn the power dynamic around so that the former slave is suddenly master. There must be a way out of this “ping-ponging”.&nbsp;
+
+It starts with the individual; does it end there? For some, yes. Yet we would point out that these entities who have managed to liberate themselves do not escape, oh no. Like many in this difficultly experienced third density planet, they reach their hand back, just as we reach our hand back to you.&nbsp;
+
+You do not have to approve of this state of affairs. Your approval, your agreement is unnecessary for you to learn [from it]. That is one of the keys to the frustration that many feel, the tumult of power and domination that seems to churn through the body politic, the social energy complex that never seems to come into awareness of itself from the point of view of your commentators and pundits. So look not to them for your guidance; they are decorations on the wall. The plan to get where we are going requires focus and a lack of distraction.&nbsp;
+
+To elaborate on the valence of thought and feeling that can attend these human experiences of power, control, manipulation, we would release contact from this instrument at this time and place the contact onto the instrument known as Steve, thanking this channel for its concentration. We are those of Q’uo.
+
+_(Steve channeling)_
+
+**I am Q'uo** , and we are with this instrument. If we may now return to the concept of emancipation itself, there are two points we would wish to make concerning the way we would emplace this issue within the context of your spiritual seeking.
+
+In the first place, we would point out that there is a sense in which each who is incarnate in third density is always already fully emancipated. Or perhaps that word itself is insufficient to describe the condition of utter and absolute free will that has never been under the yoke, and never could be. For that is the nature of your spiritual being, and that is the nature of the true character of your ownmost will. So, taking that into account, one might well conclude that the essence of emancipation lies in the project of self-discovery and self-recovery. One only needs to find out who one truly is to realize no emancipation is even necessary.
+
+Now, having said that, we must say also something which goes in the direction that is completely opposite to this point. And that is that, for the most part, and even up to the point of near totality, when one seeks to manifest the self in the context of a world full to brimming with aspirations towards power implicit in the effort of self-manifestation of millions upon millions of other souls around, that it is a near certainty that one will feel bound, restricted, and controlled by forces too many to count, and too powerful to contend with.
+
+And so the freedom that we have just touted, the freedom of the spirit, seems like a small sliver of consolation when one realizes that a capacity for manifesting is so strictured that it feels almost reduced to nothing. Now of course there is a great deal of significance contained in that qualifier, "almost," but that significance itself is easily lost in the maelstrom of struggle.
+
+Now we have said that the difficulties with this always already emancipated spirit come about when there is the need for manifestation. Presumably, therefore, we could say as a corollary to that statement that there is no such need for the unmanifest self. We would call your attention to the fact, therefore, that the unmanifest self is always and forever your very best friend, in the sense that it is a resource you may always call upon as you seek to wend your way through the tortuous paths of manifest existence. But let us ask this: why must one manifest in the first place? Why subject oneself to these powerful and almost all-embracing encumbrances? Why risk the trouble?
+
+And the answer is not hard to find. For one risks the trouble of manifestation, or, if you prefer, incarnation, because there is, within your own unmanifest self, one great and abiding urgency. And that is that it shall grow and evolve, so that it may come back to its source a more eloquent expression of that source.
+
+That is such a fundamental requirement, discovered within the very nature of the unmanifest self, that so deeply and abidingly mandates the necessity of manifestation, that the latter, that is to say this manifestation, must be seen as an inevitable by-product of the effort to grow. And one, therefore, willingly takes on the challenge supplied by the contorted, agonized field of struggle that is the material world, so to speak, that you inhabit in the third density of light vibration.
+
+And we would say one more small thing about the dynamics of that inhabitation. It is this: the condition for the possibility of successful inhabitation within third density is that a self shall be built upon the manifest level, and lo! it turns out that the raw materials available for the building of the shell of self in the manifest world are the very substance of that world. And so to a very great extent, the very self that each self considers itself to be will be made up of what we might call energies alienated, domineering, and controlling.
+
+One learns to set one source of energy against another, and another against another, and another against another, in a complex web of intricately inter-related power-structures internalized within the self. So that the product, which is actually always a work in progress, is but a shell that can be used for two purposes.
+
+One: it has a function of protection from the most deleterious effects of those outside energies, those greetings from without, shall we say, that could potentially be harmful to a self which is ever vulnerable to being wounded, even to the point of incapacity.
+
+And the other function of this shell is that it becomes a system whereby it is possible to project energies back out into this maelstrom, this complex of energies which is your society, in such a way as to allow for a mirroring function of that society, which, when it is engaged, allows the self to see itself in ways it could not previously do. The self is revealed through its engagement in the mirror of society.
+
+And so when the question arises: "Who am I?" the resources I have to draw upon in coming to an answer will, in the first instance, bear the tincture of arrangement already long since afoot in the society into which I am born. And I must work with tincture upon tincture in generating the qualities of the more inward dimensions of the manifest self.
+
+Now, to be sure, these resources, which I have drawn inward from without, can themselves be the source of limitation, even to the point where a vulnerable self struggling to maintain itself in manifestation feels almost completed strangled. And _that_ description seems vastly understated in relation to the potentials of outward domination that are, from time to time, so overwhelming as to not even allow me to take in, in any kind of healthy way, these social resources with which I seek to built the inner structuration of my manifest self.
+
+And so, yes, my friends, how can we disagree with you when you lament the difficulties of emancipation? We, who bring you only a _spiritual_ message, can only point to that seemingly powerless, elusive thing called spirit that never is manifest. And so _therein_ lies your best resource of all. But we know, and you will hold us to this, that the whole point of your entire pattern of incarnation is to sally forth from that little point of absolute freedom so that you may come to see yourself in that vast system of resistances in such a way that it is only the vaguest trace that you left behind that is the hint or clue of who you really are. And these traces are easily effaced by events so vast as to be utterly out of your control.
+
+So, we must apologize, my friends, for being those who are better able to describe to you the nature of the problem than to prescribe to you the nature of the solution. The hope is simply that, by understanding the nature of the problem just a little better, the possible solutions might suggest themselves to you in the process of living out the drama of your lives.
+
+We are those of Q'uo, and at this time we would take the measure of our communication a little more through the one known as Claire. Adonai.
+
+_(Claire channeling)_
+
+**We are Q’uo** and we are again with this instrument.
+
+Now we would be remiss if we did not note that liberation is not purely a self-oriented affair, especially not for those of you who attempt and often succeed to walk the service-to-others path. Indeed, liberation, spiritual liberation, is the project of a lifetime. Many lifetimes, in fact. And this liberation comes through the discovery of the means of manifesting self in a world shared with other selves in a way that does not attempt to constitute that world as purely a manifestation of self. How an I interact with another? How can I be myself, together with another self, who can also be themself? On the service-to-others path, the effort to manifest self is not limited, it does not end at the orange ray or the yellow ray expressions, where the orange ray is an assertion of the unique identity of the individual, as valuable in its own right, and the yellow ray is the assertion of that identity as a powerful entity with social affairs. For should you stop at this form of manifestation, should this be characteristic of your own liberation, then indeed you will not have lain down next to the lion or next to the lamb. You will have continued to engage in the fight, to assert yourself.
+
+My friends, manifestation on the service-to-others path, the spiritual manifestation, comes initially through the blue ray, the outpouring of the heart into the world around you, where the contents of your heart accrete in your environment and populate it with that self expression, that adoration for the world itself, that will to commune with the world, for it to be as it is and yet for it to be amenable to you and for you to be amenable to it. My friends, if you ask yourself only, “How might I become liberated?” you have only asked half of the question on the service-to-others path. For you need each other. And, more importantly, should you become liberated–should you be so lucky, and we hope that you are–then that spiritual liberation itself will become a drive, an inexorable desire to assist others in manifesting the same for themselves. Emancipation from systems of control cannot be turned in upon itself. It must be outward moving.
+
+And although you, each of you, must be subjected to, must endure the path of evolution on your own terms, that path is more surely walked, more joyfully walked, if what you accrete around you is those of like mind, who, themselves, seek out others in the world who call for liberation, who _want_ liberation, perhaps in some ways materially, but also spiritually. The idea that there is an opposition between spiritual activity and the outward manifestation of a liberated world for all and that the two move independently from one another is not necessary. This view is not the only option. For if your efforts at spiritual manifestation, at the projection of self through the blue ray, rather than just the yellow, if your efforts at this manifestation are in fact other-oriented as they could not but be, then in your own way, you will in fact participate in bringing about that world. You need not know how. An overarching plan need not come from you or even be known to you. In joining arms with your brethren and your sisters, you will find the accretion of this manifestation expanding outward, ever outward, ever outward. And though you may not live to see it, systems of control can buckle under this influence. We encourage you to hold on to that hope, though things may seem dark.
+
+Before we take our leave, we would ask if there is any final question from those in this circle. We are those of Q’uo.
+
+**Jeremy:** Q’uo, I have one question. I resonate strongly with the need for liberation to be a bigger project than simply the individual. Does Q’uo have any suggestions or ideas to impart to us about how we might communicate with our brother and sister to move this along, this liberatory project?
+
+**I am Q’uo.** Thank you for the question. We would turn back upon the last thought communicated. What is the blue ray manifestation but a communication of your heart outward into the world, the projection of the green ray energy outward? To give a specific suggestion would impose too strict a structure upon the possibilities of this kind of communication. What, indeed, is in your heart? Do you love your sibling, your comrade? If you love them, manifest that love in your actions. How does that look? It can look so many ways. If you’re looking for a plan, then we might suggest that the heart is not a planner. We worry this answer does not satisfy, so we encourage you to follow up with another question. We are those of Q’uo.
+
+**Jeremy:** Well, perhaps I might follow up with just this little point. Is there any particular approach we might take to realizing the love we have for our brothers and sisters that would motivate this, that would be different than the normal project of spirituality?
+
+**We are those of Q’uo.** We believe we understand the question. In truth, spiritual projects are, it is hoped, of any variety. Anything can be spiritual. So, if your conception of a spiritual project is narrow, then we encourage you to expand it. Where, in your engagement with the world, do you find love lacking? Where do you find yourself struggling to manifest through the blue ray by projecting that love outward? Wherever that is, that is the place that needs your attention. Does answer satisfy? We are those of Q’uo.
+
+**Jeremy:** Yes, but let me confirm that, in the specific case of that form of love that tends towards the political, that those of Q’uo are saying that I must ask that question within about where the gap of love is in my own sort of inner political situation. Do I understand Q’uo correctly?
+
+**We are those of Q’uo.** We do not mean to say that the political was inside you all along. Rather, what we mean to say is that the political extends, at least for you, to the limits of your engagement with the world. It is true that you will not be capable of being a liberator in the service-to-others sense unless you are capable of projecting that love outward in the blue ray. In that regard, yes, inner work is absolutely necessary. And additionally, in the sense that, in truth, all efforts are efforts at processing your own catalyst, then one could take the view that it is all inner work. Rather, what we mean to say is that you have contact with the world around you. And, for your part, being a political actor in the blue ray liberatory sense entails evaluating the nature of that contact. Each sphere of your life, each way that you touch on upon the world, have you done so through the blue ray? Can you do so more fully? And if so, there lies your project.
+
+Conversely, if some other contact with the world should call you, if it should feel like the need that you have to manifest your blue ray self should expand, should make new contact with the world, then we encourage you to do so. But, again, it need not be through cleverness. Better to follow the lead of faith if you must have a plan. Or anyway, this we would encourage for those who seek to walk further on the service-to-others path. Shall we speak further to this question?
+
+**Jeremy:** No, you’ve been very generous, Q’uo. I greatly appreciate it.
+
+**We are those of Q’uo**. With that, we shall take our leave in the endless love and abundance of our One Infinite Creator. It has been our pleasure to commune with your group. Godspeed to you all. Adonai.

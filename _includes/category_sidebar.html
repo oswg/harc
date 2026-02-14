@@ -1,0 +1,17 @@
+{% comment %}
+  Sidebar category widgets: Circles, Topics, Events, Contacts, Instruments.
+  Uses site.data.grouped_categories from the category generator.
+{% endcomment %}
+{% assign grouped = site.data.grouped_categories %}
+{% if grouped and grouped.size > 0 %}
+{% for group in grouped %}
+<aside id="custom_category_widget-{{ forloop.index }}" class="widget widget_custom_category_widget">
+  <h2 class="widget-title">{{ group.parent }}</h2>
+  <ul class="widget-list">
+    {% for cat in group.categories %}
+    <li><a href="{{ '/category/' | append: cat.slug | append: '/' | relative_url }}">{{ cat.child }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endfor %}
+{% endif %}

@@ -1,0 +1,55 @@
+---
+Date: '2024-12-08'
+Circle: harc
+title: Laitos on Humility
+Event: sixth-channeling-intensive
+Session: '009'
+Introduction: Here Laitos delves into humility as a multifaceted virtue essential for spiritual growth, emphasizing its role in fostering learning and deepening relationships. Humility is contrasted with pride, which is depicted as a fear-based defense, and the discussion highlights the freedom and authenticity that come from embracing humility. The concept of dignity is also explored, suggesting that true self-worth complements humility, allowing for a balanced sense of interconnectedness and self-respect.
+categories:
+- Contacts/Laitos
+- Events/Sixth Channeling Intensive
+- Instruments/Baris
+- Instruments/Jamie
+- Instruments/Linus
+- Topics/Humility
+- Topics/Individuality
+- Topics/Law of One
+- Topics/Protection
+- Topics/Respect
+- Topics/Self-consciousness
+- Training Session
+---
+
+## Channeled message
+
+_(Linus channeling)_
+
+**I am Laitos** , and we wish to extend our gratitude for the invitation to join your circle at this time and blend our energies together with you in your desire and seeking to hear our thoughts about humility. Prior to sharing our thoughts, we ask that each individual exercise their faculty of discernment to carefully choose those things which can be found to be in resonance with the self and one's chosen path of seeking at this time.&nbsp;
+
+We wish to begin our thoughts with a question. What is it to be humble? And as one treads along the path of seeking the One Infinite Creator and as one comes to the knowledge of self as Creator, what does humility mean when one is all that there is?
+
+Humility, in our experience, is a lesson which one may find oneself repeating again and again. With, at times, harsh reminders that there is still much to learn, no matter where one finds oneself in the spiritual journey or in one's day-to-day life. Humility can be seen to be both an attitude and a practice. An attitude in how one chooses to relate to others with what one knows, what one doesn't know, what one perceives another to know, and the view of self and other self, and the potential in relationship. A practice of humility may exist in a continual re-examination of the attitudes one holds.&nbsp;
+
+It can be difficult, at times, to tease apart what is skillful in regarding oneself in terms of dignity, confidence, knowledge, skill, progress, and development. But with this virtue of humility, it is a great key that can unlock blocks to learning and relationship and hidden paths that otherwise remain unseen and not imagined.&nbsp;
+
+We are Laitos, and at this time, we transfer the contact to the one known as Jamie.&nbsp;
+
+_(Jamie channeling)_
+
+**We are Laitos** , and we pick up this topic on this curious concept of humility, one that would only be a consideration for those in a veiled existence. We enjoy on this planet a certain sense of privacy of thought, where we may tell ourselves stories, construct our own identities within the confines of our own minds. It even obscures the mirroring when we see ourselves reflected back.&nbsp;
+
+Yet there are constant challenges and reminders that come up against our perceptions of ourselves. It seems so necessary to put on a facade, yet also so freeing to take down the facade and have the courage to reveal your true self, a certain freedom in true humility that if, with the expression of our true selves without pretense, can be accepted; that all the efforts and machinations and strain we put on ourselves to uphold pride and arrogance is no longer necessary. We can get a taste of what it is to be seen and understood and loved without condition. In your world this is often perceived as a weakness, yet is it not true freedom?
+
+We would at this time take our leave of this instrument and pass the contact to the one known as Baris. We are Laitos.
+
+_(Baris channeling)_
+
+**We are Laitos** , and we are with this instrument. Let us continue looking closely at pride.&nbsp;
+
+Pride is a set of walls, a set of protections that one puts around the heart because one fears one may be lacking. The fear underneath pride gives rise to the desire to tell oneself that one is above others, that one is okay, that one is good, but out of fear, not love. As you work with your hearts and feel into the void that you feel, as that void heals, you get to a place of self-acceptance and self-compassion.&nbsp;
+
+Humility comes from the recognition that through your hearts you are connected, in your hearts you are one. One is not better or worse; one is connected. In that humility there is joy. In that humility there is love, there is connection, there is knowing that all is well.&nbsp;
+
+You've touched on dignity. Let's explore dignity in relation to humility. Dignity is knowing your self-worth. You are precious. One can be humble as one connects from the heart and dignified knowing one's worth, loving one oneself as one loves the other. Isn't the recognition that you are all one that you are both nothing and you are everything, and as such you are both dignified and you can keep a humble heart, a connected heart, a loving heart&nbsp;
+
+My friends, we feel we've explored this topic explore this topic for tonight and wish to take our leave of this instrument. We leave you in love and light of the One Infinite Creator. Adonai vasu borragas. ☥

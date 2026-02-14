@@ -10,7 +10,7 @@ layout: default
 </header>
 
 {% for post in page.posts %}
-  {% include post_excerpt.html post=post %}
+  {% include intro_only.html post=post %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

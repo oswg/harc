@@ -1,0 +1,142 @@
+---
+Date: '2022-10-24'
+Circle: colorado-springs
+title: Q'uo on the Catalyst of Overwhelm
+Event: third-channeling-intensive
+Session: '010'
+categories:
+- Circles/Colorado Springs Circle
+- Contacts/Q'uo
+- Events/Third Channeling Intensive
+- Instruments/Jeremy
+- Instruments/Joseph/Claire
+- Instruments/Steve
+- Topics/Acceptance
+- Topics/Anxiety
+- Topics/Balancing
+- Topics/Biases
+- Topics/Body Complex
+- Topics/Catalyst
+- Topics/Control
+- Topics/Desire
+- Topics/Despair
+- Topics/Discipline of the Personality
+- Topics/Emotions
+- Topics/Faith
+- Topics/Forgiveness
+- Topics/Healing
+- Topics/Higher Self
+- Topics/Pain &amp; Suffering
+- Topics/Wisdom
+audio: /assets/audio/ci03s10_quo_2022-10-09.mp3
+---
+
+## **Introduction**
+
+In this final session from the Other Selves Working Group’s third channeling intensive, those of Q’uo discuss the diverse circumstances in which an entity can suffer from feeling overwhelmed or flooded. Organizing these instances by their temporal orientation, Q’uo catalogs several energetic, catalytic, and emotional components that come into various levels of play in each type of overwhelm. Q’uo offers some general tips on balancing these feelings and relating to the pain and fear they can instigate, closing with a general message of encouragement for the instruments.
+
+## **Group Question**
+
+What can Q’uo say about the catalyst of becoming overwhelmed or flooded?
+
+## **Channeled Message**
+
+_(Claire channeling)_
+
+**We are Q’uo** , and we greet you in the love and light of our One Infinite Creator. We are most pleased to be with you yet again and are grateful you have made space and time for your communion with us.&nbsp;
+
+We will remind you as we always do that there is no substitute for implementing your own critical resources in judging the value of a message. We offer what we have; we speak as truly as we can. However, we are not all-knowing, nor are we always successful in communicating what is most helpful. Moreover, your diligence in employing your critical faculties permits our fullest expression, so we thank you for maintaining this arrangement of openness between us.&nbsp;
+
+The question that we have been asked to speak to focuses on the feeling of overwhelm in its manifestation as a form of catalyst. In the first instance, we should remind you that any feeling you have that energizes your experiential nexus is itself a form of catalyst. So overwhelm itself is always catalyst. We will also note at the outset that overwhelm can be about many different things, and that we do not see a single unified treatment of overwhelm as a possibility in characterizing the way this feeling serves as catalyst. We will, then, speak to different kinds of overwhelm, based on their different types of causes, the different ways of producing overwhelm.&nbsp;
+
+In the first instance, we will begin with a discussion of the feeling itself. Each entity has a guidance system, an important part of which is that entity’s higher self. Another important part of this guidance system is the entity’s preincarnative plan for the incarnation, many features of the incarnation, of course, being left open to discovery. And there are still other features of your guidance system, such as your personal guides and any inner planes or outer planes with which you may have a relationship. These guides, these different forms of assistance that are available to you, are involved in the way that you relate to and process your catalyst. This is most especially true in the first two instances: that of the higher self and the preincarnative plan. So, what can it mean to feel overwhelmed?&nbsp;
+
+The first kind of feeling would be the sense that what one is currently dealing with outstrips one’s spiritual resources–that the intensity of experience, the intensity of catalyst facing oneself, overmatches the resources one has on hand for processing that catalyst, and these resources of course are the inner biases you have developed for identifying and then making use of the various experiences that charge your experiential nexus at any given moment. When it seems that catalyst overmatches this internal set of resources, it may then seem that your guidance system has failed you, that perhaps the higher self has asked too much, or that the preincarnative plan was too grand, or even worse: that some more cosmic failure has occurred, or that in fact the condition of the universe is uncaring. Feeling overwhelmed in this sense is a form of intensification of the mechanisms of personality that alert you to the existence of something in your experiential nexus that is demanding attention or that has, to be more precise, been activated in your auric field as a means of mirroring some element of self to self.&nbsp;
+
+It is entirely possible and even common to discover that, in the maelstrom of third density, there is so much that is being mirrored back to you that charges your experiential nexus in that moment. And not only is there so much coming at you, but of many different varieties. And when stacked together, it registers as a monolithic whole, a hard lump within the self that resists softening through the processes that you may have become accustomed to applying when you find your experiential nexus so charged.&nbsp;
+
+Another way of experiencing overwhelm is not through the intensity of the current catalyst that bombards the self, but the way this catalyst awakens something older and generates a resonance that starts rattling around in the heart, that awakens an old sleeping burden, and now one is left with a new set of feelings that one did not need to address until it was reawakened. In this instance it need not be the case that the exposure to a series of intense phenomena seemed to stack too high; rather, one is reminded of the overall weight of the incarnation itself, and that instance what seems like it is too heavy is a bias that one has already accrued, and that resists one’s effort to unwind.&nbsp;
+
+So we see at least two different kinds of overwhelm that may occur. The first is an overwhelm that speaks to present conditions, and the second is an overwhelm that speaks to the past. Now, what may be done with these modes of being catalyzed; or more specifically, how does one go on after becoming overwhelmed without dismissing somehow or sidestepping what overwhelms the self?&nbsp;
+
+For a seeker such as yourself, when faced with these forms of intensity, these strong emotions, such a seeker cannot suffer simply repressing them. This would be antithetical to the commitment that you have made within yourself to become a greater friend to yourself and thereby a greater friend to your other selves. At the same moment, the feeling of being overwhelmed makes you wish for the feeling to be extricated from the self and tossed somewhere else, and in that very same moment the feeling itself calls for your attention to somehow make use of it, and in so giving the attention one yet finds oneself once again overmatched.&nbsp;
+
+In the first place, my friends, we remind you of the importance of being gentle with yourselves, for it is a strange paradox of the service to others path that accepting the self can’t be done by demanding oneself accept oneself. The acceptance must go all the way down. So if there’s an experience, an emotion, or a reactivated wound that produces in oneself something that cannot properly be accepted–well, at least you can accept that you cannot accept, and so there is, maybe not acceptance all the way down, but some step forward.&nbsp;
+
+We would also remind you that it is typical–standard, even–for you to develop biases in third density that do not get ironed out until later. The statue forged in the fire is rough hewn, and the tools you have with which to carve that statue are crude. So once again we might suggest that the expectation that one might one day nevermore become overwhelmed is unrealistic; your illusion is overwhelming, my friends.
+
+Yet, these sorts of responses may seem inadequate, for as we have said, at the same time as the overwhelm produces the desire to extricate it from the self, it also produces the desire to find some way to process the very large bite one seems to have bitten off. Well, we could perhaps mention some practical measures, such as removing oneself from exposure to further catalyst insofar as is possible. The constant onslaught of catalyst, the new emotions produced with every moment, will make it difficult to deal with what one has already on hand.&nbsp;
+
+This may not always be possible, but it is also helpful to plan for oneself a time of rest, and in that time of rest, should you be sincere about addressing what overwhelms the self, you will make space for that process. It is tempting in your illusion for the rest to be a rest of distraction, nor do we naysay the rest of distraction, since this, too, is a form of rest, though it does not unwind the knot of overwhelming emotions, it does give oneself space from the pain of the emotion. So it is well to include in one’s effort at distancing oneself from the nexus of overwhelm to program in, so to speak, some time of distraction to serve as a buffer from normal time to your dedicated processing time.&nbsp;
+
+Moreover, should you decide to engage in such an intentional time of attention to the overwhelming catalyst, there are other tools that you may find additionally helpful. The meditation is the obvious one. Nearly as obvious is another self willing to work with you, for dialogue is often fruitful in discovery, especially with another self who is enthusiastic about your process of polarization. Another helpful tool is, once again, the awareness of being gentle with yourself.&nbsp;
+
+It is an equal temptation, perhaps the opposite temptation, to fill in one’s rest with distractions, the opposite temptation being filling one’s rest with discipline. Well, in that case, it is not restful at all. If one attempts to spend every waking moment constantly pouring over efforts to accept the self, then one may well find that one has slipped into the demand that one accept the self. And this demand, as we have said, is self-defeating. This method may be helpful for either form of overwhelm, though the second form, the old wound as we have spoken to not long ago, is a longer term process. In such cases it may just be that one needs to grieve for a time.&nbsp;
+
+And before we pass this contact to the next instrument, we would mention one further form of overwhelm that you may find yourself faced with. And this form is less about the emotions and more about the sheer sensation, the energy networks of your social complexes are abrasive, and they are more abrasive the more sensitive one is, the more open one becomes to influxes of energy. This process of opening oneself is characteristic of the service to others path, so one should not be surprised if it turns out that what used to not be bothersome or upsetting to the self, now is. And in such a case, since the catalyst is not primarily emotional in nature (though it may produce emotional responses in virtue of the energy it costs to be overstimulated and then recover from the overstimulation), this can produce the frustration of never feeling that one has the resources to meet the day.&nbsp;
+
+This form of overwhelm calls for a reconsideration of one’s exposure. The body has become a sensitive instrument and so must be treated as a sensitive instrument. It must be treated as the delicate object that it is, and tedious and frustrating as that might be to you, it is all the more frustrating, we would suppose, to be constantly thrown into environments that tax the resources of self purely in their sensory qualities. The project of attunement to the body, the disciplines of the body, is itself a soul project that, though not required for becoming harvestable, becomes ultimately necessary at some point along the path of committed and dedicated seeker who attempts to constantly polarize and to improve its quality as an instrument of the Creator and a servant to those around it.&nbsp;
+
+With these forms of overwhelm and the potential responses to them laid out on the table, we will now continue our discussion through the instrument known as Steve. We are Q’uo.
+
+_(Steve channeling)_
+
+**I am Q'uo** and am with this instrument.
+
+So as not to overwhelm this instrument, we have resolved to limit our communication to a single theme, that we find to be of particular interest and importance at this nexus of your planet's development. And that is the theme of sacrifice.
+
+Now you know as a result of what we have just said that a good portion of the catalyst you face has its origins in pre-incarnative choice. At this time, when the harvest of souls from this third density looms large, those who are in line for incarnation are very much aware of the work they have yet to do. And there turns out to be, in many cases, a great many of what you might call _loose ends_ to tie up, and that means, rather than programing an incarnation in which a single virtue is proposed as a lesson to be learned, there can be _many_ lessons, sometimes lessons that fit together but ill. And so, the intrepid seeker needs to remain very light on the feet, so to speak, in taking _this_ kind of catalyst&nbsp; that requires one response and _that_ kind of catalyst that requires quite another, and sometimes these happen simultaneously, and sometimes they happen in such rapid succession, that there is little time for the restoration of the energies of self in between.
+
+Now, there is also a circumstance in which catalyst of an apparently contradictory nature may be on offer. And what we mean by that is that one may be faced a circumstance in which a fundamental choice has to be made concerning which course of catalytic resolution on will pursue. And it is not always obvious where the best choice lies.
+
+Now in these cases, it can become clear at some point in the proceedings that one path will have to be sacrificed for the sake of the pursuit of the other. And this can lead to a host of lesser catalyst along many different vectors, as the seeker attempts to sort out the implications of choices and sub-choices in an effort to discover what truly does resonate most deeply as the choice that is really called for by the overall life trajectory.
+
+It can be, for example, clear that there is, lying before one, a path in which one might seek success in a certain field of endeavor, a kind of success that will be recognized by the world at large. And, in contradistinction to this path, there might lie an opportunity to be of service in a quiet and innocuous way that, on the face of it, might seem to have less potential to lead to a result that would bring the self into a more robust configuration, both to the outside world, and even potentially with respect to the use of those resources that it is well aware that it has.And to take this second option might well seem like a lesser path because it involves a less well developed relation to the abilities and resources which one is perhaps able to achieve on the more overt path leading to success in such ways as your society might recognize.
+
+Now, a dilemma of this nature can, in and of itself, be overwhelming, because there is, within the self, a desire, an upsurge of interest in that path with beckons and offers the prospect of the fullest development of one's talents. Whereas there may be a smaller voice whispering to a self which is now beginning to learn to listen to such voices, that there is greater service in ways that are mostly unseen by others, but that, in this greater service there lies a greater potential for the realization of love for another. Or maybe it is simply that one sees in the eyes of the other that one is needed in a capacity which will not, to all appearances, lead to a fulfillment of the talents which the self possesses, but which will, nevertheless, have more potential for enabling this other that one loves to live a life more fulfilled.
+
+Now, the nature of the overwhelming character of this dilemma is one that comes not so much from without, but from within. For it can seem as if one is in a contest with the self over a destiny which must be chosen. And it is quite clear that a sacrifice of one path must be made in order to pursue the other. And indeed, this circumstance which we have described is not so uncommon as you might think. For, it is an opportunity to see service to others as an over-riding value, and one that does not come without cost to the sense of self of the one who seeks. This is a circumstance in which, we find, that a tremendous amount can be gained for the one who is prepared to sacrifice an apparent virtue for a a less apparent virtue in the name of service to others, and in the name of love.
+
+And with that simple thought, we would at this time transfer the contact to the one known as Jeremy. I am Q'uo.
+
+_(Jeremy channeling)_
+
+**We are those of Q’uo** and are with this instrument at this time.&nbsp;
+
+This is a topic that touches on many aspects of the veiled condition. Because it seems to start especially in the instance of the variety of catalyst known as flooding specifically, it seems to involve in many cases some kind of loss of cognitive responsiveness to conditions. In another case it might be a withdrawal from facing catalyst, in which case one builds it up and the piper must be paid, for you are not here to easily step around the catalytic project. You are here to grow and you must exert much effort to resist [that growth]. This resistance can be a cause for concern if it becomes a pattern in the life, but as we have stated through the instrument known as Claire, it need not always be troublesome to the aspirations of the self to ready itself for transformation.&nbsp;
+
+So let us deal with the first instance, the flooding that overwhelms the waking mind’s ability to react in a coherent manner that draws all of the values and interests of the self into one act. In this case, we remind the listener to review our comments on anxiety. There is a kind of locking up that the second density enacts when it is paralyzed by too much stimulus making its way into the mind complex so that there is no seeming way to address it all with an economy that does justice to the circumstance. This is uniquely third density in most cases as there simply is not the need to engage the kind of careful or clever thought when one is a second density, survival oriented creature.
+
+It is unique to those with self-consciousness to be able to swap out and swap in changes in conditions that modify one’s priorities. Because there are many mind complexes with the preincarnative bias to deal with things in a serial manner, this can often be catalyst, with the hoped for experiential resolution or balancing involving compassion for self. This instrument is reminded of many instances when he has let down himself or others purely because [he] could not quite figure out exactly how to translate a situation into a form of response that seemed adequate. The lesson here is not to augment the brain or the mind–one has the equipment one has–but rather to simply accept the limitations that come from the attenuated possibilities for perception and digestion of input. This is of course an overgeneralization, for there are such unique moments of cognitive overload, and there are so many kinds of distress that can arise from this. But we trust all within earshot of this communication understand what it means to be frozen [as a] “deer in headlights,” so to speak.&nbsp;
+
+You are not a machine, so forgive yourself for the imperfect apprehension of the challenges of third density. This is somewhat easier, in many cases, to balance within the self than the instance in which one actively shrinks from catalysis and fails or refuses to offer unto the catalytic opportunity a concomitant experience that may process it into spiritual food for further expansion into the illusion, for further expansion inward into the self’s mysteries. This is somewhat more challenging for it typically involves a pattern in which one becomes accustomed to this defense mechanism of withdrawal.&nbsp;
+
+The imbalance towards the passivity that can often be a tool for dealing with catalyst can be misused. When one lacks a variety of tools in the belt, everything looks like a nail for that single hammer always in the hand. We are not here to direct the unfolding of one’s balancing of these matters, these energetic dead ends. But what we would offer is likely summed up as some kind of “getting over it” which is devoid of nuance and therefore cannot count in our eyes as helpful advice or direction. Luckily, that is not our purpose here.&nbsp;
+
+Simply, we would suggest that the ongoing practice of meditation can address the inadequacies latent in both instances of flooding or overwhelming conditions. You see, you decide that there are too many things to address all at once because you decide to address them all at once. This is not necessary in any instance, even those instances which are life or death. In fact when danger is most acute, one finds the least need for strategic or tactical thinking. One simply reacts; one simply lets the body play its role in the illusion of which it is made. So this is why we call out this catalyst as uniquely that of third density. You are uniquely time bound; you are uniquely veiled from the unconscious data that would provide access to priority.&nbsp;
+
+Learn to work with your overwhelm; learn to take in how it feels when the pressure is on. This is a fine way to work with this catalyst, but it is not satisfying. In some sense, both forms of flooding involve the inelegant nature of the situation for the experiencer. My friends, while splendor abounds in this Creation, your mission is not always in the ballroom, dazzling, with a place for everything. It sometimes lies in the crowded, dusty, overstimulating marketplace where it is impossible to get the gist of the situation in some singular sense. It is similar to playing shortstop and wondering where all these balls racing at your head are coming from.
+
+Therefore, meditation can help you reorient so that priorities feed into the conscious mind from greater resources without your need to have them at your command. This is part of the relationship between unconscious and conscious represented in those opportunities for transformation that the “Lovers” tarot card denotes.&nbsp;
+
+We feel this is more than enough treatment of these aspects of the topic, and thanking this instrument for multitasking with a contact from outer planes and one constantly arresting his body, we transfer now to the instrument known as Claire. We are those of Q’uo.
+
+_(Claire channeling)_
+
+**We are Q’uo** , and we are with this instrument. There is one last form overwhelm we will touch on before summarizing, and this is the overwhelm with future orientation, not towards the momentous decision at hand, but toward the tasks that seem to lie ahead and the stakes of failing in successfully achieving the tasks as one judges success to be. And it is easy to take upon yourselves a responsibility for events of the future, to take upon yourselves the security or safety of those you care about in ways that require things to fall right, things that are out of your hand. So one finds oneself worrying about things that are well beyond one’s influence, or if they’re not beyond one’s influence (and this is perhaps the greater occasion for worry) they are only at the very edge of one’s influence. There is perhaps something one can do to make some difference in the outcome of this imagined future, but most of the result will be determined by other actors on the scene.&nbsp;
+
+We will remind you, my friends, that attempting to reckon with the many possibilities of the future and to account for them all will inevitably exhaust you. Moreover, there will always be surprises. The mental and spiritual effort you put towards thoughts of the future that do not involve your own decisions–that effort may, if you like, be funneled into the awakening of faith within yourself. Not faith in a particular belief that something will come about, for as we have said, the future is very often surprising, and the seeker on the service to others path must learn to find the blessings in even the difficult experiences. For the Creator, my friends, is everywhere and in everything. What exactly your service will become, what exactly will befall those you care about and are responsible for simply cannot be determined, no matter how hard you attempt to secure a future for yourself. In such a case, the overwhelm is a spinning of the wheels in a circumstance where forward movement is not possible because one is attempting to outrun time itself.&nbsp;
+
+So, we have mentioned many different forms of overwhelm. One backward-looking form in which the trauma, the old wound, has been reopened, and one must face yet again the difficult feelings that one still has not yet fully seated within the self.&nbsp;
+
+There are a number of [forms of] overwhelm that are present-oriented that we have discussed. One is the sensory flooding; another is the mental flooding in which one’s capacities are momentarily impaired, whether through the influx of sensory information or the sheer intensity of the emotional weight of the current moment and the significance one places on that current moment. There is also the overwhelm of the present, a third form in which the burdens of daily living, the constant assault that one faces from a life that seems overfull, leaves one with no opportunity to find rest.&nbsp;
+
+There is also the future oriented [forms of] overwhelm. One is the momentous decision that seems so fateful and significant that one shrinks from commitment, one way or another. And then there is the future oriented overwhelm in which decisions are not at stake. In fact, very little in the control of the self is at stake, and yet one worries.&nbsp;
+
+In each of these instances, the most helpful response will be different. And this, my friends, is the best we can say in summary, since what you have asked about is, in fact, a multifarious phenomenon that, in many ways, cannot be drawn under a single, obvious umbrella. The life of a seeker such as yourselves is full of a diverse set of challenges, and it is easy for this diverse set of challenges to feel too much for you to handle.&nbsp;
+
+So we affirm that the feeling that it is too much to handle is itself a feeling to work with. It is ok to feel this way. While we simultaneously affirm that, you have the resources. Somehow you have them, even if it seems that there is no way that an individual can possibly handle what you face. You may not have the resources to manage the overwhelm in a way that produces perfect balance, but this is not, in fact, the goal. You have the resources on hand to meet the challenge that, in fact, you have set before yourself, which is to learn to love and accept self and other the best you can, and to be an opportunity for the growth of self and other the best you can. This, my friends, surely you have the resources to do.&nbsp;
+
+Before we close, we would briefly like to thank these instruments for making themselves available to us in an intensive way. We appreciate the effort that you have expended to meet with us, and we encourage you to continue on in your discipline and in your efforts. And though we cannot promise any particular reward, we will greet you with joy and thanksgiving each time you call upon us. You are friends to us, and we are grateful for that friendship.&nbsp;
+
+So, my friends, we wish you godspeed in the abundant love and light of our One Infinite Creator. We are those of Q’uo. Adonai, my friends. Adonai.

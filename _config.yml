@@ -4,8 +4,9 @@ title: "High Altitude Receiving Center"
 description: ""
 baseurl: ""
 url: "https://har.center"
-permalink: /:name
-excerpt_separator: <!--intro-->
+# Default permalink (used for posts without date/event/session/title front matter)
+# Posts with date, event, session, title get: /YYYY-MM-DD/event/session/title-slug/ (session padded to 3 digits)
+permalink: /:year/:month/:day/:title/
 # Build
 markdown: kramdown
 highlighter: rouge
@@ -16,6 +17,34 @@ paginate_path: "/page:num/"
 
 # Custom logo path (relative to site root); set to empty to hide
 logo: "/assets/logo.png"
+
+# Default layout for posts (full transcript). Use post_intro for intro-only.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Slug-to-human-readable mappings for circle, event (used when values come from filename)
+# Add entries as needed; keys should match the slug (lowercase, hyphens/underscores)
+designation_mappings:
+  circle:
+    columbus: Columbus Meditation Circle
+    richmond: Richmond Meditation Circle
+    colorado-springs: Colorado Springs Circle
+    harc: The High Altitude Receiving Center (HARC) Circle
+  event:
+    ccp: Confederation Channeling Practice
+    gm: Guided Meditation
+    2025-invitational: 2025 Invitational
+    fifth-channeling-intensive: Fifth Channeling Intensive
+    first-channeling-intensive: First Channeling Intensive
+    fourth-channeling-intensive: Fourth Channeling Intensive
+    gathering-24: Gathering '24
+    second-channeling-intensive: Second Channeling Intensive
+    sixth-channeling-intensive: Sixth Channeling Intensive
+    third-channeling-intensive: Third Channeling Intensive
 
 plugins:
   - jekyll-paginate

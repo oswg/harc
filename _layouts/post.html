@@ -2,31 +2,63 @@
 layout: default
 ---
 
-<article id="post-{{ post.id | slugify }}" class="post type-post status-publish format-standard hentry">
+{% comment %}
+  Single post layout: full transcript content.
+  Use for posts that should display the complete body on the single-post page.
+{% endcomment %}
+{% assign doc = page %}
+<article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
     <div class="subtitle">
-      <span class="subtitle-line">{{ post.circle}}</span>
-      <span class="subtitle-line"></span>{{ post.event }}</span>
-      <span class="subtitle-line">Session {{ post.session }}</span>
+      <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
+      <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
-        {{ post.date | date: "%A, %B %-d, %Y" }} </span>
+        {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
-    <h2 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle-mobile">
-      <span class="subtitle-line">{{ post.circle}}</span>
-      <span class="subtitle-line"></span>{{ post.event }}</span>
-      <span class="subtitle-line">Session {{ post.session }}</span>
+      <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
+      <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
-        {{ post.date | date: "%A, %B %-d, %Y" }} </span>
+        {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    <p>{{ post.excerpt }}</p>
-    <div class="excerpt-permalink">
-      <a href="{{ post.url | relative_url }}">Go to the
-        transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>
+    {% assign audio_url = doc.audio | default: doc.Media %}
+    {% if audio_url %}
+    <div class="post-audio">
+      <audio controls preload="metadata">
+        <source src="{{ audio_url | relative_url }}">
+        <p>Your browser does not support the audio element. <a href="{{ audio_url | relative_url }}">Download audio</a>.</p>
+      </audio>
     </div>
+    {% endif %}
+    {% if doc.Introduction or doc.introduction %}
+    <h2>Introduction</h2>
+    {{ doc.Introduction | default: doc.introduction | markdownify }}
+    {% endif %}
+    {% if doc["Group Questions"] or doc.group_questions %}
+    <h2>Group question</h2>
+    {{ doc["Group Questions"] | default: doc.group_questions | markdownify }}
+    {% endif %}
+    {{ content }}
   </div><!-- .entry-content -->
+
+  {% if doc.categories and doc.categories.size > 0 %}
+  <footer class="entry-footer entry-categories">
+    <h3>Categories</h3>
+    <ul class="category-links">
+      {% for cat in doc.categories %}
+      {% assign cat_slug = cat | category_slug %}
+      {% if cat_slug != '' %}
+      <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat | category_display }}</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </footer>
+  {% endif %}
 
 </article>

@@ -1,0 +1,103 @@
+---
+Date: '2023-08-06'
+Circle: harc
+title: Q'uo on Polarized Time/Space
+Event: fourth-channeling-intensive
+Session: '009'
+Group Questions: Can you discuss the nature of time/space, particularly with regard to how it could possibly be polarized into positive and negative?
+Introduction: This session deals with the nature of time/space as a reciprocal, alternatively constrained experience to space/time, offering mind/body/spirit complexes a more qualitative realm in which to intensify the focus of their seeking. Q'uo discusses the individual's oscillation through these two realms of experience and how they contribute to one's seeking path, especially with respect to the polarized nature of time/space. There is also some engagement with the nature of time, and those of Q'uo describe the dream experience as an example of those more fluid encounters with phenomena that time/space makes possible. As mind/body/spirit complexes grow more and more into their chosen path of polarity, time/space prepares the entity to make better use of space/time opportunities.
+categories:
+- Circles/The High Altitude Receiving Center (HARC) Circle
+- Contacts/Q'uo
+- Events/Fourth Channeling Intensive
+- Instruments/Jeremy
+- Instruments/Nithin
+- Instruments/Steve
+- Topics/Acceptance
+- Topics/Balancing
+- Topics/Body Complex
+- Topics/Choice
+- Topics/Control
+- Topics/Desire
+- Topics/Dreams
+- Topics/Free Will
+- Topics/Individuality
+- Topics/Polarity
+- Topics/Safety
+- Topics/The Veil
+- Topics/Third Density
+- Topics/Thought Forms
+- Topics/Time and space
+---
+
+## Channeled message
+
+_(Jeremy channeling)_
+
+**We are Q’uo**. Greetings, my friends, in the radiant love and warm light of our One Infinite Creator, who walks amongst us in the faces we meet, in the wind we feel, the trees we smell, and the birds we hear. It is our honor and pleasure to be with you on this day as you invent areas of inquiry that call on your practice of this tradition and explore those details of the environs in which you find yourselves at this point in the evolutionary path. This seeking is most refined, my friends, and we congratulate you for having the endurance. There are not so many who possess the burning fire within to hold out against the tests, and we would ask that you understand the nature of these tests not as ways to frustrate you, but rather as ways to show yourself—your own self, my friends—what it is that matters to you.
+
+We are comfortable with any mindset you wish to entertain in your incarnation, but if you choose this reverent and accepting phase of consciousness into your mind/body/spirit complex, then we will oblige, and we will be here for you. Now that does not indicate that you must always pull into your heart what words we speak and what vibration accompanies those words, for this is also a test. This is also a way in which you validate your own purposes as a seeker. You and you alone must endeavor to discover what values motivate your seeking and whether our words harmonize with those. Leave our words aside if you detect dissonance, for there are many words to speak, there are many truths to consider, and all of them have that pregnant condition of realization in them, as long as you have the will to seek it out. With this caveat we dive into the meaty portion of this session, that portion which takes us out of these particular environs in which your waking consciousness indulges in sensation and phenomena in linear time, so useful in the learning process.
+
+There is a corollary, an opposite way of realizing that universal consciousness that calls an entire creation to wakefulness and the spirit of worshipfulness. This is in truth, my brothers, a sector of awareness you have as much experience with as space/time. And the fact that you oscillate between these two sectors creates in your evolutionary path a kind of automatic balance between those intensities of emotion and experience that call you time and time again into the illusion of matter and position in space and time and afford you at a certain periodicity a restful, more contemplative system of illusions, which in our communications past with you we have designated as time/space.&nbsp;
+
+It is important to recognize the mutually reinforcing nature of these two sectors of consciousness. This is the great mysterious advantage of polarity, not just in the sense of the seeking in consciousness for motive force through the densities, but as a way to create distinction and particularity that creates the impetus for focus. Focus: this center—infinitely small, infinitely large—creates a character of experience that allows for individual experiences. We use the plural “experiences” for you are afforded many. This is a condition of space/time [of which] you are already aware; you have hardly to learn of it.
+
+However, when incarnation ceases there is the need to dip back into the pool of consciousness somewhat. Embodyment takes on a different nature. Experience moves into a kind of shadow of what you understand when you are engaged in learning in space/time. And you recognize how your journey through the evolutionary path focuses you on some things and removes awareness from so much.
+
+This focus on phenomena that is so selective must have some balancing in order to create the conditions in which you may exist in a broader illusion than your consciousness cares to reproduce from moment to moment. And in part, time/space allows for this retracing of successive phenomena, so that those things which missed your gaze, evaded your ability to reckon with them, may be nevertheless honored.&nbsp;
+
+There is also the aspect of those things which have indeed registered in your waking awareness, especially those things that have left a mark, have cut a groove, so to speak. You do not always have in the yellow ray matrix of the illusion the wherewithal to account for and balance all of these matters that have shaped your awareness. And therefore there is a balance; the pendulum swings in the other direction, and you recover and conserve the fullness of the illusion and the perfection of your mind/body/spirit complex as a processing organ and create the possibility for new intensities of experience, new foci, which will give you a concrete inflection for growth and self-discovery.
+
+This is a broad summary of the duality of beingness that consciousness has cast into existence, and in order to explore the character of this octave which doubles down on the intensification of the energies that course through consciousness to make evolution more visceral and efficient, we would like to move this contact from this instrument and rotate the beam to our brother Nithin to continue this exploration. We are those of Q’uo.
+
+_(Nithin channeling)_
+
+**We are Q’uo** and we are with this instrument. The discussion of the nature and polarized character of time/space is indeed a broad topic. As in certain areas of space/time, time/space also has an energetic charge, especially in areas where mind/body/spirit complexes have successfully polarized, or shall we say begun to polarize in time/space; as there is no veil, the energetic influences are easier to discern. However, the experiences that occur in time/space are therefore less, shall we say, poignant because of the ability to more clearly perceive what is occurring.
+
+There is a connection between space/time and time/space, although in time/space, due to its nature, traversing of time/space is much easier, in the sense of what we would call distance of a certain nature can occur much more easily. And because of this traversal, entities that have begun to polarize—or are polarized—find it easier to congregate, shall we say, into areas of similar energetic charge. It is difficult to fully describe the orientation of time/space, as the veiled third density mind is more naturally suited to understanding concepts of space/time. This is related to the phenomenon of how your so-called dream interpretation can be a practice that takes a third density mind time to, shall we say, acclimate to.
+
+And now we pass the contact to the instrument known as Steve. We are Q’uo.
+
+(_Steve channeling_)
+
+**I am Q’uo** , and I am with this instrument. Now at this time we would invite those within earshot of our words to step back and to consider the nature of time itself.&nbsp;
+
+As you experience time in this incarnation, you tend to focus on the sense in which time is a marker or measure of events as they unfold, come to fruition, and pass by, so that time in and of itself is not something you can capture for purposes of contemplating anything like an intrinsic nature. It seems to be something so abstract and emptied of content that it merely serves as a receptacle of events which, in order to be understood, must be set in terms of some spatialized set of significances. Even when you attempt to frame the concept of time, it is very often visualized in some spatial sense. You speak therefore sometimes of a time-line; you speak sometimes of a clock-time, in which you may visualize the movement of the hand of an instrument, which _by concept_ is intended to measure time. So time itself is not an independent quality. Time in space/time seems therefore to have shrunk to a single dimension, without interiority, without quality.&nbsp;
+
+You gaze upon time only in the sense of being able to reflect upon that which _has been_, or much less effectively, that which _will be_, the emphasis, therefore, falling upon what is more fulsome in its report, namely the past, but always a past which is lost to the present. And so there descends upon the very notion of time a sense of the dolorous: the lost, the soon to be forgotten, the unrecoverable. And the sadness that attaches to this sense of unrecoverable time is impressed upon the mind/body/spirit complex that feels a kind of _urgency_ to make the most of time, to live the present moment, such that the unrelenting (minute) is filled with sixty seconds worth of distance run, as the poet has said.&nbsp; And in this urgency, one gathers the self together in such a way that much of the quality of that selfhood is _lost_ in the very sense of urgency to make time count for something, as one gazes into an as yet undisclosed future in the hope that something may be realized that can make the aspiring self feel more fulfilled. And so we have to the concept of time this irreducible notion of the more and less, where the less is that which lurks behind, and the more is that which runs ahead, but always in such a way as to be just out of reach.
+
+This, my friends, we would like to suggest to you is time _experienced_, contracted to its least compelling mode of experience—least compelling in the sense of least qualitatively rich—although in a way perhaps we could say most compelling in the sense of being most _impelling_. For one feels the force of time in its relentless movement forward, as something that needs to be redeemed.
+
+Now there will come a moment when the body which you now enjoy, can longer be sustained as a vehicle that can carry you through this limited sense of temporal movement. And you are released into what is sometimes called larger life. Now this life of which we speak is what we have sometimes called time/space. Others have called it the inner planes, or, perhaps, life eternal, eternity simply being a concept of time in which the linearity of time is denied or no longer in play.
+
+You realize that in the _dream_ life, your experience of time tends to dilate somewhat, and becomes enriched qualitatively, in such a manner that the constraints of linear representation are no longer in force to the extent that they are during your waking hours in space/time. Now we would like you to, in imagination, move first of all into that dream life, and now perhaps _intensify_ that sense of release from temporal representation, moving more and more into a feeling of an experiential life that is purely qualitative.
+
+And now you are inundated by qualities of such a refined character that they blend and mix with each other far more easily than anything that you could imagine while incarnate. You live now from quality to quality, and find yourself amazingly free to transform the conditions of your very embodiment, by suffusing these highly receptive bodies which you now enjoy with qualities you may summon merely by invoking them. For they are the qualities that constitute your environment, and your environment and your embodiment are much closer to being at one.
+
+And so the joy that a newly released mind/body/spirit complex typically feels upon being allowed into this free-flowing qualitative domain can be at first overwhelming. It seems very much like coming home. It seems very much like a return to the source, more truly indexed to who I truly am. I _am_ this environment.
+
+Now that joy, of course, is somewhat temporary in the sense that, as one becomes more accustomed to the ways of time/space—to the ways of this wonderfully qualitative realm—one begins to sense that this realm too has its limits, although the limits are less those of what an experiential domain imposes upon me, and more what the limits of my own being impose upon me. And while these limits, which far surpass the somewhat artificial restraints of living in this flesh and these bones have done for me while incarnate, in another sense, since they are _my_ limits, they are limits which limit me to that mine-ness in a way that does not give the motility that I had while incarnate. And so I have within the aura which I recognize as me, and which has a wonderful capacity to blend with auras of those who are like minded in what may be called my psychic regions, they do constitute for me a firmament, a sky, which is also a ceiling. And my aspirations reach not quite as engagingly into to what lies beyond me. So that this sense of the “I”, much broadened to be sure, is yet in a way more profoundly limited. And as I explore its reaches, I discover that there are the tendrils of longingness within this selfhood that would be more than it is, and find a certain frustration in not having that which it would aspire to, be available even in prospect.
+
+And when this sense begins to grow in me, I feel more and more that old, restless urge to allow myself to incarnate into that in which I know myself not to be: a body ordained to a restrictive temporality, with a less restrictive spatiality, embracing it and inviting me to reach out beyond myself, into a world of manifestation in which I may describe a signature of selfhood that is my effectual reach, which is the stamp and imprint of my conscious effort that may be reflected back to me as an enlargement of the restricted selfhood that I have escaped time/space in order to explore as a possibility.
+
+So we have here then a reciprocal arrangement between a two-fold sense of restriction, space/ time, restriction in one way, time/space, restriction in another. A more quantized reality, a more quality rich reality, reciprocally informing each other. And we invite you to consider that as a set of parameters in which the incarnational life unfolds from one incarnation to another.
+
+Now we will speak very briefly of the sense in which that realm we have described as time/ space can itself be polarized so that it may have a qualitative orientation that tends towards the positive, which is to say the radiant, which is to say the loving, _or_ the negative, which is to say the magnetic, which is to say that which is marked by the yearning for the capacity for control, capacity for powerful expression of qualitative outreach.
+
+That which is called positive time/space will not be a great mystery to those here in this circle, for is it not that which seems loving and inviting, and seems to invite the heart to open so that it may receive, in joy, the infusion of the hearts of others? That which is called negative time/space, however, will be for those here assembled, somewhat of a mystery, for the openness of the heart is not there found. Therefore, that which is discoverable in these realms is only that which the self reflects back to itself in its almost unquenchable yearning for more and more and more grasp of a qualitative domain in which it is always a matter of being able the better to control the flow of energies that come upon the screen of consciousness.
+
+Now, we have suggested that the mobility of time/space is severely restricted in the sense that the qualitative aura that the self has built around itself remains ineluctably in place. One may make movement within that auric framework and may do so without much inhibition, but to reach beyond that framework is not a viable prospect. And so, while the intensification work may be done with great precision in time/space, the project of broadening the extensity of the conscious reach cannot much be pursued in that condition. So in negative time/space the seeker will attempt to achieve an intensity of _focus_ so that the return to space/time will be enhanced in its capacity to achieve greater outreach through the accumulation of power of effective action. This power does not contemplate the blending of the energies of the self with those of the creation in general, or other selves more particularly. And in that respect it stands in stark contrast to the manner of spiritual evolution characteristic of the positive path.
+
+We will say that if one finds oneself upon one's death harvested into the realms of negative time/space, that the potentials for incarnation will reflect the qualities that characterize that domain, and similarly the opposite is true for positive time/space. This becomes a decisive consideration in the higher densities, when it is not so easy while incarnate to flip one's polarity so to speak.&nbsp;
+
+We believe we have spoken at sufficient length through this instrument, and we will at this time transfer the contact to the one known as Jeremy. I am Q’uo.
+
+_(Jeremy channeling)_
+
+**I am Q’uo** , and I am again with this instrument. We will conclude this session rather rapidly, for there is much to contemplate. However, we want to stress the prize that your current incarnation in space/time represents.&nbsp;
+
+You spend much time dreaming and scheming to grasp what you reach towards and this is well, work well done. But it is here that you affirm the polarity over and over and over again, the succession of opportunities to certify to yourself and to your Creator your choice. Time/space cooperates with this, and if there is a dread in the polarized nature of that other, more qualitative environment, then it must be recognized as the gift of consequence that polarity offers the Creator—and you as Creator.
+
+You can relate to this consequentiality in a variety of ways, some more conducive to vigorous seeking than others. But it is here that the relation has its weight, and you have this precious opportunity to be a Creator—a Creator in a way that, at unity, is simply not cast into enough of a vantage point to appreciate. So do your work, do your choosing, and connect with the quality of that focus of consciousness in a way that honors both sectors of awareness, and this will drown the need for alarm and dread in the highly refined nature of consciousness that awaits you beyond the threshold of this density.&nbsp;
+
+And with that thought we ask pardon from this circle to abbreviate our question and answer format and simply to take our leave so that this instrument may have comfort. It is no fault of yours, my brother. We love you, we seek with you, and we remain, in the love and light of the One Infinite Creator, your friends of the principle of Q’uo. Adonai, my friends. Adonai.

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% comment %}
+  Category archive: lists posts in this category (oldest first) using intro_only style.
+  Matches the home page listing. Expects page.posts and page.title.
+{% endcomment %}
+<header class="page-header">
+  <h1 class="page-title">{{ page.title | category_display }}</h1>
+  {% assign desc = site.data.category_descriptions[page.category] %}
+  {% if desc and desc != "" %}
+  <p class="page-description">{{ desc }}</p>
+  {% else %}
+  <p class="page-description">Posts in this category (oldest first):</p>
+  {% endif %}
+</header>
+
+{% for post in page.posts %}
+  {% include intro_only.html post=post %}
+{% endfor %}

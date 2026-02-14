@@ -1,0 +1,165 @@
+---
+Date: '2022-10-22'
+Circle: colorado-springs
+title: Q'uo on the Nature of Mind and its Creature, the Body
+Event: third-channeling-intensive
+Session: '006'
+categories:
+- Circles/Colorado Springs Circle
+- Contacts/Q'uo
+- Events/Third Channeling Intensive
+- Instruments/Jeremy
+- Instruments/Joseph/Claire
+- Instruments/Steve
+- Topics/Acceptance
+- Topics/Archetypal Mind
+- Topics/Body Complex
+- Topics/Desire
+- Topics/Free Will
+- Topics/Group Mind
+- Topics/Mind Complex
+- Topics/Spirit Complex
+audio: /assets/audio/ci03s06_quo_2022-10-08.mp3
+---
+
+## **Introduction**
+
+In this session, those of Q’uo address the nature of mind and its relation to the body. They discuss the grounding of mind in love and how its fluid nature relates to manifestation and embodiment. Some hints are also offered about how the body relates mind back to itself. Towards the end, Q’uo answers a question on the “tree of mind” metaphor as viewed from the body complex.
+
+## **Group Question**
+
+What is mind? What did those of Ra mean when they described the body as “the creature of the mind”?
+
+## **Channeled Message**
+
+_(Jeremy channeling)_
+
+**I am Q’uo** , and I greet you this day in the love and the light of our One Infinite Creator. We are so happy to participate in this convention of hearts, brought together from across a continent to ask each other the deep questions, the questions that move you and linger in one’s mind as one falls asleep or sits in traffic. You are curious and thoughtful mind/body/spirit complexes, my friends. And in this area we feel much in common with you, for mystery abounds on our end as well, and we are tickled, so to speak, by the persistence of the unanswered question across the densities.&nbsp;
+
+Our mysteries and your mysteries are not so dissimilar. But they are distinct enough that we advise discretion in their contemplation. Most importantly, we must point out how apropos your questions are and your conclusions are to your incarnate third density experience, and those items must be kept top of mind and given the most weight in our communication.&nbsp;
+
+Should we offer something that rubs you the wrong way or takes you on a tangent from the momentous topics of your life, we would ask your forgiveness and we grant you full license (insofar as that is necessary) to disregard our thoughts. For our world simply consists of different concerns, and you deserve your own apprehension of these concerns. And we are certain, my brothers and sisters, that when you are ready to consider what we deal with, you will have just as fresh and useful insights for us at that level as you afford us at your level. We are all one, and that gives each the freedom to be where they are in the one, and to use this illusion for growth, transformation, and realization.
+
+This may be a nice segue into the topic at hand, for you have asked about the nature of mind as a sector of Creation, and specifically, what it is about the mind that differentiates it from other sectors in their complex natures. This is one of those areas of inquiry where we are not fully confident that our vantage point will yield the same fruits that you normally receive from us in such a contact. This is OK by us; we are not under any illusion that we will hit the mark every time.
+
+So what we are prefacing our answer with is a statement that not only doubles down on our reliance upon your discretion but also walks the boundaries of what is intelligible to begin with. We are, however, comforted in knowing that those involved in this contact at this time are bold adventurers in the area of mind and deserve a chance to test the limits of what is a reasonable and profitable query. In this area we are fully trusting of your group in promulgating whatever insight might arise from our communion.
+
+Let us not delay any further, for time is of the essence in such an intensive meeting. What is mind, you ask? There is little to say about mind that does not contrast it with other qualities of the Creation. In past creations, what mind consisted of was even less articulable than in this octave. The reason for this is the characteristics of what we call the complex, the ability to let the oil separate from the water so that both may work with each other in ways that are observable. Now it is not that their observation in some objective sense is possible to entities such as you, let alone desirable. And this is part of the limit of what this area of inquiry will yield. But enough qualifications.
+
+Mind is a beginning point for the phenomenon of manifestation. It is one of the common substances involved in the space/time-time/space dichotomy, for it makes awareness tangible to the Creator. It demarcates what shall be in manifestation in any form or possibility, and what must remain on the periphery.&nbsp;
+
+This is a kind of filtering. This instrument spoke of the concept of the reality tunnel and the operation of perception in your illusion. This is not the full character of mind as mind, but it is an important function of this complex to fashion the possibility of that which is not. My friends, that which is not plays a very great role in your polarity, but that is not the full and complete operation of the negative in the illusion.&nbsp;
+
+You must have some ability to draw distinctions. This allows for the focus that creates all kinds of aspects of manifestation that are too numerous and subtle for us to enumerate. But on a basic level, you can appreciate the need for an illusion that blocks out the direct access to potential. This is a starting point for understanding the mediating nature of mind between spirit and body. It is almost like a kind of switching mechanism. It provides for possibilities of reality, and while we do not claim this is some great and revelatory insight, it is an introduction to the matters that can be spoken of in this area.&nbsp;
+
+We recognize the limitations of this instrument in this area, not that there is nothing useful to say through the one known as Jeremy; simply that this topic has such rich potential to be divvied up and analyzed by such an embarrassment of intellectual riches in the instruments involved here in this group. We will return to this instrument in order to help place the emphasis on those matters which we gamble are useful. It is a gamble, always, as all communication is. But at this time we will fold our hand and transfer the contact to the instrument known as Steve. We are those of Q’uo.
+
+_(Steve channeling)_
+
+**I am Q'uo** , and I am with this instrument, greeting you, once again, in love and in light.
+
+We would invite you now to consider, in the first place, the unity of the creation. And we would suggest to you that it is useful to think of this unity as grounded in a source. It is beyond the scope of the present query to speculate precisely on the nature of this grounding --- how, that is, the creation is grounded in what you call the Creator --- but, when the issue of mind and its intrinsic nature is to be broached it is useful to begin with the notion that mind is a quality or characteristic that has to it a certain integrity that may be said to be all-embracing. What we mean when we reference the Creator is to register this all-embracingness.
+
+And we would go one step further, and to say that the all-embracingness of the creation in a centering point in the Creator is, to the extent that it could be said to be a factor which plays into the process of unfolding of the Source in the creation, is, in the first instance, an _event_ in the order of mind.
+
+Now, what we have just said actually says a great deal, and that portion of our communication which we offer through this instrument will focus on unpacking the meaning of this role of mind as it moves in that space between Creator and creation.Now those within this circle of seeking will perhaps recall that we have spoken of an order of the event of creation which occurs in three stages.
+
+The first in this order, we have said, is that reflection or deviation from the primordial unity of all that is, that we have referred to as the principle of free will. We would say now that it is appropriate to associate this first step with that factor we have identified as spirit. Notice here that we have chosen our words carefully. We say "associate;" we do not say "identify." But that is a matter for another communication.
+
+The second in the order of the unfurling of the creation --- the second moment, if you will --- is what we have called love. And viewed from another point of view, we have seen this moment as that which invests another term we have called "Logos." And we suggest that this latter terms assists in the understanding of this primordial love in the sense that it suggests that love itself, primordially speaking, is the bearer of meaning, intelligibility. Meaning and intelligibility can be coalesced into a great many units of being of a very high order and it is these that we have called the "Logoi," or, if you will, "Intelligences." Intelligences are of the order of mind, as, indeed, is fundamentally of the order of mind. Or perhaps it is better to say it the other way around: that mind is of the order of love.
+
+Now this does not precisely correspond to the way in which the term 'love' is employed in your usages. But we would like to suggest that the factor of intrinsic coherences which runs throughout the order of all qualities of the creation is what characterizes mind as loving and lovingness as mind.
+
+Now, as contrasted to mind in its nature as grounded in love, we have the third stage in the unfolding of the creation, and that is light. Light gives the possibility of a fuller dissemination into coalesced unities of the energies of the Creator, such that a huge variety of manifest points of activity becomes possible. And within this variety of manifest activities we find the primordial component of all energies, that being light. And light itself serves as the condition for the possibility of the later development of body.
+
+Body, in this respect, carries to a further point of articulation the possibilities of distinctness suggested already in the nature of mind itself. By contrast to body, however, mind has a far more fluid nature. In the order of mind, were it not capable of being invested at all in body, every intent that would arise as a separate feature of the vast currents of the all-embracingness of mind would automatically yield a discrete being, every intent being a being discrete from all others. But these intents cannot be seen as capable of maintaining this discreteness for very long at a time without a sustaining order or structuring domain that allows them a certain degree of persistence which permits further exploration of the significance of discreteness itself.
+
+Within mind, the beings that arise as discrete intentions flow outward and inward, ever on, until they join up with other currents, and the discreteness becomes dissolved into these other currents. That is a fluidity of the creation that remains primordial to the creation as a constituent at all times, but it does not permit the kind of builded structure of mentation that _you_ recognize as the _life_ of mind&nbsp; --- that is _you_ who have been blessed with embodiment.
+
+Now you must know that what you regard as body --- typically the heavy chemical vehicle that you _inhabit_, if we may so say --- is only a very small portion of what embodiment is. For there are to the domain of light many different levels, and you are in possession of bodies corresponding to these different levels in the domain of light.
+
+So to say that you are an embodied creature, or that embodiment is a fundamental characteristic of creaturehood itself, is not to say that all bodies have precisely the nature of what you may think of as a body. So we will tell you that, though we invest bodies, our bodies would very likely not be recognizable to you at all. Nor would the bodies that you have currently merely in potentiation be recognizable to you, in your current state, as bodies at all. Nevertheless it is the factor of embodiment as contrasted to the factor of mindedness that permits it to be the case that all levels of your being, you have in your possession, or as your beingness itself a portion of mind that is uniquely your own.
+
+Now this portion of mind that is uniquely your own is somewhat difficult to describe, insofar as it can be uniquely your own without losing its characteristic of also being part of the All in All. One of the first qualities that arises as a result of this fact is that you have access within your mind to the very nature of the ebb and flow of the great currents of the All Mind itself.
+
+And so it is by virtue of this mindedness captured in embodiment that you have the possibility of sustained particularity or individuation, and also by virtue of this mindedness within that particularity that you can be seen as a microcosm of the All in All. That is, you are a little piece of the creation in such a way that the totality of the creation is also present within you.
+
+It is with that thought that at this time we would make the transition to the instrument known as Claire. I am Q'uo.
+
+_(Claire channeling)_
+
+**I am Q’uo** and I am with this instrument at this time.
+
+Let’s continue our discussion of the nature of mind as a microcosmic expression of the nature of the Creation itself. In particular, we want to expand upon the formulation that the body is the creature of the mind. And this formulation, we would also note, is captured in a commonly misinterpreted and perhaps misinformed expression that you might see in your pop culture, that “you create your own reality.” There is something correct to this expression when we set aside misinterpretations by examining the nature of creation. Recall that the boundless potentials of manifestation come online with the emergence of the Logos. Within the focused and distinctive center of expansive conception of possibility that characterizes an individual Logos is a curiosity or a desire: an impetus to discover the deeper nature of this expansive possibility. In one regard, a Logos cannot help but to be a Creator. It is inevitable that the Logos will draw to itself a manifest reality, in the same way that it is inevitable that a large celestial body will exert a gravitational pull and so surround itself with other celestial bodies.
+
+But the inevitability of the creation is not itself a preconceived expression of self, which is to say: the manifest reality that clusters around the Logos is not a form of expression that was already perfectly present within the possibilities that characterized the expansive nature of the Logos, which we might call the mind of the Logos. Rather, mind itself exists in its own dimension and the implications of what is conceived in mind are not yet known and so must be manifest. The physical reality is not a superfluous addition. It’s not a repetition of what was already there in mind. It is a reflection of what is in mind and, indeed, it is structured by the regularities preconceived: the plan, so to speak, of how the Creation will be built up surrounding the Logos. But the plan is not a script enforced upon the Creation. It is a set of boundaries, a set of limitations and rules within which the creation can operate and is allowed to develop itself. And through the manifestation that the creator, that the Logos pulls to itself, that the Logos inevitably generates through this creation, the Logos indeed discovers itself in ways that were not previously even imaginable. The Logos becomes surprised by who it is. Delighted even.
+
+There is, then, an interplay between Creator and Creation. This is what it means for something to be a creature. A creature is created by a Creator. It is the Creation, but the creature itself is not a marionette, guided through life, guided through its entire expression. Rather the creature is, mysteriously, somehow, invested in its own patterns of freedom. And in this free expression, in the free will that characterizes the entire creation at a deeper level than the Logos itself, the Logos, through its own free development, its own free generation of a reality, a manifestation around itself–through this free expression it the discovers what was latent within itself but could not possibly be known without allowing that creation to freely express itself, just as the Logos had such freedom. The Creator, then, in Creation, invests the creature with a freedom to reveal to the Creator who it always was by the creature itself becoming what it always was.
+
+Now we take this primordial description of Creation and we can apply it by analogy to the relation between mind and body, which we have already established through the instrument known as Steve. It is true that your body is created by your mind, but that creation, in the first place, is an inevitability, in the sense that what was created could not but be built up in your reality. That is, you cannot be a mind without also creating a manifestation around yourself through which the mind can be reflected in itself. Mind and body come together. The one implies the other.
+
+And also there is another similarity in this analogy, though there is a dissimilarity which we will come to later. The second similarity is that the creation, that is the body that you cluster around yourself, which, as we have noted, is not merely the physical material, but the contents of your aura, your subtle body, if you will, which extend well beyond the limits of your skin and overlap with the bodies of others in a negotiation of this shared reality. In so creating, you also allow the body to develop on its own, and to reveal to you, to reveal to your mind what was implicit in your mind that you were not aware of, that only the body’s unguided expression could have revealed to you. Now this is not to say that there is a hidden mind within the body that is external to your mind. Rather, that is to say that the relationship between Logos and Creation reproduces itself at ever lower and lower levels. It would be inaccurate to say that the body itself has its homunculus mind, if you will. Though it does have, down through the further microcosms, a repetition of the relationship between Logos and Creation. For this reason, the danger of the expression that “you create your own reality” is to think to yourself that you indeed can manipulate the physical and energetic realities around you like marionettes and that if you merely concentrate in the right ways or if you achieve a kind of clarity of thought or presence to yourself that, at the end of this pursuit of enlightenment, at the horizon of knowing the self, you will then be apprised of the ability for the magical power to live in a life of perfect abundance, where abundance perhaps is readily characterized in terms of the monetary value of the substances in your life. This is a crude and bastardized notion of the creator-creature relationship.
+
+In being a Creator, in being a Logos, and thus in having a mind, your relation to the creature, that is your body, is to accept it as it is. The creature abides by the regulatory conception that you have imparted to it. In that way, the creature is constrained by the allowances of your mind. But constrained is not controlled. And if you do not allow yourself to be surprised by the return expression of your body and of the world within which you exist, the world that you share with others–if you do not allow yourself to be surprised, then you have missed the majesty of Creation in the first place. We encourage you to look for the majesty, to enjoy the surprises, to set aside expectations. In this way, you might find yourself freedom from your own superimposed conceptions of what a good life is. In any case, the creature that is your body is fully dependent upon the structures that are regularized within your mind. It is reflective of elements in the contents of your mind that you might not previously have recognized. So here, we see, reflected in the body, in the manifest reality, further characteristics that might be considered definitive, constitutive of mind. At bottom, you might say that mind is consciousness, that mind is a presence to the possibility and thereby also the manifestation of what one might be present to. The mind is always presented with itself. So you can see how it is difficult to dig beneath the interplay between Creator and Creation to articulate what mind is. And as mind develops, it becomes capable of ever more subtle and complex forms of presentation of itself to itself. It can reproduce the self-reflective nature of the Creation itself through imagination and representation.
+
+We wish to comment now on the dissimilarity between the relationship between mind and body and the relationship between primordial Logos and is Creation. And that dissimilarity is in the origin, the beginning point of mind in its relation to body. The Logos enjoys the capacity to begin a Creation from nothing, you might say. And, in the long run, we might, perhaps, say the same about the mind, where the mind begins in first density. But even then, the mind comes on the scene within the context of an existing creation. But in the short run, which is perhaps most relevant to your purposes, the mind of the individual incarnated is thrown into an already existing Creation. It exists already in structures that must be negotiated with other minds and adapted to the purposes of your own efforts at expression, at Creation. So the creature that is your body is formed from elements, both material and subtle and indeed even cultural, that were already present before you came on the scene within this incarnation. There is a sense in which the Logoi are faced with something similar, and that’s the sense in which a primordial Logos can generate within itself sub-logoi that are then responsible for their own refinements. But even so, the overlap in dependency is much less. And the relationship between the Logos and the sub-logos in this regard is more nested than the relationship that you bear with the other minds with whom you share a reality. This kind of experience, we will remind you, is precisely the target. This is what the Creator wanted: to know itself multiply in relation to itself as other minds.
+
+We feel that this suffices for our communication through this instrument at this time. And we would now pass our contact to the instrument known as Jeremy. I am Q’uo.
+
+_(Jeremy channeling)_
+
+**We are those of Q’uo** and are again with this instrument to conclude our exploration of the mind. We have journeyed through many quite nuanced aspects of the character of the mind as a component of Creation, as a facilitator of creatureliness, and as a receptor of the inflected downward dynamic of something we have not yet quite touched on. We would ask you to recognize, not in detail but in brief, why complexity in the mind is useful to understanding, not the nature of mind, but the progress of mind at this point in the Creator’s self-penetration.&nbsp;
+
+This summary will begin with the recognition of parts of the mind closest to that complex of spirit. You identify one of these deeper portions of mind as consisting of an archetypal configuration. In this system of mutually reinforcing, distinctive characters there abounds concepts of reception and generation, often denoted with the gendered terms, mascuiline and feminine.&nbsp;
+
+What we are attempting to gesture at, not to form concrete conclusions on your behalf but simply to set the stage for future inquiries, is the role body plays in this development of mind. We would suggest contemplation of the role that the manifest, emplaced, and time-bound body has played in teaching mind to be complex, to be a system of distinct facets of Creatorship. And that this dialogue between the unmanifest and manifest is in time what for the Creator is but a single thought. You have heard us describe the majesty of this dialogue. What makes it so majestic, in our eyes – and in some way [also] in your view – is your privilege to witness in sequence what otherwise would be simply a shift in consciousness, a turning of the dial to a different modality of the Creator’s infinite nature.&nbsp;
+
+This may seem to place within mind the lion’s share of responsibility, so to speak, in fashioning the Creation experiment. We would caution you not to conclude this in such a straight ahead and simplistic manner, for you know well how thought attains an appreciation when constrained in space and time; when it is subject to being this and not that. This quality of that which is not is extremely useful in composing not just an illusion writ large, but _this_ illusion in _this_ sector of awareness.&nbsp;
+
+We look forward to future queries that delve into the dynamic and mutually reinforcing and, dare we say, dialectic qualities of the complexes that you enjoy, for when we will eventually, with your cooperation, touch upon the spirit, you will once again recognize the harvest of manifestation and the detailed role that the incarnative cycle plays. What we are summing up here is that mind is touching into the shuttle of spirit, subtly, without the need for differentiation that so characterizes the body. And yet my friends, and yet, the fruits of distilled manifestation arrive only at one place, one sector of consciousness, to receive all of the bounty of experience. You likely can guess where that would be headed with little concentrated thought, so we need not spell everything out, and this instrument, additionally, asks that we focus.&nbsp;
+
+We have often remarked at the urgency for creating distinctions and drawing lines that denote your area of experience, and how that becomes a less necessary tool as you ascend through the octave. However, never underestimate its value when observed by us, for we play our role in the unfolding nature of one experimental, original thought. But we could not, and would not achieve anything – as small and subtle as it might be described – without your input.&nbsp;
+
+Reception, projection, illusion, and harvest: all have been in play throughout many of the different contexts that logoi and their archetypal approaches postulate. But in this octave, complexity is one of the manners in which this dynamic reinforcement of distinctive qualities is expressed in a way that we suspect is quite a leap forward in the Creator’s singular moment of query.&nbsp;
+
+How interesting that you engage us and the Creator in your queries, perhaps not appreciating the answers you offer the Creator in its queries. And with this circular and poignant thought we would end our monologue and open the floor to our accomplished instruments to probe this quiddity in further detail. We are those of Q’uo
+
+**Claire:** Q’uo, I have a question. Ra likened the mind to a tree, and I guess I’m curious about how the body fits into the tree metaphor, if it does at all.
+
+**We are those of Q’uo** and believe we are aware of the nature of your question, my sister. We ask a moment to deepen this instrument’s concentration. We have something to say that we must negotiate through this equipment.
+
+_(15 second pause)_
+
+In actuality, the metaphor of the tree obscures certain aspects of the mind. This does not make the metaphor without usefulness. In fact, this metaphor is useful from your vantage point.&nbsp;
+
+Recall our mention of the reception/generation dichotomy. From where you stand and how those dynamics relate to each other, hierarchy is a very exquisite and useful mode of approaching the structure that mind facilitates, not that mind consists of directly, but that mind facilitates. You understand of course, my sister, the history (if we may use that term in broad strokes) of mind throughout various octaves. For there was at one time a mind where the complexity was more, shall we say, fuzzed and indistinct. And this also yielded fruit.&nbsp;
+
+The point we are making is not to dismiss the hierarchical nature of mind, but that hierarchy implies constraint in space and sequence of the systemic lens. When the body yields to mind – and we must not omit: to spirit as well – [an] idea of complexity and harmony [is realized], the concept of harmony not as a simple unity but as a varied and multifaceted unity. It was a revelation: now, centers of focus could achieve more, shall we say, introspection and poignancy. There is an involution within the mind that is not shared by the body, but is instead refracted by the body.&nbsp;
+
+We are somewhat limited in exploring this further, for this instrument has a rather simplistic understanding of the three sectors of consciousness due to past learning and a rather straight ahead nature of abstract thought and reasoning that the questioner may not share. And therefore, we would end our answer here unless there is further probing into this concept we have attempted imperfectly to speak to. [Are] there further queries on this matter, my sister?
+
+**Claire:** No, thank you, Q’uo.
+
+**Steve:** I actually have a follow up to that, if I may. I think this formulation, which it occurs to me I might offer, may only require a thumbs up or a thumbs down from you, Q’uo, a yes or no.
+
+I wonder if the image of the inverted tree is a useful one in third density in the sense that the distinction between the conscious and the unconscious portions of mind is being addressed somehow, and this might have something to do with the way in which we might think of the potion of mind that is indeed responsible for creating what we think of as the body.&nbsp;
+
+Now, if the roots of mind lie above and the fruits or leaves of mind lie below in the image of the inverted tree, one might begin to think of the journey down, or actually in this inversion, up through the roots of mind to the point of mind where mind no longer is so individuated in the form we would recognize as consciousness, daily consciousness, discrete awareness of things, and so forth, whether traveling up the roots of mind gets to a point where the division that we think of between mind and body is not so operative. And I wonder whether it would be accurate to say that it’s in that sense, in the sense of mind as being rooted in what lies above the creative capacity to generate features of embodiment, would be situated. Just a query whether that seems like an accurate interpretation of the inverted tree.
+
+**We are with this instrument once more as the complex of Q’uo** and cannot say whether we fully grasp this question. However, we would say (to sidestep a binary response) that further inquiries at a different time would be useful. However, let us say this.&nbsp;
+
+We often speak of the ultimate value not simply of a perspective but the creative ability to change perspective. When you ask a query that characterizes a full dialogue between us, we will be able much more easily to help you take a step to the left or right and see a different point of view that will not simply wrap up, shall we say, the inquiry and its ideas in a neat fashion, but will expose you to more aspects worthy of discovery.
+
+In short, yes. However, we would not be satisfied with this answer, and we are completely sympathetic if it is not satisfactory to you. For there are aspects of the mind that serve spirit more than the body, and these come into starker relief, shall we say, when we can cooperate with you to take a different angle of attack.&nbsp;
+
+The mind, in this instrument’s ontology, operates as a mediating factor, but this is not strictly true, so we find ourselves limited in what we can say because of the inherent commitments that this instrument has made to an understanding of the Creator. And for that reason, we look forward to future attempts to change the mode of inquiry so that we can expand upon this in a more satisfactory manner.&nbsp;
+
+Can we assume, my brother, that this will suffice for now?
+
+**Steve:** You may indeed. Fair enough, thank you very much
+
+**[We are Q’uo.]** You are very patient and kind with us. Please do not interpret this answer as a way of shutting down this inquiry. This is a project, my brother, of a long term experiment in understanding not simply what exists, but what is useful.&nbsp;
+
+And we are very well aware at the limited utility of continuing to apply words to this. Therefore, with your permission, my brothers and sisters, we take our leave of this instrument and of this energy complex you have created. It is ironic, for it, in its constitution, says much that would help you formulate your query.&nbsp;
+
+And with these teasing thoughts we offer you our love in perfect measure with our light, for it is the Creator’s love and light. We are those of Q’uo. Adonai vasu borragus.

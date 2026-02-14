@@ -7,8 +7,8 @@
   {% if item.categories contains "Training Session" %}
   <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
   {% endif %}
-  {% if item.circle %}<span class="subtitle-line">{{ item.circle }}</span>{% endif %}
-  {% if item.event %}<span class="subtitle-line">{{ item.event }}</span>{% endif %}
+  {% if item.circle %}<span class="subtitle-line">{{ item.circle_display | default: item.circle }}</span>{% endif %}
+  {% if item.event %}<span class="subtitle-line">{{ item.event_display | default: item.event }}</span>{% endif %}
   {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
   {% if item.date %}
   <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
@@ -18,8 +18,8 @@
   {% if item.categories contains "Training Session" %}
   <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
   {% endif %}
-  {% if item.circle %}<span class="subtitle-line">{{ item.circle }}</span>{% endif %}
-  {% if item.event %}<span class="subtitle-line">{{ item.event }}</span>{% endif %}
+  {% if item.circle %}<span class="subtitle-line">{{ item.circle_display | default: item.circle }}</span>{% endif %}
+  {% if item.event %}<span class="subtitle-line">{{ item.event_display | default: item.event }}</span>{% endif %}
   {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
   {% if item.date %}
   <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>

@@ -2,8 +2,14 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-  {% include post_excerpt.html post=post %}
+{% comment %}Use paginator when it has posts, otherwise fall back to site.posts (e.g. GitHub Pages without custom build){% endcomment %}
+{% if paginator.posts.size > 0 %}
+  {% assign posts_to_show = paginator.posts %}
+{% else %}
+  {% assign posts_to_show = site.posts %}
+{% endif %}
+{% for post in posts_to_show %}
+  {% include intro_only.html post=post %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

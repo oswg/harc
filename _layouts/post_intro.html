@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% comment %}
+  Intro-only layout: shows excerpt/introduction with "Go to transcript" link.
+  Use for posts that should display only a teaser on the single-post page.
+{% endcomment %}
+{% assign doc = page %}
+<article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
+  <header class="entry-header">
+    <div class="subtitle">
+      <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
+      <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
+      <span class="subtitle-line">
+        {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
+    </div>
+    <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
+    <div class="subtitle-mobile">
+      <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
+      <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
+      <span class="subtitle-line">
+        {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
+    </div>
+  </header><!-- .entry-header -->
+
+  <div class="entry-content">
+    {% assign intro = doc.Introduction | default: doc.introduction | default: doc.excerpt %}
+    {% if intro %}
+      {% if doc.Introduction or doc.introduction %}
+        <p>{{ intro }}</p>
+      {% else %}
+        {{ intro }}
+      {% endif %}
+    {% endif %}
+    <div class="excerpt-permalink">
+      <a href="{{ doc.url | relative_url }}">Go to the
+        transcript.</a><i class="fas fa-external-link-alt" style="padding-left: 1rem;"></i>
+    </div>
+  </div><!-- .entry-content -->
+
+</article>
