@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-09'
-Circle: harc
+date: '2024-12-09'
+circle: harc
 title: Quo on the Journey of Self Discovery
-Event: ci6
-Session: '017'
-Introduction: Through a training instrument, those of the Q'uo principle discuss self-discovery as a process of remembering, guided by higher selves and signposts encountered along life's journey. Dreams are highlighted as a significant, yet often overlooked, connection to the unconscious, offering lessons that require honesty and effort to interpret. Q'uo cautions against the allure of adopting external identities in a world full of distractions and instead advocates for meditation and introspection as essential practices for genuine self-discovery.
+event: ci6
+session: '017'
+introduction: Through a training instrument, those of the Q'uo principle discuss self-discovery as a process of remembering, guided by higher selves and signposts encountered along life's journey. Dreams are highlighted as a significant, yet often overlooked, connection to the unconscious, offering lessons that require honesty and effort to interpret. Q'uo cautions against the allure of adopting external identities in a world full of distractions and instead advocates for meditation and introspection as essential practices for genuine self-discovery.
 categories:
 - Contacts/Q'uo
 - Events/Sixth Channeling Intensive

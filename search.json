@@ -20,7 +20,7 @@ layout: null
   "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
   "date_display": {{ post.date | date: "%A, %B %-d, %Y" | jsonify }},
   "content": {{ post.content | strip_html | jsonify }},
-  "introduction": {{ post.Introduction | default: post.introduction | default: "" | strip_html | jsonify }},
+  "introduction": {{ post.introduction | default: "" | strip_html | jsonify }},
   "categories": {{ post.categories | join: " " | jsonify }},
   "categories_display": {{ categories_short | jsonify }},
   "circle_display": {{ circle_display | jsonify }},

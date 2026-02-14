@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-08'
-Circle: harc
+date: '2024-12-08'
+circle: harc
 title: Q'uo on the Ego
-Event: ci6
-Session: '012'
-Introduction: In this short training session from a new instrument, those of Q'uo explore the originating logic of the ego and how it is eventually dissolved. The ego is a construct we build as an alternative to realizing our complete natures, and as we spiritually mature we are able to slowly release the stories that frame this ego construct one by one. Q'uo emphasizes the role of compassion towards the self in this releasing and acceptance of the uselessness of the ego's many protections of the self.
+event: ci6
+session: '012'
+introduction: In this short training session from a new instrument, those of Q'uo explore the originating logic of the ego and how it is eventually dissolved. The ego is a construct we build as an alternative to realizing our complete natures, and as we spiritually mature we are able to slowly release the stories that frame this ego construct one by one. Q'uo emphasizes the role of compassion towards the self in this releasing and acceptance of the uselessness of the ego's many protections of the self.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

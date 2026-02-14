@@ -1,11 +1,11 @@
 ---
-Date: '2022-05-18'
-Circle: colorado-springs
+date: '2022-05-18'
+circle: colorado-springs
 title: Q'uo on Biases
-Event: ci2
-Session: '007'
-Group question: 'In session 92, question 18, Ra says that “the infant’s significant self [and presumably any significant self]… is the harvest of biases of all previous incarnational experiences, [and this significant self] offers to this infant biases with which to meet new experience.” So the question is: what is the nature of these biases?'
-Introduction: Q'uo describes biases as a primitive or basic concept. Biases, they tell us, are a mark of Creatorhood, which include the biases of the One Logos in originating the universe as well as the original biases of the planet developed in first density. Q'uo tells us that biases are both acquired and also mysteriously latent within us; biases exist at the intersection between significance (or meaning or value) and desire (or yearning). Our experience of sequential time allows us to undergo accrual and transformations of biases. Q'uo concludes with a consideration of the differences in accrual of bias between the mind, body and spirit complexes.
+event: ci2
+session: '007'
+group_question: 'In session 92, question 18, Ra says that “the infant’s significant self [and presumably any significant self]… is the harvest of biases of all previous incarnational experiences, [and this significant self] offers to this infant biases with which to meet new experience.” So the question is: what is the nature of these biases?'
+introduction: Q'uo describes biases as a primitive or basic concept. Biases, they tell us, are a mark of Creatorhood, which include the biases of the One Logos in originating the universe as well as the original biases of the planet developed in first density. Q'uo tells us that biases are both acquired and also mysteriously latent within us; biases exist at the intersection between significance (or meaning or value) and desire (or yearning). Our experience of sequential time allows us to undergo accrual and transformations of biases. Q'uo concludes with a consideration of the differences in accrual of bias between the mind, body and spirit complexes.
 categories:
 - Circles/Colorado Springs Circle
 - Events/Second Channeling Intensive

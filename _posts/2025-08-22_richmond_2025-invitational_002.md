@@ -1,11 +1,11 @@
 ---
-Date: '2025-08-22'
-Circle: richmond
+date: '2025-08-22'
+circle: richmond
 title: Latuii on Working with Pain
-Event: 2025-invitational
-Session: '002'
-Group question: Please share thoughts on those who suffer from intense pain, as well as those who seek to serve those in pain.
-Introduction: Latuii is a fifth density social memory complex, typically a constituent of the Q'uo principle and before then in frequent contact with L/L Research. They speak on the subject of pain, especially bodily pain, and the ways to which it might be related on the seeker's path, both as recipient and as witness of another's pain. They suggest the most efficient use of pain involves feeling it deeply, and they encourage the friends of the afflicted to open themselves as well to this pain and provide company for the journey. Commentary is also provided on drugs, working with addiction and pain through thought forms, and offering ideas for meditation with a playfulness that will be recognized by the other self.
+event: 2025-invitational
+session: '002'
+group_question: Please share thoughts on those who suffer from intense pain, as well as those who seek to serve those in pain.
+introduction: Latuii is a fifth density social memory complex, typically a constituent of the Q'uo principle and before then in frequent contact with L/L Research. They speak on the subject of pain, especially bodily pain, and the ways to which it might be related on the seeker's path, both as recipient and as witness of another's pain. They suggest the most efficient use of pain involves feeling it deeply, and they encourage the friends of the afflicted to open themselves as well to this pain and provide company for the journey. Commentary is also provided on drugs, working with addiction and pain through thought forms, and offering ideas for meditation with a playfulness that will be recognized by the other self.
 categories:
 - Channeling Session
 - Circles/Richmond Meditation Circle

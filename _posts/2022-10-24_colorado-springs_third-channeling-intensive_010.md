@@ -1,9 +1,9 @@
 ---
-Date: '2022-10-24'
-Circle: colorado-springs
+date: '2022-10-24'
+circle: colorado-springs
 title: Q'uo on the Catalyst of Overwhelm
-Event: ci3
-Session: '010'
+event: ci3
+session: '010'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -29,8 +29,8 @@ categories:
 - Topics/Pain &amp; Suffering
 - Topics/Wisdom
 audio: /assets/audio/ci03s10_quo_2022-10-09.mp3
-Introduction: In this final session from the Other Selves Working Group’s third channeling intensive, those of Q’uo discuss the diverse circumstances in which an entity can suffer from feeling overwhelmed or flooded. Organizing these instances by their temporal orientation, Q’uo catalogs several energetic, catalytic, and emotional components that come into various levels of play in each type of overwhelm. Q’uo offers some general tips on balancing these feelings and relating to the pain and fear they can instigate, closing with a general message of encouragement for the instruments.
-Group question: What can Q’uo say about the catalyst of becoming overwhelmed or flooded?
+introduction: In this final session from the Other Selves Working Group’s third channeling intensive, those of Q’uo discuss the diverse circumstances in which an entity can suffer from feeling overwhelmed or flooded. Organizing these instances by their temporal orientation, Q’uo catalogs several energetic, catalytic, and emotional components that come into various levels of play in each type of overwhelm. Q’uo offers some general tips on balancing these feelings and relating to the pain and fear they can instigate, closing with a general message of encouragement for the instruments.
+group_question: What can Q’uo say about the catalyst of becoming overwhelmed or flooded?
 ---
 
 

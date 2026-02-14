@@ -1,9 +1,9 @@
 ---
-Date: '2022-10-19'
-Circle: colorado-springs
+date: '2022-10-19'
+circle: colorado-springs
 title: Q'uo on Feeling Lost
-Event: ci3
-Session: '003'
+event: ci3
+session: '003'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -25,8 +25,8 @@ categories:
 - Topics/Third Density
 - Topics/Transformation
 audio: /assets/audio/ci03s03_quo_2022-10-07.mp3
-Introduction: In this session Q’uo addresses the despair and confusion that longtime seekers often encounter on their path. Pursuing a polarity does not mitigate against these feelings as catalysis and transformation work upon us. Q’uo encourages us to develop a relationship with pain that does not deny its sting while also learning how to ask for the help and faith to endure. As always, seeking a larger perspective in the present moment is a great aid in our desire to serve others and build our spiritual strength upon this love.
-Group question: Among spiritual seekers, even including those who have been long on the spiritual path, there often comes a time when we feel lost or abandoned. Can Q’uo speak to this feeling, and what attitude we might take with regard to it that could lead to healing?
+introduction: In this session Q’uo addresses the despair and confusion that longtime seekers often encounter on their path. Pursuing a polarity does not mitigate against these feelings as catalysis and transformation work upon us. Q’uo encourages us to develop a relationship with pain that does not deny its sting while also learning how to ask for the help and faith to endure. As always, seeking a larger perspective in the present moment is a great aid in our desire to serve others and build our spiritual strength upon this love.
+group_question: Among spiritual seekers, even including those who have been long on the spiritual path, there often comes a time when we feel lost or abandoned. Can Q’uo speak to this feeling, and what attitude we might take with regard to it that could lead to healing?
 ---
 
 

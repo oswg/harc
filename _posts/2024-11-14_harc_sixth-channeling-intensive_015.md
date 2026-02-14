@@ -1,10 +1,10 @@
 ---
-Date: '2024-11-14'
-Circle: harc
+date: '2024-11-14'
+circle: harc
 title: Q'uo on the Significator of Body
-Event: ci6
-Session: '015'
-Introduction: In this discourse on the significator of body archetype, Q'uo examines the delicate balance involved in both responsibly caring for the body while pushing it beyond its comfort zone in search of spiritual growth. They present the body as a crucible for change whose value arises from its impermanence, a more fixed and temporally bounded quality when contrasted with the natures of mind and spirit. The body requires a balance between respectful and sacrificial use, and Q'uo ties in some of the symbols in the tarot's hanged man image to speak to these nuances. They note how deeply polarity is involved even in embodiment, inviting a renewed appreciation for the body's irreplaceable role in spiritual evolution.
+event: ci6
+session: '015'
+introduction: In this discourse on the significator of body archetype, Q'uo examines the delicate balance involved in both responsibly caring for the body while pushing it beyond its comfort zone in search of spiritual growth. They present the body as a crucible for change whose value arises from its impermanence, a more fixed and temporally bounded quality when contrasted with the natures of mind and spirit. The body requires a balance between respectful and sacrificial use, and Q'uo ties in some of the symbols in the tarot's hanged man image to speak to these nuances. They note how deeply polarity is involved even in embodiment, inviting a renewed appreciation for the body's irreplaceable role in spiritual evolution.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

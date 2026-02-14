@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-05'
-Circle: harc
+date: '2024-12-05'
+circle: harc
 title: Q'uo on the Experience of Spirit
-Event: ci6
-Session: '016'
-Introduction: Here Q'uo offers an exploration of the spiritual journey as one traverses the less-trodden paths of the spirit complex. The communication delves into the adept's experience of navigating the subtleties of spiritual evolution, particularly the activation of the indigo ray energy center and its disorienting effects. Q'uo discusses the thinning of the veil and the resulting heightened sensitivity to the energies that well up from within, which can dramatically alter the adept's perception of daily catalysts and interactions with others. The narrative addresses the challenges of maintaining service-to-others orientation amidst newfound powers of perception and influence, cautioning against the risks of control and repulsion that may arise. The adept is guided to confront internal distortions with hope, recognizing that the light of faith can illuminate the path to redemption, even when faced with seemingly insurmountable inner shadows. This message from Q'uo is a deep examination of the spiritual path's complexities, inviting the seeker to embrace the transformative power of faith and the continuous responsibility of self-awareness.
+event: ci6
+session: '016'
+introduction: Here Q'uo offers an exploration of the spiritual journey as one traverses the less-trodden paths of the spirit complex. The communication delves into the adept's experience of navigating the subtleties of spiritual evolution, particularly the activation of the indigo ray energy center and its disorienting effects. Q'uo discusses the thinning of the veil and the resulting heightened sensitivity to the energies that well up from within, which can dramatically alter the adept's perception of daily catalysts and interactions with others. The narrative addresses the challenges of maintaining service-to-others orientation amidst newfound powers of perception and influence, cautioning against the risks of control and repulsion that may arise. The adept is guided to confront internal distortions with hope, recognizing that the light of faith can illuminate the path to redemption, even when faced with seemingly insurmountable inner shadows. This message from Q'uo is a deep examination of the spiritual path's complexities, inviting the seeker to embrace the transformative power of faith and the continuous responsibility of self-awareness.
 categories:
 - Events/Sixth Channeling Intensive
 - Instruments/Steve

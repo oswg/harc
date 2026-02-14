@@ -27,16 +27,16 @@ layout: default
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% if doc.Introduction or doc.introduction %}
+    {% if doc.introduction %}
     <h2>Introduction</h2>
-    {{ doc.Introduction | default: doc.introduction | markdownify }}
+    {{ doc.introduction | markdownify }}
     {% endif %}
-    {% if doc["Group question"] or doc.group_question %}
+    {% if doc.group_question or doc.group_questions %}
     <h2>Group question</h2>
-    {{ doc["Group question"] | default: doc.group_question | markdownify }}
+    {{ doc.group_question | default: doc.group_questions | markdownify }}
     {% endif %}
     <h2>Channeled Message</h2>
-    {% assign audio_url = doc.audio | default: doc.Media %}
+    {% assign audio_url = doc.audio | default: doc.media %}
     {% if audio_url %}
     <div class="post-audio">
       <audio controls preload="metadata">

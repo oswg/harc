@@ -1,11 +1,11 @@
 ---
-Date: '2023-11-10'
-Circle: harc
+date: '2023-11-10'
+circle: harc
 title: Q’uo on Will, Memory, and Truth
-Event: ci5
-Session: '009'
-Group question: What is the relation between memory and will when it comes to the question of truth?
-Introduction: |-
+event: ci5
+session: '009'
+group_question: What is the relation between memory and will when it comes to the question of truth?
+introduction: |-
   In the final session of the fifth intensive, those of Q'uo expand upon the topic of memory from the last session with an emphasis on the existence, nature, and meaning of the "truth." Here too, will plays a role in the dyadic activity of remembrance, coupling subject to a limited perspective on an event. Given the veil of forgetting, Q'uo endorses no external standard by which veracity can be reliably and objectively teased out from the confusion of siloed and contradictory memories.
 
   The achievement of a planetary social memory complex in fourth density will provide all with common access to all individual memories, and in this event lies the fruition of memory: the possibility of a commonly triangulated and authoritative truth across perspectives and distortions. Until then, one must humbly account for the role one's confusion, hurt, and limitations under the veil perennially play in the accuracy of one's recollection and one's truth.

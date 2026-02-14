@@ -1,14 +1,14 @@
 ---
-Date: '2022-05-18'
-Circle: colorado-springs
+date: '2022-05-18'
+circle: colorado-springs
 title: Q'uo on the Spiritual Aspects of Safety
-Event: ci2
-Session: '006'
-Group question: |-
+event: ci2
+session: '006'
+group_question: |-
   Ra says in session 41, question 19 that “The key to balance may then be seen in the unstudied, spontaneous, and honest response of entities toward experiences, thus using experience to the utmost, then applying the balancing exercises and achieving the proper attitude for the most purified spectrum of energy center manifestation in violet ray.”
 
   There seems to be a tension between the need to preserve both the incarnation one's relationships in a viable sense, and the more spontaneous response that could well put them at risk, but that could also yield extraordinary learning. What role do concerns for safety play in a well-balanced spiritual life? How much credence or attention should we give concerns of safety? Conversely, how expendable is an incarnational experience? Should an incarnation be used up and tossed away, or is it to be savored and protected?
-Introduction: Q'uo speaks to the difficult balance between staying safe and embracing catalyst. Where the integrity of the incarnation is concerned, Q'uo tells us, safety is an important baseline. But it is easy to become overprotective of both self and other. Q'uo reminds us that one must decide for oneself how much catalyst can be taken in and processed. They then touch on many other intersecting topics, such as the light touch, martyrdom, boldness, and group harmony.
+introduction: Q'uo speaks to the difficult balance between staying safe and embracing catalyst. Where the integrity of the incarnation is concerned, Q'uo tells us, safety is an important baseline. But it is easy to become overprotective of both self and other. Q'uo reminds us that one must decide for oneself how much catalyst can be taken in and processed. They then touch on many other intersecting topics, such as the light touch, martyrdom, boldness, and group harmony.
 categories:
 - Circles/Colorado Springs Circle
 - Events/Second Channeling Intensive

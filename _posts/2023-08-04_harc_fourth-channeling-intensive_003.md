@@ -1,11 +1,11 @@
 ---
-Date: '2023-08-04'
-Circle: harc
+date: '2023-08-04'
+circle: harc
 title: Q'uo on First Density Timelessness and Second Density Harvest
-Event: ci4
-Session: '003'
-Group question: How does the timelessness of first density transition into the temporal experience of consciousness in second density that allows for the upward spiraling light to be pursued?
-Introduction: In this remarkable session, those of Q'uo discuss the basic organizing principles of first density, including what pushes entities into second density. It is in first density that consciousness transforms through patterns of motion that begin to crystallize and resonate with vibratory influences that beckon the nascent entity onwards. By tracing this progression of consciousness backwards from third density to first, those of Q'uo walk the seeker through the various layers of awareness that accumulate to modify the overall quality of beingness. They end by illustrating the specific nature of a primitive consciousness that, in its limitation to only be acted upon and not act itself, can endure and abide timelessness. Mysteriously, a "primordial desire" emerges at some point impelling the first density graduate to pursue the upward spiraling light into a world of motion, time, action, and complexity.
+event: ci4
+session: '003'
+group_question: How does the timelessness of first density transition into the temporal experience of consciousness in second density that allows for the upward spiraling light to be pursued?
+introduction: In this remarkable session, those of Q'uo discuss the basic organizing principles of first density, including what pushes entities into second density. It is in first density that consciousness transforms through patterns of motion that begin to crystallize and resonate with vibratory influences that beckon the nascent entity onwards. By tracing this progression of consciousness backwards from third density to first, those of Q'uo walk the seeker through the various layers of awareness that accumulate to modify the overall quality of beingness. They end by illustrating the specific nature of a primitive consciousness that, in its limitation to only be acted upon and not act itself, can endure and abide timelessness. Mysteriously, a "primordial desire" emerges at some point impelling the first density graduate to pursue the upward spiraling light into a world of motion, time, action, and complexity.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Events/Fourth Channeling Intensive

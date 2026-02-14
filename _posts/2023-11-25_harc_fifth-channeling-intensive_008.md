@@ -1,11 +1,11 @@
 ---
-Date: '2023-11-25'
-Circle: harc
+date: '2023-11-25'
+circle: harc
 title: Q’uo on Memory as a Feature of Creation
-Event: ci5
-Session: '008'
-Group question: Please discuss the nature of memory as a feature of creation.
-Introduction: 'Here those of Q''uo explore one of the key underlying qualities of evolution: the continuity of identity represented by the faculty of memory. In order to encapsulate Its project of self-understanding through a series of introspective, projective, and reflexive expressions, the individual unit of the Creator accrues the complexes of body, mind, and spirit. At each successive density, this process refines and expands the nature of memory from a merely material affair to an increasingly abstract and noumenal phenomenon as the transforming self is continually reproduced. Ultimately, a kind of cosmic memory spanning octaves relies upon the individual mind/body/spirit complex, as each entity serves as a fixed reference point against which the Creator may evaluate its octaval thought experiments. In relating this, Q''uo offers a new argument for the value and dignity of each individual, both as an irreplaceable agent of the Creator''s eternal self-inquiry and as a site for registering and retaining the fruits of Its distilled learning.'
+event: ci5
+session: '008'
+group_question: Please discuss the nature of memory as a feature of creation.
+introduction: 'Here those of Q''uo explore one of the key underlying qualities of evolution: the continuity of identity represented by the faculty of memory. In order to encapsulate Its project of self-understanding through a series of introspective, projective, and reflexive expressions, the individual unit of the Creator accrues the complexes of body, mind, and spirit. At each successive density, this process refines and expands the nature of memory from a merely material affair to an increasingly abstract and noumenal phenomenon as the transforming self is continually reproduced. Ultimately, a kind of cosmic memory spanning octaves relies upon the individual mind/body/spirit complex, as each entity serves as a fixed reference point against which the Creator may evaluate its octaval thought experiments. In relating this, Q''uo offers a new argument for the value and dignity of each individual, both as an irreplaceable agent of the Creator''s eternal self-inquiry and as a site for registering and retaining the fruits of Its distilled learning.'
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

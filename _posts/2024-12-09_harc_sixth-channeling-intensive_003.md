@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-09'
-Circle: harc
+date: '2024-12-09'
+circle: harc
 title: Laitos on Forgiveness
-Event: ci6
-Session: '003'
-Introduction: In this short training sessions, Laitos addresses the intensity of negative emotions that can be worked with through the energy of forgiveness. These emotions are often brought into our awareness through events involving others, but there is always a component of self that requires forgiving as well. Laitos considers forgiveness of the self an important part of self-acceptance, recognizing its capacity to heal many different states of confused and uncomfortable feeling.
+event: ci6
+session: '003'
+introduction: In this short training sessions, Laitos addresses the intensity of negative emotions that can be worked with through the energy of forgiveness. These emotions are often brought into our awareness through events involving others, but there is always a component of self that requires forgiving as well. Laitos considers forgiveness of the self an important part of self-acceptance, recognizing its capacity to heal many different states of confused and uncomfortable feeling.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Laitos

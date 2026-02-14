@@ -1,11 +1,11 @@
 ---
-Date: '2024-11-22'
-Circle: harc
+date: '2024-11-22'
+circle: harc
 title: Q'uo on Aversion to the Exercise of Will
-Event: ci6
-Session: '020'
-Group question: How do we effectively engage our will when we find ourselves having an aversion to something that needs to be done?
-Introduction: Here Q'uo addresses the frustrated experience of feeling aversion towards exercising one's will to act in accordance with one's presumed identity. They suggest in this session that our desires and the universe's response to them are part of a dynamic relationship which discloses to us our own nature. The veiling effect hampers this disclosure from being clearly recognized, leaving us struggling to reconcile our assumed responsibilities and the past choices that lead to them with our present desires. This is but another facet of the eternal question of how to assert ourselves when doing so cannot help but uncover the unknowns of our own nature. Q'uo locates the friction of aversion here in this question of identity and urges an acceptance of the self's role in the Creator's project of self-discovery.
+event: ci6
+session: '020'
+group_question: How do we effectively engage our will when we find ourselves having an aversion to something that needs to be done?
+introduction: Here Q'uo addresses the frustrated experience of feeling aversion towards exercising one's will to act in accordance with one's presumed identity. They suggest in this session that our desires and the universe's response to them are part of a dynamic relationship which discloses to us our own nature. The veiling effect hampers this disclosure from being clearly recognized, leaving us struggling to reconcile our assumed responsibilities and the past choices that lead to them with our present desires. This is but another facet of the eternal question of how to assert ourselves when doing so cannot help but uncover the unknowns of our own nature. Q'uo locates the friction of aversion here in this question of identity and urges an acceptance of the self's role in the Creator's project of self-discovery.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

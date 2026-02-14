@@ -1,11 +1,11 @@
 ---
-Date: '2021-08-02'
-Circle: colorado-springs
+date: '2021-08-02'
+circle: colorado-springs
 title: Q'uo on Life After the Channeling Intensive
-Event: ci1
-Session: '012'
-Group question: We would like Q'uo to speak on the subject of transitioning from an intensive retreat like ours–specifically a channeling retreat–to daily life, which is imminent, of course. And in particular, I am curious about how to go about things a little differently than before, in a way that's sustainable.
-Introduction: In this final session from the Other Selves Working Group's first channeling intensive, Q'uo counsels the channeling circle on their commitment to ongoing, remote spiritual work upon returning home. They urge the group to discover a balance between the daily duties of life and the responsibility of serving as channels, commenting on the importance of accountability and clear communication. Catalyst may be increased in the group's personal lives, but with that challenge comes additional resources arising from the dedication to the spiritual path. Q'uo finishes by answering questions on despair and healing, concerns about financing the group's effort, and the advisability of practicing channeling at home.
+event: ci1
+session: '012'
+group_question: We would like Q'uo to speak on the subject of transitioning from an intensive retreat like ours–specifically a channeling retreat–to daily life, which is imminent, of course. And in particular, I am curious about how to go about things a little differently than before, in a way that's sustainable.
+introduction: In this final session from the Other Selves Working Group's first channeling intensive, Q'uo counsels the channeling circle on their commitment to ongoing, remote spiritual work upon returning home. They urge the group to discover a balance between the daily duties of life and the responsibility of serving as channels, commenting on the importance of accountability and clear communication. Catalyst may be increased in the group's personal lives, but with that challenge comes additional resources arising from the dedication to the spiritual path. Q'uo finishes by answering questions on despair and healing, concerns about financing the group's effort, and the advisability of practicing channeling at home.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo

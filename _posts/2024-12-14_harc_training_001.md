@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-14'
-Circle: harc_circle
+date: '2024-12-14'
+circle: harc
 title: Q'uo on the Catalyst and Experience of Body Archetypes and Healing
-Event: training
-Introduction: Q'uo discusses the archetypal mind's influence on healing, urging listeners to discern their own truths from the shared insights. They liken life's challenges to a relentless Wheel of Fortune, where the body experiences and absorbs various catalysts. Drawing an analogy to homeopathy, Q'uo suggests that healing can come from small doses of what might otherwise harm, indicating that challenges often contain their own remedies. By reflecting on and integrating these experiences, one can learn and grow, embodying the enchantress who calmly directs the lion. Q'uo advocates for gratitude towards the body and life's catalysts, as they are essential for progress and enriching the soul's journey back to the Creator.
-Group question: What is the relationship between healing and the archetypes of the Catalyst of the Body and the Experience of the Body?
+event: ci6
+introduction: Q'uo discusses the archetypal mind's influence on healing, urging listeners to discern their own truths from the shared insights. They liken life's challenges to a relentless Wheel of Fortune, where the body experiences and absorbs various catalysts. Drawing an analogy to homeopathy, Q'uo suggests that healing can come from small doses of what might otherwise harm, indicating that challenges often contain their own remedies. By reflecting on and integrating these experiences, one can learn and grow, embodying the enchantress who calmly directs the lion. Q'uo advocates for gratitude towards the body and life's catalysts, as they are essential for progress and enriching the soul's journey back to the Creator.
+group_question: What is the relationship between healing and the archetypes of the Catalyst of the Body and the Experience of the Body?
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

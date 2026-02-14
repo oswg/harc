@@ -1,11 +1,11 @@
 ---
-Date: '2024-11-11'
-Circle: harc
+date: '2024-11-11'
+circle: harc
 title: Q'uo on Intellect and Intuition in Archetypal Study
-Event: ci6
-Session: '001'
-Group question: What is the intellect's role in archetypal study? When does it get in the way?
-Introduction: In this exploration of the mind's intricate dance between intellect and intuition, those of the principle of Q'uo invite us to consider the delicate interplay of these facets of consciousness when we make a study of the archetypal mind. Having sketched out the functions and value in the seeking process that these two faculties defined by the veil exhibit, Q'uo draws in the interaction of the matrix and the potentiator as foundational patterns of energy flow in manifestation. However, the pattern described cannot banish the primacy of mystery in seeking, and we are cautioned to balance intellectual approaches and intuition when we study the archetypal mind, abiding with that which our consciously available mental tools cannot explain to our immediate satisfaction.
+event: ci6
+session: '001'
+group_question: What is the intellect's role in archetypal study? When does it get in the way?
+introduction: In this exploration of the mind's intricate dance between intellect and intuition, those of the principle of Q'uo invite us to consider the delicate interplay of these facets of consciousness when we make a study of the archetypal mind. Having sketched out the functions and value in the seeking process that these two faculties defined by the veil exhibit, Q'uo draws in the interaction of the matrix and the potentiator as foundational patterns of energy flow in manifestation. However, the pattern described cannot banish the primacy of mystery in seeking, and we are cautioned to balance intellectual approaches and intuition when we study the archetypal mind, abiding with that which our consciously available mental tools cannot explain to our immediate satisfaction.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

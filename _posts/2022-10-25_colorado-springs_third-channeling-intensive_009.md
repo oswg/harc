@@ -1,9 +1,9 @@
 ---
-Date: '2022-10-25'
-Circle: colorado-springs
+date: '2022-10-25'
+circle: colorado-springs
 title: Q'uo on the Higher Self in Polarized Evolution
-Event: ci3
-Session: '009'
+event: ci3
+session: '009'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -26,8 +26,8 @@ categories:
 - Topics/The Veil
 - Topics/Thought Forms
 audio: /assets/audio/ci03s09_quo_2022-10-09.mp3
-Introduction: Q’uo here speaks, initially, to the broad problem of becoming an incarnatively created self, prior to turning to the question of the higher self proper. The focus is on the way in which the higher self may be of service in aiding the development of the self as it reaches the stage of evolution in which the spirit complex becomes a dynamic variable in its process. Finally, Q’uo speaks to the differences between the two polarities, positive and negative, with respect to the manner in which guidance of the evolution of self-hood is effectuated.
-Group question: How does the higher self participate in the positive and negative paths?&nbsp;
+introduction: Q’uo here speaks, initially, to the broad problem of becoming an incarnatively created self, prior to turning to the question of the higher self proper. The focus is on the way in which the higher self may be of service in aiding the development of the self as it reaches the stage of evolution in which the spirit complex becomes a dynamic variable in its process. Finally, Q’uo speaks to the differences between the two polarities, positive and negative, with respect to the manner in which guidance of the evolution of self-hood is effectuated.
+group_question: How does the higher self participate in the positive and negative paths?&nbsp;
 ---
 
 

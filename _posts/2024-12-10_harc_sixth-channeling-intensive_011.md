@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-10'
-Circle: harc
+date: '2024-12-10'
+circle: harc
 title: Q'uo on Acceptance and Letting Go
-Event: ci6
-Session: '011'
-Introduction: Here Q'uo discusses the value of both letting go and acceptance as a balance to the active pursuit of control. They suggest that true peace and trust emerge from releasing the need to dictate outcomes, inviting listeners to consider the possibilities that silence and passive observation can reveal. Letting go is linked to accessing deeper mental resources and cultivating inner tranquility. Q'uo also advises reevaluating the beliefs and identities we cling to for security, proposing that this can open us up to new experiences and insights. They describe letting go as a compassionate process of forgiveness and healing, emphasizing that it involves working with love and compassion to release and heal, rather than forcefully discarding parts of ourselves.
+event: ci6
+session: '011'
+introduction: Here Q'uo discusses the value of both letting go and acceptance as a balance to the active pursuit of control. They suggest that true peace and trust emerge from releasing the need to dictate outcomes, inviting listeners to consider the possibilities that silence and passive observation can reveal. Letting go is linked to accessing deeper mental resources and cultivating inner tranquility. Q'uo also advises reevaluating the beliefs and identities we cling to for security, proposing that this can open us up to new experiences and insights. They describe letting go as a compassionate process of forgiveness and healing, emphasizing that it involves working with love and compassion to release and heal, rather than forcefully discarding parts of ourselves.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

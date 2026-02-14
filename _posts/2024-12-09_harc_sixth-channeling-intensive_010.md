@@ -1,10 +1,10 @@
 ---
-Date: '2024-12-09'
-Circle: harc
+date: '2024-12-09'
+circle: harc
 title: Q'uo on Faith
-Event: ci6
-Session: '010'
-Introduction: Q'uo discusses faith as an essential element in the third-density journey of learning love, where individuals navigate an illusion of separateness and fear. Faith is compared to the archetype of the Fool, who fearlessly steps forward, trusting that all is well. This journey of faith involves questioning identity and purpose, making choices of service to others or self, and working through the chakras, starting from the base and moving towards the heart center where the realization of universal love and connectedness begins. As individuals progress, faith grows, guiding them through life's uncertainties and leading to spiritual evolution. Q'uo emphasizes that faith is not just belief but a faculty that develops with an open heart, and it is through faith that one can continually connect to the unconditional love of the One Infinite Creator.
+event: ci6
+session: '010'
+introduction: Q'uo discusses faith as an essential element in the third-density journey of learning love, where individuals navigate an illusion of separateness and fear. Faith is compared to the archetype of the Fool, who fearlessly steps forward, trusting that all is well. This journey of faith involves questioning identity and purpose, making choices of service to others or self, and working through the chakras, starting from the base and moving towards the heart center where the realization of universal love and connectedness begins. As individuals progress, faith grows, guiding them through life's uncertainties and leading to spiritual evolution. Q'uo emphasizes that faith is not just belief but a faculty that develops with an open heart, and it is through faith that one can continually connect to the unconditional love of the One Infinite Creator.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

@@ -1,11 +1,11 @@
 ---
-Date: '2023-11-25'
-Circle: harc
+date: '2023-11-25'
+circle: harc
 title: Q'uo on the Polarized Use of Will
-Event: ci5
-Session: '007'
-Group question: How does the use of will differ between positively polarizing entities and negatively polarizing entities? How are they similar?
-Introduction: In this session, those of Q'uo provide observations on the manner in which the will is specifically involved in the polarization process, shedding light on how the service-to-self entity exercises this faculty relative to the service-to-others entity. As a structuring and motivating force for the deep mind in third density, will serves to refine the personality through basic responses of acceptance and rejection towards desires from within and catalyst from seemingly without. While neither response is completely abandoned on either polarity, one response will tend to typify the direction of one's path, strengthening an energetic pattern for how one relates to other selves and the world. Given its role in maintaining a cohesive and secure personality in our lives, Q’uo explores several attitudinal, philosophical, and strategic factors impacting how a mind/body/spirit complex employs will to work with lessons and polarize towards harvestability.
+event: ci5
+session: '007'
+group_question: How does the use of will differ between positively polarizing entities and negatively polarizing entities? How are they similar?
+introduction: In this session, those of Q'uo provide observations on the manner in which the will is specifically involved in the polarization process, shedding light on how the service-to-self entity exercises this faculty relative to the service-to-others entity. As a structuring and motivating force for the deep mind in third density, will serves to refine the personality through basic responses of acceptance and rejection towards desires from within and catalyst from seemingly without. While neither response is completely abandoned on either polarity, one response will tend to typify the direction of one's path, strengthening an energetic pattern for how one relates to other selves and the world. Given its role in maintaining a cohesive and secure personality in our lives, Q’uo explores several attitudinal, philosophical, and strategic factors impacting how a mind/body/spirit complex employs will to work with lessons and polarize towards harvestability.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

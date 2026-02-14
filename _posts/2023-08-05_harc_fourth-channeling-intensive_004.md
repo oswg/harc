@@ -1,11 +1,11 @@
 ---
-Date: '2023-08-05'
-Circle: harc
+date: '2023-08-05'
+circle: harc
 title: Q'uo on the Shadow Self and the Authoritarian Personality
-Event: ci4
-Session: '004'
-Group question: The question today has to do with the shadow side of the personality, and the way that repression plays into the development of that shadow side, the sense in which having a shadow side leaves us susceptible to the manipulation of those who would play authorities to us and what we might do to limit our susceptibility to this kind of manipulation.
-Introduction: Those of Q'uo address the societal roots of authoritarianism in the individual's repression of ugly or unwanted parts of the individual into their unconscious mind. Most people repress parts of themselves from free expression, building a potential that can be politically and socially released at scale in mass society by certain personalities which magnetically attract these repressed other selves. Releasing this potential sidesteps the necessity of the repressed individual to call sufficiently upon the spirit complex, trapping the repressed individual in the sinkhole of indifference indefinitely. Q'uo ends by discussing the power yielded through polarized engagement with this shadow self and suggests how one might positively accomplish this work.
+event: ci4
+session: '004'
+group_question: The question today has to do with the shadow side of the personality, and the way that repression plays into the development of that shadow side, the sense in which having a shadow side leaves us susceptible to the manipulation of those who would play authorities to us and what we might do to limit our susceptibility to this kind of manipulation.
+introduction: Those of Q'uo address the societal roots of authoritarianism in the individual's repression of ugly or unwanted parts of the individual into their unconscious mind. Most people repress parts of themselves from free expression, building a potential that can be politically and socially released at scale in mass society by certain personalities which magnetically attract these repressed other selves. Releasing this potential sidesteps the necessity of the repressed individual to call sufficiently upon the spirit complex, trapping the repressed individual in the sinkhole of indifference indefinitely. Q'uo ends by discussing the power yielded through polarized engagement with this shadow self and suggests how one might positively accomplish this work.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

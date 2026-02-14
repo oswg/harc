@@ -1,10 +1,10 @@
 ---
-Date: '2022-10-25'
-Circle: colorado-springs
+date: '2022-10-25'
+circle: colorado-springs
 title: Q'uo on the Dangers of Channeling
-Event: ci3
-Session: '008'
-Group question: What are the dangers of channeling? How would we best approach training in that context?
+event: ci3
+session: '008'
+group_question: What are the dangers of channeling? How would we best approach training in that context?
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -23,7 +23,7 @@ categories:
 - Topics/Safety
 - Topics/Service
 audio: /assets/audio/ci03s08_quo_2022-10-08.mp3
-Introduction: This evening session features those of Q’uo discussing the pitfalls of channeling with a special focus on channeling instruction. They catalog several ways in which instruments can lose their tuning and protection, and the danger of this recklessness is magnified in teachers. We hold a responsibility to ourselves, to other selves, to students, and to the Creator to be fastidious in our channeling conduct, and this requires care in whom we choose to teach to channel.It is in the daily life that we can do the least exotic and most grounding work in recognizing and promoting that vibration we seek in our service as instruments.
+introduction: This evening session features those of Q’uo discussing the pitfalls of channeling with a special focus on channeling instruction. They catalog several ways in which instruments can lose their tuning and protection, and the danger of this recklessness is magnified in teachers. We hold a responsibility to ourselves, to other selves, to students, and to the Creator to be fastidious in our channeling conduct, and this requires care in whom we choose to teach to channel.It is in the daily life that we can do the least exotic and most grounding work in recognizing and promoting that vibration we seek in our service as instruments.
 ---
 
 

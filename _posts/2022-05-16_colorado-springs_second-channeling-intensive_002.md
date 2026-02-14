@@ -1,14 +1,14 @@
 ---
-Date: '2022-05-16'
-Circle: colorado-springs
+date: '2022-05-16'
+circle: colorado-springs
 title: Q'uo on Disciplining the Emotions into Love
-Event: ci2
-Session: '002'
-Group question: |-
+event: ci2
+session: '002'
+group_question: |-
   We would like Q’uo to expand on the meaning of the following passage from Ra, which can be found in session 64, question 4:
 
   "The principle behind any ritual of the white magical nature is to so configure the stimuli which reach down into the trunk of mind that this arrangement causes the generation of disciplined and purified emotion or love which then may be both protection and the key to the gateway to intelligent infinity."
-Introduction: 'In this session Q’uo speaks to the process and the tribulations involved in the task that increasingly becomes central to the aspiring adept: the work of disciplining the emotions. Stress is laid upon the need to integrate work in the daily life with that work which is done in meditation. Q’uo develops in some detail the exigencies of daily work, showing how this fits in with our interactions with other selves. And the point is made that these interactions will not always be sweet and harmonious, even when there is a prevailing intent to make them so. Finally, attention is given to how the harvest of the work done in daily life can be brought into the more focused workings of the meditative situation.'
+introduction: 'In this session Q’uo speaks to the process and the tribulations involved in the task that increasingly becomes central to the aspiring adept: the work of disciplining the emotions. Stress is laid upon the need to integrate work in the daily life with that work which is done in meditation. Q’uo develops in some detail the exigencies of daily work, showing how this fits in with our interactions with other selves. And the point is made that these interactions will not always be sweet and harmonious, even when there is a prevailing intent to make them so. Finally, attention is given to how the harvest of the work done in daily life can be brought into the more focused workings of the meditative situation.'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo

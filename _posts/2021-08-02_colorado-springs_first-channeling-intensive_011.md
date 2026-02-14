@@ -1,10 +1,10 @@
 ---
-Date: '2021-08-02'
-Circle: colorado-springs
+date: '2021-08-02'
+circle: colorado-springs
 title: Q'uo on the Cycle of Desire, Love, Despair and Healing
-Event: ci1
-Session: '011'
-Introduction: Q’uo here addresses the issue of love in the context of human experience, where it is described as an essential portion of a cycle in which love seems to become first lost and then recovered. In this respect, love undergoes transformations that deepen the life experience of the mind/body/spirit complex that aspires to evolve.
+event: ci1
+session: '011'
+introduction: Q’uo here addresses the issue of love in the context of human experience, where it is described as an essential portion of a cycle in which love seems to become first lost and then recovered. In this respect, love undergoes transformations that deepen the life experience of the mind/body/spirit complex that aspires to evolve.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo

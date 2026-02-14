@@ -1,11 +1,11 @@
 ---
-Date: '2023-08-04'
-Circle: harc
+date: '2023-08-04'
+circle: harc
 title: Q'uo on Calling and Service
-Event: ci4
-Session: '005'
-Group question: How does calling for service work and how is it related to free will?
-Introduction: Those of Q'uo tackle the concept of calling in this short session, specifically how it relates to service. Calling is a reciprocal phenomenon to service that highlights the interrelated nature of the creation, and calling is as necessary as service. Because those of Q'uo seek to serve in the positive polarity, they describe some of their concerns about answering callings and how they might approach them in a spirit of respecting free will and the capacity of third density consciousness. Some guidance is also provided on how to think about asking for service in a way that advances the seeker's spiritual evolution.
+event: ci4
+session: '005'
+group_question: How does calling for service work and how is it related to free will?
+introduction: Those of Q'uo tackle the concept of calling in this short session, specifically how it relates to service. Calling is a reciprocal phenomenon to service that highlights the interrelated nature of the creation, and calling is as necessary as service. Because those of Q'uo seek to serve in the positive polarity, they describe some of their concerns about answering callings and how they might approach them in a spirit of respecting free will and the capacity of third density consciousness. Some guidance is also provided on how to think about asking for service in a way that advances the seeker's spiritual evolution.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

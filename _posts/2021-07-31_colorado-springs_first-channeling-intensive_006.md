@@ -1,10 +1,10 @@
 ---
-Date: '2021-07-31'
-Circle: colorado-springs
+date: '2021-07-31'
+circle: colorado-springs
 title: Q'uo on Love and Wisdom
-Event: ci1
-Session: '006'
-Introduction: Love and wisdom are such fundamental aspects of the creation that each is accorded an entire density of experience to allow for the evolving creature to perfect its reflection of this facet of the Creator. In the sixth density the two dimensions must be brought into a state of balance with one another. Even in the third density, however, issues of balance arise. Q’uo here responds to our query concerning the issues and complications that arise in this process.&nbsp;
+event: ci1
+session: '006'
+introduction: Love and wisdom are such fundamental aspects of the creation that each is accorded an entire density of experience to allow for the evolving creature to perfect its reflection of this facet of the Creator. In the sixth density the two dimensions must be brought into a state of balance with one another. Even in the third density, however, issues of balance arise. Q’uo here responds to our query concerning the issues and complications that arise in this process.&nbsp;
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo

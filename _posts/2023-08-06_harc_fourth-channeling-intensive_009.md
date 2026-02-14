@@ -1,11 +1,11 @@
 ---
-Date: '2023-08-06'
-Circle: harc
+date: '2023-08-06'
+circle: harc
 title: Q'uo on Polarized Time/Space
-Event: ci4
-Session: '009'
-Group question: Can you discuss the nature of time/space, particularly with regard to how it could possibly be polarized into positive and negative?
-Introduction: This session deals with the nature of time/space as a reciprocal, alternatively constrained experience to space/time, offering mind/body/spirit complexes a more qualitative realm in which to intensify the focus of their seeking. Q'uo discusses the individual's oscillation through these two realms of experience and how they contribute to one's seeking path, especially with respect to the polarized nature of time/space. There is also some engagement with the nature of time, and those of Q'uo describe the dream experience as an example of those more fluid encounters with phenomena that time/space makes possible. As mind/body/spirit complexes grow more and more into their chosen path of polarity, time/space prepares the entity to make better use of space/time opportunities.
+event: ci4
+session: '009'
+group_question: Can you discuss the nature of time/space, particularly with regard to how it could possibly be polarized into positive and negative?
+introduction: This session deals with the nature of time/space as a reciprocal, alternatively constrained experience to space/time, offering mind/body/spirit complexes a more qualitative realm in which to intensify the focus of their seeking. Q'uo discusses the individual's oscillation through these two realms of experience and how they contribute to one's seeking path, especially with respect to the polarized nature of time/space. There is also some engagement with the nature of time, and those of Q'uo describe the dream experience as an example of those more fluid encounters with phenomena that time/space makes possible. As mind/body/spirit complexes grow more and more into their chosen path of polarity, time/space prepares the entity to make better use of space/time opportunities.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo

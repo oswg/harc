@@ -1,10 +1,10 @@
 ---
-Date: '2021-07-31'
-Circle: colorado-springs
+date: '2021-07-31'
+circle: colorado-springs
 title: Laitos on Service
-Event: ci1
-Session: '004'
-Introduction: In this session from the Other Selves Working Group's first channeling intensive, those of Laitos explore several dimensions of service to others. As an attitude we exude in our daily activities, service realizes an expanded self that can tune into the Creator in others in an increasingly automatic fashion. In exploring our foundational desire to serve, we learn to gently balance active service with work in consciousness, replenishing our will to seek the Creator and refining the honesty of that desire. These lessons in the subtleties of the positive polarity allow us and the Creator to benefit from our attempts at serving even when they fail, helping us return to the state of grace which confers peace in spite of the ups and downs of incarnate life.
+event: ci1
+session: '004'
+introduction: In this session from the Other Selves Working Group's first channeling intensive, those of Laitos explore several dimensions of service to others. As an attitude we exude in our daily activities, service realizes an expanded self that can tune into the Creator in others in an increasingly automatic fashion. In exploring our foundational desire to serve, we learn to gently balance active service with work in consciousness, replenishing our will to seek the Creator and refining the honesty of that desire. These lessons in the subtleties of the positive polarity allow us and the Creator to benefit from our attempts at serving even when they fail, helping us return to the state of grace which confers peace in spite of the ups and downs of incarnate life.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Laitos

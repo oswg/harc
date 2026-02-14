@@ -27,9 +27,9 @@ layout: default
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% assign intro = doc.Introduction | default: doc.introduction | default: doc.excerpt %}
+    {% assign intro = doc.introduction | default: doc.excerpt %}
     {% if intro %}
-      {% if doc.Introduction or doc.introduction %}
+      {% if doc.introduction %}
         <p>{{ intro }}</p>
       {% else %}
         {{ intro }}

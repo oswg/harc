@@ -1,10 +1,10 @@
 ---
-Date: '2021-07-30'
-Circle: colorado-springs
+date: '2021-07-30'
+circle: colorado-springs
 title: Laitos on Forgiveness
-Event: ci1
-Session: '002'
-Introduction: 'Forgiveness is an issue we all have to deal with on a fairly regular basis, and for many of us, it poses a real conundrum. Laitos here does little to make the issue simpler, but rather deepens the concept by suggesting that it is a project which extends well into the higher densities. The problem is broken down into the following components: (1) The act of forgiving needs to include both the self and the other, (2) The gift of the energy of the Creator, as unfathomable as it may be, is still perhaps our best resource, and (3) There is something called “complete forgiveness,” in which a full balance is achieved by each self forgiving itself and the other.'
+event: ci1
+session: '002'
+introduction: 'Forgiveness is an issue we all have to deal with on a fairly regular basis, and for many of us, it poses a real conundrum. Laitos here does little to make the issue simpler, but rather deepens the concept by suggesting that it is a project which extends well into the higher densities. The problem is broken down into the following components: (1) The act of forgiving needs to include both the self and the other, (2) The gift of the energy of the Creator, as unfathomable as it may be, is still perhaps our best resource, and (3) There is something called “complete forgiveness,” in which a full balance is achieved by each self forgiving itself and the other.'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Laitos

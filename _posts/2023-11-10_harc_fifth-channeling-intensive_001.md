@@ -1,11 +1,11 @@
 ---
-Date: '2023-11-10'
-Circle: harc
+date: '2023-11-10'
+circle: harc
 title: Q’uo on the Will’s Role in Third Density
-Event: ci5
-Session: '001'
-Group question: How can the exercise of will and the expression of yellow ray power lead to green ray activation? What is the role of power in harmonizing with one's social role?
-Introduction: Q'uo here addresses the role of the will in the development of power, polarity, and expression of true character through activation, exploration, and unblocking of the yellow ray energy center. Vibrating more and more in a socially oriented yellow ray manner, one encounters opportunities to form a variety of attitudes towards will's exercise, both by and upon the self. In the blockages and expressions of self this attitude evinces in having one's will constrained or empowered through social structures, will achieves ever redoubled focus through the practice of channeling it through structures of social norms and authorities. One either aspires to worthiness to use this power to serve others as a value or to the power to bring other selves under control, learning in the process something about one's nature otherwise hidden and vital to green ray activation.
+event: ci5
+session: '001'
+group_question: How can the exercise of will and the expression of yellow ray power lead to green ray activation? What is the role of power in harmonizing with one's social role?
+introduction: Q'uo here addresses the role of the will in the development of power, polarity, and expression of true character through activation, exploration, and unblocking of the yellow ray energy center. Vibrating more and more in a socially oriented yellow ray manner, one encounters opportunities to form a variety of attitudes towards will's exercise, both by and upon the self. In the blockages and expressions of self this attitude evinces in having one's will constrained or empowered through social structures, will achieves ever redoubled focus through the practice of channeling it through structures of social norms and authorities. One either aspires to worthiness to use this power to serve others as a value or to the power to bring other selves under control, learning in the process something about one's nature otherwise hidden and vital to green ray activation.
 categories:
 - Circles/The High Altitude Receiving Center (HARC) Circle
 - Contacts/Q'uo
