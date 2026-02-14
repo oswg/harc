@@ -1,15 +1,13 @@
 # frozen_string_literal: true
 
-# Jekyll plugin: Build post permalinks and populate circle/event/session from filename
+# Jekyll plugin: Build post permalinks and populate date/circle/event/session from filename
 # Permalink format: /{date}/{circle}/{event}/{session}/{slugified-title} (session padded to 3 digits)
 #
 # Filename format: YYYY-MM-DD_circle_event_session-number (e.g. 2024-01-01_richmond_ccp_017.md)
-# Values parsed from filename are stored in post.data and available in templates as:
-#   {{ post.circle }}  {{ post.event }}  {{ post.session }}
+# The filename is the source of truth. Date, circle, event, and session are parsed from it and
+# stored in post.data. No need to duplicate these in front matter.
 # Use {{ post.circle_display }} and {{ post.event_display }} for human-readable names
-# (configure designation_mappings in _config.yml). Front matter overrides filename-derived values.
-#
-# Event can also come from categories (Event/CCP) for the permalink.
+# (configure designation_mappings in _config.yml).
 
 def designation_display(value, field, mappings)
   return value.to_s if value.to_s.strip.empty?
@@ -52,18 +50,25 @@ def event_from_categories(categories)
   nil
 end
 
-# Parse circle, event, session from filename (YYYY-MM-DD_circle_event_session-number)
-# Returns { circle:, event:, session: } or nil if format doesn't match
+# Parse date, circle, event, session from filename (YYYY-MM-DD_circle_event_session-number)
+# Returns { date:, circle:, event:, session: } or nil if format doesn't match
+# Filename is the source of truth for these fields; front matter is ignored for them.
 def parse_filename_metadata(relative_path)
   basename = File.basename(relative_path.to_s, ".*")
-  return nil unless basename =~ /\A\d{4}-\d{2}-\d{2}[-_](.+)\z/
-  slug = Regexp.last_match(1)
+  return nil unless basename =~ /\A(\d{4}-\d{2}-\d{2})[-_](.+)\z/
+  date_str = Regexp.last_match(1)
+  slug = Regexp.last_match(2)
   parts = slug.split("_")
   return nil unless parts.length >= 2 && parts.last.match?(/^\d+$/)
   session = parts.last
   event = Jekyll::Utils.slugify(parts[-2])
   circle = parts.length >= 3 ? parts[0] : nil
-  { :circle => circle, :event => event, :session => session }
+  date = begin
+    Time.parse(date_str)
+  rescue ArgumentError
+    nil
+  end
+  { :date => date, :circle => circle, :event => event, :session => session }
 end
 
 Jekyll::Hooks.register :site, :post_read do |site|
@@ -73,24 +78,26 @@ Jekyll::Hooks.register :site, :post_read do |site|
     data = post.data
     parsed = parse_filename_metadata(post.relative_path)
 
+    # Filename is source of truth for date, circle, event, session when parseable
     if parsed
-      data["circle"] ||= parsed[:circle]
-      data["event"] ||= parsed[:event]
-      data["session"] ||= parsed[:session]
+      data["date"] = parsed[:date] if parsed[:date]
+      data["circle"] = parsed[:circle] if parsed[:circle]
+      data["event"] = parsed[:event] if parsed[:event]
+      data["session"] = parsed[:session] if parsed[:session]
     end
 
     data["circle_display"] = designation_display(data["circle"], "circle", mappings)
 
     circle_from_cat = circle_from_categories(data["categories"])
-    circle_raw = circle_from_cat&.dig(:slug) || data["circle"]&.then { |c| Jekyll::Utils.slugify(c.to_s) } || parsed&.dig(:circle)
+    circle_raw = data["circle"]&.then { |c| Jekyll::Utils.slugify(c.to_s) } || circle_from_cat&.dig(:slug) || parsed&.dig(:circle)
     circle_for_url = CIRCLE_SLUG_OVERRIDES[circle_raw.to_s] || designation_slug_for_url(circle_raw, "circle", mappings)
 
     event_from_cat = event_from_categories(data["categories"])
-    event_raw = event_from_cat&.dig(:slug) || data["event"]&.then { |e| Jekyll::Utils.slugify(e.to_s) } || parsed&.dig(:event)
+    event_raw = data["event"]&.then { |e| Jekyll::Utils.slugify(e.to_s) } || event_from_cat&.dig(:slug) || parsed&.dig(:event)
     event_display = designation_display(event_raw, "event", mappings)
     data["event_display"] = (event_display != event_raw && !event_display.empty?) ? event_display : (event_from_cat&.dig(:display) || data["event"]&.to_s || event_raw.to_s)
     event_for_url = designation_slug_for_url(event_raw, "event", mappings)
-    session = data["session"]&.to_s || parsed&.dig(:session)
+    session = data["session"]&.to_s || parsed&.dig(:session)&.to_s
     next unless data["date"] && circle_for_url && event_for_url && session && data["title"]
 
     date_str = data["date"].respond_to?(:strftime) ? data["date"].strftime("%Y-%m-%d") : data["date"].to_s
