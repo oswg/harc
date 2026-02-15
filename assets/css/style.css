@@ -160,16 +160,30 @@ img.custom-logo {
   border-top: 1px solid #ddd9d6;
 }
 
-.entry-footer h3 {
-  font-size: 2em;
-}
-
 .entry-footer .cat-links::after {
   content: " | ";
 }
 
-.entry-footer .category-links {
+/* Limit gap between post content and category list to 2em max */
+.post .entry-content {
+  padding-bottom: 1em;
+}
+.post hr {
+  margin: 0.5em 0;
+}
+.post .category-list-wrap {
+  margin-top: 0;
+}
+
+.category-list-wrap {
+  border: 2px solid gray;
+  margin: 1.25rem 3rem;
+  padding: 1.25rem 3rem;
+}
+
+article .category-links {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
@@ -177,7 +191,7 @@ img.custom-logo {
   gap: 0 0.5rem;
 }
 
-.entry-footer .category-links li + li::before {
+article .category-links li + li::before {
   content: " · ";
   margin-right: 0.5rem;
 }
@@ -270,6 +284,27 @@ img.custom-logo {
   min-height: 10rem;
   padding: 3rem 7.6923% !important; /* equal vertical padding so title centers in beige box */
   margin-bottom: 3rem;
+}
+
+/* Category and archive pages: center page-header text both horizontally and vertically */
+.page-header-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 10rem;
+  padding: 3rem 7.6923%;
+}
+.page-header-centered .page-title {
+  margin-bottom: 0;
+}
+.page-header-centered .page-description,
+.page-header-centered .taxonomy-description {
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
 }
 
 .search-form {

@@ -68,19 +68,19 @@ layout: default
   </div><!-- .entry-content -->
 
   {% if doc.categories and doc.categories.size > 0 %}
-  <footer class="entry-footer entry-categories">
-    <h3>Categories</h3>
-    <ul class="category-links">
-      {% for cat in doc.categories %}
-      {% unless cat == "Channeling Session" %}
-      {% assign cat_slug = cat | category_slug %}
-      {% if cat_slug != '' %}
-      <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat | category_display }}</a></li>
-      {% endif %}
-      {% endunless %}
-      {% endfor %}
-    </ul>
-  </footer>
+  <hr>
+  <div class="category-list-wrap">
+  <ul class="category-links">
+    {% for cat in doc.categories %}
+    {% unless cat == "Channeling Session" %}
+    {% assign cat_slug = cat | category_slug %}
+    {% if cat_slug != '' %}
+    <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat | category_display }}</a></li>
+    {% endif %}
+    {% endunless %}
+    {% endfor %}
+  </ul>
+  </div>
   {% endif %}
 
 </article>

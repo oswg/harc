@@ -6,7 +6,7 @@ layout: default
   Category archive: lists posts in this category (oldest first) using intro_only style.
   Matches the home page listing. Expects page.posts and page.title.
 {% endcomment %}
-<header class="page-header">
+<header class="page-header page-header-centered">
   <h1 class="page-title">{{ page.title | category_display }}</h1>
   {% assign desc = site.data.category_descriptions[page.category] %}
   {% if desc and desc != "" %}
