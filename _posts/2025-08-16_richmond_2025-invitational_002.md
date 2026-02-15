@@ -25,8 +25,7 @@ categories:
 - Topics/The Veil
 - Topics/Third Density
 - Topics/Thought Forms
-audio: "/assets/audio/2025-08-16_richmond_2025-invitational_002.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2025-08-16_richmond_2025-invitational_002.mp3"---
 
 _(Jeremy channeling)_
 

@@ -21,7 +21,7 @@ Jekyll site for High Altitude Receiving Center. Theme converted from the WordPre
 | `session`   | Session number                       |
 | `categories`| e.g. `Transcripts`, `Training Session` |
 | `tags`      | Optional tags                        |
-| `audio`     | Path to audio file (e.g. `/assets/audio/xxx.mp3`). When set, an HTML5 audio player is shown on the post page. |
+| `audio`     | URL to audio file (S3 URL or path like `/assets/audio/xxx.mp3`). When set, an HTML5 audio player is shown on the post page. |
 
 Posts in the **Training Session** category get the training label and caveat on the single post view.
 
@@ -52,6 +52,24 @@ If har.center uses different custom field names or category structures, the scri
    ruby scripts/add_audio_from_wxr.rb ~/Downloads/harc_wp.xml --replace-url harc.otherselvesworking.group=har.center
    ```
    The script extracts audio URLs from the WXR, downloads them to `assets/audio/`, and adds an `audio` field to each matching post. Posts with `audio` set will display an HTML5 audio player.
+
+## Deploy (S3 + GitHub)
+
+Audio files are stored in S3 to keep the repo small. The deploy script uploads MP3s, updates frontmatter with S3 URLs, and pushes to `origin main`.
+
+**Prerequisites:** AWS CLI configured (`aws configure`) with write access to your S3 bucket.
+
+```bash
+# Create an S3 bucket and set public read access for the audio prefix if needed
+export HARC_S3_BUCKET=your-bucket-name
+# Optional: HARC_S3_PREFIX=audio (default), HARC_S3_REGION=us-east-1
+
+ruby scripts/deploy.rb              # Upload, update frontmatter, commit & push
+ruby scripts/deploy.rb --dry-run    # Preview without committing
+ruby scripts/deploy.rb --no-push    # Upload and commit, but don't push
+```
+
+MP3s in `assets/audio/` are gitignored. Keep them locally for deploys; the script uploads them to S3 and rewrites `audio:` in post frontmatter to full S3 URLs.
 
 ## Run locally
 

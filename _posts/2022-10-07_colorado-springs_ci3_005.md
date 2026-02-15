@@ -18,10 +18,7 @@ categories:
 - Topics/Respect
 - Topics/Transformation
 - Topics/Trust
-audio: "/assets/audio/ci03s05_quo_2022-10-07.mp3"
-introduction: In this session, Q’uo addresses the problem of the stubborn persistence of certain wounded affects, in this case, those of disappointment and resentment. An attempt is made to uncover the structure of the psyche such that these issues could pose such a great difficulty for those who seek to heal and to become whole. While those of Q’uo do not feel it possible to give a complete answer in the form of a formula for overcoming these wounds, a&nbsp; few gentle suggestions about how one might address the condition are offered.
-group_question: How does one allow love to heal disappointment and resentment?
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s05_quo_2022-10-07.mp3"---
 
 _(Steve channeling)_
 

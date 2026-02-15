@@ -14,8 +14,7 @@ categories:
 - Topics/Despair
 - Topics/Discernment
 - Topics/Healing
-audio: "/assets/audio/2021-08-02_going_home.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-02_going_home.mp3"---
 
 _(Joseph channeling)_
 

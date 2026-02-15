@@ -15,10 +15,7 @@ categories:
 - Topics/Group Mind
 - Topics/Mind Complex
 - Topics/Spirit Complex
-audio: "/assets/audio/ci03s06_quo_2022-10-08.mp3"
-introduction: In this session, those of Q’uo address the nature of mind and its relation to the body. They discuss the grounding of mind in love and how its fluid nature relates to manifestation and embodiment. Some hints are also offered about how the body relates mind back to itself. Towards the end, Q’uo answers a question on the “tree of mind” metaphor as viewed from the body complex.
-group_question: What is mind? What did those of Ra mean when they described the body as “the creature of the mind”?
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s06_quo_2022-10-08.mp3"---
 
 _(Jeremy channeling)_
 

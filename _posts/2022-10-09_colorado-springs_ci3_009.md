@@ -21,10 +21,7 @@ categories:
 - Topics/Safety
 - Topics/The Veil
 - Topics/Thought Forms
-audio: "/assets/audio/ci03s09_quo_2022-10-09.mp3"
-introduction: Q’uo here speaks, initially, to the broad problem of becoming an incarnatively created self, prior to turning to the question of the higher self proper. The focus is on the way in which the higher self may be of service in aiding the development of the self as it reaches the stage of evolution in which the spirit complex becomes a dynamic variable in its process. Finally, Q’uo speaks to the differences between the two polarities, positive and negative, with respect to the manner in which guidance of the evolution of self-hood is effectuated.
-group_question: How does the higher self participate in the positive and negative paths?&nbsp;
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s09_quo_2022-10-09.mp3"---
 
 _(Steve channeling)_
 

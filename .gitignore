@@ -1,4 +1,5 @@
 _site/
+assets/audio/*.mp3
 .jekyll-cache/
 .bundle/
 vendor/

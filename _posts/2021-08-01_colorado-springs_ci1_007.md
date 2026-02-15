@@ -12,8 +12,7 @@ categories:
 - Topics/Humility
 - Topics/Second Density
 - Topics/Third Density
-audio: "/assets/audio/2021-08-01_humility.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_humility.mp3"---
 
 _(Jeremy channeling)_
 

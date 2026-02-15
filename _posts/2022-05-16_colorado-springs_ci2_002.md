@@ -17,8 +17,7 @@ categories:
 - Topics/Emotions
 - Topics/Magic
 - Topics/Third Density
-audio: "/assets/audio/2022-05-16_1206_love_tracking.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_1206_love_tracking.mp3"---
 
 _(Steve channeling)_
 

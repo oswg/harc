@@ -9,8 +9,7 @@ categories:
 - Topics/Desire
 - Topics/Despair
 - Topics/Healing
-audio: "/assets/audio/2021-08-02_love_desire_despair_healing.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-02_love_desire_despair_healing.mp3"---
 
 _(Steve Channeling)_
 

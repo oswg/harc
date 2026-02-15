@@ -7,8 +7,7 @@ categories:
 - Events/First Channeling Intensive
 - Instruments/Jeremy
 - Topics/Yellow Ray
-audio: "/assets/audio/2021-08-01_yellow_ray_and_orgs.mp3"
----
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_yellow_ray_and_orgs.mp3"---
 
 _(Jeremy channeling_)
 
