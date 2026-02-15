@@ -1,20 +1,19 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Find posts without an audio key, infer S3 path from filename, download, transcribe, update post.
+# Find posts with transcribe: true, download their audio from the frontmatter URL,
+# transcribe, put the transcript in the body, and remove transcribe: true.
 # Used by the transcribe-missing-audio GitHub Action.
 #
 # Usage:
-#   OPENAI_API_KEY=xxx HARC_S3_BUCKET=my-bucket ruby scripts/transcribe_missing_audio.rb
-#   OPENAI_API_KEY=xxx HARC_S3_BUCKET=my-bucket ruby scripts/transcribe_missing_audio.rb --dry-run
+#   OPENAI_API_KEY=xxx ruby scripts/transcribe_missing_audio.rb
+#   OPENAI_API_KEY=xxx ruby scripts/transcribe_missing_audio.rb --dry-run
 #
 # Env:
 #   OPENAI_API_KEY   (required)
-#   HARC_S3_BUCKET   (required)
-#   HARC_S3_PREFIX   (default: audio)
-#   HARC_S3_REGION   (default: us-east-1)
 
 require "openai"
+require "shellwords"
 
 POSTS_DIR = "_posts"
 
@@ -44,41 +43,47 @@ module Transcriber
   end
 end
 
-def posts_without_audio
+def posts_with_transcribe_true
   Dir["#{POSTS_DIR}/*.md"].sort.select do |path|
     content = File.read(path)
     next false unless content =~ /\A---\s*\n(.*?)---\s*\n(.*)/m
     fm = Regexp.last_match(1)
-    !fm.match?(/^audio:\s/m)
+    fm.match?(/^transcribe:\s*true/mi)
   end
 end
 
-def infer_s3_key(post_path)
-  basename = File.basename(post_path, ".md")
-  prefix = (ENV["HARC_S3_PREFIX"] || "audio").strip.chomp("/")
-  prefix.empty? ? "#{basename}.mp3" : "#{prefix}/#{basename}.mp3"
+def audio_url_from_post(content)
+  return nil unless content =~ /\A---\s*\n(.*?)---/m
+  fm = Regexp.last_match(1)
+  return nil unless fm =~ /^audio:\s*["']?([^"'\s]+)["']?\s*$/m
+  Regexp.last_match(1).strip
 end
 
-def s3_url(s3_key)
-  bucket = ENV["HARC_S3_BUCKET"]
-  region = ENV["HARC_S3_REGION"] || ENV["AWS_REGION"] || "us-east-1"
-  "https://#{bucket}.s3.#{region}.amazonaws.com/#{s3_key}"
+def download_audio(url, local_path)
+  # Use aws s3 cp for S3 URLs (works with private buckets); curl for other HTTPS
+  if url =~ %r{^https://([^.]+)\.s3\.([^.]+)\.amazonaws\.com/(.+)$}
+    bucket = Regexp.last_match(1)
+    region = Regexp.last_match(2)
+    key = Regexp.last_match(3)
+    s3_uri = "s3://#{bucket}/#{key}"
+    region_arg = (region == "us-east-1") ? [] : ["--region", region]
+    return system("aws", "s3", "cp", s3_uri, local_path, *region_arg)
+  end
+  system("curl", "-sL", url, "-o", local_path)
 end
 
-def download_from_s3(s3_key, local_path)
-  bucket = ENV["HARC_S3_BUCKET"]
-  region = ENV["HARC_S3_REGION"] || ENV["AWS_REGION"] || "us-east-1"
-  region_arg = region == "us-east-1" ? "" : " --region #{region}"
-  system("aws s3 cp s3://#{bucket}/#{s3_key} #{local_path}#{region_arg}")
-end
-
-def update_post(post_path, audio_url, transcript)
+def update_post(post_path, transcript)
   content = File.read(post_path)
   return false unless content =~ /\A---\n(.*?)---\n(.*)/m
 
   fm = Regexp.last_match(1)
-  new_fm = fm.rstrip + "\naudio: \"#{audio_url}\"\n"
-  new_content = "---\n#{new_fm}---\n\n#{transcript}\n"
+  body = Regexp.last_match(2)
+
+  # Remove transcribe: true line
+  new_fm = fm.sub(/^transcribe:\s*true\s*\n?/mi, "")
+  new_fm = new_fm.rstrip
+
+  new_content = "---\n#{new_fm}\n---\n\n#{transcript}\n"
   File.write(post_path, new_content)
   true
 end
@@ -87,27 +92,32 @@ def main
   dry_run = ARGV.delete("--dry-run")
 
   abort "Set OPENAI_API_KEY" if ENV["OPENAI_API_KEY"].to_s.strip.empty?
-  abort "Set HARC_S3_BUCKET" if ENV["HARC_S3_BUCKET"].to_s.strip.empty?
 
-  posts = posts_without_audio
+  posts = posts_with_transcribe_true
   if posts.empty?
-    puts "No posts missing audio."
+    puts "No posts with transcribe: true."
     return
   end
 
-  puts "Found #{posts.size} post(s) without audio"
+  puts "Found #{posts.size} post(s) with transcribe: true"
   puts "(dry-run)" if dry_run
 
   updated = 0
   posts.each do |post_path|
-    s3_key = infer_s3_key(post_path)
-    mp3_basename = File.basename(s3_key)
-    local_mp3 = File.join(Dir.tmpdir, mp3_basename)
-    audio_url = s3_url(s3_key)
+    content = File.read(post_path)
+    audio_url = audio_url_from_post(content)
+    unless audio_url
+      puts "  #{File.basename(post_path)}: SKIP (no audio URL)"
+      next
+    end
 
-    print "  #{File.basename(post_path)}: fetch #{s3_key} ... "
-    unless download_from_s3(s3_key, local_mp3)
-      puts "SKIP (not found or download failed)"
+    mp3_basename = File.basename(audio_url.split("?").first)
+    mp3_basename = "audio.mp3" unless mp3_basename.end_with?(".mp3")
+    local_mp3 = File.join(Dir.tmpdir, mp3_basename)
+
+    print "  #{File.basename(post_path)}: fetch #{audio_url} ... "
+    unless download_audio(audio_url, local_mp3)
+      puts "SKIP (download failed)"
       next
     end
     puts "OK"
@@ -119,7 +129,7 @@ def main
     puts "OK (#{transcript.length} chars)"
     File.unlink(local_mp3) if File.exist?(local_mp3)
 
-    if update_post(post_path, audio_url, transcript)
+    if update_post(post_path, transcript)
       puts "         updated #{post_path}"
       updated += 1
     else

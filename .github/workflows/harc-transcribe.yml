@@ -1,11 +1,11 @@
-# Find posts without audio key, infer S3 path from filename, download, transcribe, update post.
-# Fills in the S3 audio URL in frontmatter and adds transcription to the body, then commits.
-# Trigger manually from Actions tab.
+# Find posts with transcribe: true, download their audio from the frontmatter URL,
+# transcribe, put transcript in the body, remove transcribe: true, then commit.
+# Trigger on push or manually from Actions tab.
 #
-# Required secrets: OPENAI_API_KEY, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
-# Vars: HARC_S3_BUCKET, HARC_S3_PREFIX (default: audio), HARC_S3_REGION (default: us-east-1)
+# Required secrets: OPENAI_API_KEY, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY (for S3)
+# Vars: HARC_S3_REGION (default: us-east-1) - used if S3 URLs need region
 
-name: Transcribe Missing Audio
+name: Transcribe Audio
 
 on:
   push:
@@ -37,13 +37,11 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
 
-      - name: Transcribe posts missing audio
+      - name: Transcribe posts with transcribe: true
         run: ruby scripts/transcribe_missing_audio.rb
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          HARC_S3_BUCKET: ${{ vars.HARC_S3_BUCKET }}
-          HARC_S3_PREFIX: ${{ vars.HARC_S3_PREFIX || 'audio' }}
-          HARC_S3_REGION: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
+          AWS_REGION: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
 
       - name: Commit and push updated posts
         run: |
@@ -53,6 +51,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Transcribe: add audio URL and transcript to posts missing audio"
+            git commit -m "Transcribe: add transcript to posts, remove transcribe flag"
             git push
           fi
