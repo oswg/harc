@@ -160,6 +160,10 @@ img.custom-logo {
   border-top: 1px solid #ddd9d6;
 }
 
+.entry-footer h3 {
+  font-size: 2em;
+}
+
 .entry-footer .cat-links::after {
   content: " | ";
 }
