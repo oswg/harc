@@ -13,7 +13,8 @@ categories:
 - Topics/Emotions
 - Topics/Second Density
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_0959_anxiety.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_0959_anxiety.mp3"
+---
 
 _(Jeremy channeling)_
 

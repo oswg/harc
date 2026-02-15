@@ -16,7 +16,8 @@ categories:
 - Topics/Self-consciousness
 - Topics/Spirit Complex
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-18_1005_spirit_and_self_consciousness.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-18_1005_spirit_and_self_consciousness.mp3"
+---
 
 _(Jeremy channeling)_
 

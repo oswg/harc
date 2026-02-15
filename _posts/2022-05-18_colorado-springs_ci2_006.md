@@ -18,7 +18,8 @@ categories:
 - Topics/Light Touch
 - Topics/Safety
 - Topics/Wisdom
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-18_1640_safety.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-18_1640_safety.mp3"
+---
 
 _(Steve channeling)_
 

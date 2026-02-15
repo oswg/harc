@@ -20,7 +20,8 @@ categories:
 - Topics/Significator
 - Topics/Spirit Complex
 - Topics/The Veil
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s07_quo_2022-10-08.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s07_quo_2022-10-08.mp3"
+---
 
 _(Claire channeling)_
 

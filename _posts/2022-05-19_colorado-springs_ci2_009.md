@@ -10,7 +10,8 @@ categories:
 - Instruments/Steve
 - Topics/Polarity
 - Topics/The Veil
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_1929_all_is_well.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_1929_all_is_well.mp3"
+---
 
 _(Steve channeling)_
 

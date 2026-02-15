@@ -14,7 +14,8 @@ categories:
 - Topics/Choice
 - Topics/Pain &amp; Suffering
 - Topics/Transformation
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_1720_transformation_of_mind.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_1720_transformation_of_mind.mp3"
+---
 
 _(Jade channeling)_
 

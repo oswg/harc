@@ -9,7 +9,8 @@ categories:
 - Topics/Despair
 - Topics/Emotions
 - Topics/Empathy
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_empathy_edit.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_empathy_edit.mp3"
+---
 
 _(Jade channeling)_
 

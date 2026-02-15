@@ -13,7 +13,8 @@ categories:
 - Topics/Free Will
 - Topics/Service
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-31_service_edit.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-31_service_edit.mp3"
+---
 
 _(Joseph channeling)_
 

@@ -13,7 +13,8 @@ categories:
 - Topics/Polarity
 - Topics/Third Density
 - Topics/Thought Forms
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-17_1952_thought_forms.mp3"---
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-17_1952_thought_forms.mp3"
+---
 
 _(Joseph channeling)_
 
