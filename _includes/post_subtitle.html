@@ -9,7 +9,7 @@
   {% endif %}
   {% if item.circle %}<span class="subtitle-line">{{ item.circle_display | default: item.circle }}</span>{% endif %}
   {% if item.event %}<span class="subtitle-line">{{ item.event_display | default: item.event }}</span>{% endif %}
-  {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
+  {% if item.session %}<span class="subtitle-line">Session {{ item.session | plus: 0 }}</span>{% endif %}
   {% if item.date %}
   <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
   {% endif %}
@@ -20,7 +20,7 @@
   {% endif %}
   {% if item.circle %}<span class="subtitle-line">{{ item.circle_display | default: item.circle }}</span>{% endif %}
   {% if item.event %}<span class="subtitle-line">{{ item.event_display | default: item.event }}</span>{% endif %}
-  {% if item.session %}<span class="subtitle-line">Session {{ item.session }}</span>{% endif %}
+  {% if item.session %}<span class="subtitle-line">Session {{ item.session | plus: 0 }}</span>{% endif %}
   {% if item.date %}
   <span class="subtitle-line">{{ item.date | date: "%A, %B %-d, %Y" }}</span>
   {% endif %}

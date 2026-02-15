@@ -12,7 +12,7 @@ layout: default
     <div class="subtitle">
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session }}</span>
+      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
@@ -20,7 +20,7 @@ layout: default
     <div class="subtitle-mobile">
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session }}</span>
+      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
