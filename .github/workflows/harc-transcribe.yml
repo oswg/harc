@@ -8,6 +8,7 @@
 name: Transcribe Missing Audio
 
 on:
+  push:
   workflow_dispatch:
 
 permissions:
