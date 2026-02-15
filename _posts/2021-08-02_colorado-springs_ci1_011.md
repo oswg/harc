@@ -76,4 +76,4 @@ We would apologize for the abstractness of our response, but considering the fir
 
 **I am Q’uo** , and we can respond that your feelings of gratitude are greatly, greatly appreciated, and greatly reciprocated. 
 
-**We are those of Q’uo** , and as it seems that the energies of the group have reached a quiescent state in contemplation of our communion, may we thank the members of this group for the dedication each has shown in making significant personal sacrifices to be at this place at this time, that we may do the work of spirit together as one. Adonai, my friends. Adonai.
+**We are those of Q’uo** , and as it seems that the energies of the group have reached a quiescent state in contemplation of our communion, may we thank the members of this group for the dedication each has shown in making significant personal sacrifices to be at this place at this time, that we may do the work of spirit together as one. Adonai, my friends. Adonai. ☥

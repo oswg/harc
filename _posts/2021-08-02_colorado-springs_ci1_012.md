@@ -133,4 +133,4 @@ Insofar as your efforts here may serve your efforts in your own locations, so al
 
 This instrument’s energy wanes. So we shall offer a final departing comment. We are most grateful once again, we cannot stress that enough, for this opportunity to work with you all. We understand that you may have your own suspicions or worries of the overenthusiasm or also of the limitations of your ability to make contact with us. It is not easy for a new instrument to trust the contact. Yet we are most pleased. 
 
-As we have said, we say with some sorrow that this time must come to a close and we look forward to our next communion with each of you with some ebullience. So may you go forth in the love and the light of the one creator. We thank you, my friends. Adonai.
+As we have said, we say with some sorrow that this time must come to a close and we look forward to our next communion with each of you with some ebullience. So may you go forth in the love and the light of the one creator. We thank you, my friends. Adonai. ☥

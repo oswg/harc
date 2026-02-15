@@ -83,4 +83,4 @@ It is actually never a question of _all_ in matters such as this, but even a lit
 
 This will not be complete, my friends. There will be loose ends, there will be frayed feelings. But what we would suggest is an element we have spoken to in the ones known as Jeremy and Jade concerning basic intention. If you have the intention to heal, if you have the intention to forgive, regardless of how imperfect it is, it does register. And, over time, intention will build upon intention to the point that the harvestable grade of a mere fifty-one percent is obtained, and the threshold will then have been crossed.
 
-To this threshold, then, we commend you, and in love and light, and in inexpressible gratitude to each of these excellent, excellent channels, we leave this instrument and this group in love and light. Adonai, my friends, Adonai.
+To this threshold, then, we commend you, and in love and light, and in inexpressible gratitude to each of these excellent, excellent channels, we leave this instrument and this group in love and light. Adonai, my friends, Adonai. ☥

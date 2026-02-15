@@ -132,4 +132,4 @@ Conversely, if some other contact with the world should call you, if it should f
 
 **Jeremy:** No, you’ve been very generous, Q’uo. I greatly appreciate it.
 
-**We are those of Q’uo**. With that, we shall take our leave in the endless love and abundance of our One Infinite Creator. It has been our pleasure to commune with your group. Godspeed to you all. Adonai.
+**We are those of Q’uo**. With that, we shall take our leave in the endless love and abundance of our One Infinite Creator. It has been our pleasure to commune with your group. Godspeed to you all. Adonai. ☥

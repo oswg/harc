@@ -42,4 +42,4 @@ The drums bang more quickly as time passes without you hearing the song. We find
 
 We are Q’uo and we thank this group again most sincerely for allowing us the opportunity to serve you, to help you knit the loose threads that you find yourself chasing in the sorrows and sadnesses you experience as you do your very best in your rounds to recognize and exalt the Creator. This is a never ending task and journey. The family of the brothers and sisters of sorrow are grateful to have you with us on this journey as you are far more capable of knitting those threads from your place incarnated in a body than we who exist outside of your illusion. 
 
-We are here with you and we see you and we love you. We are Q’uo. Thank you again. Adonai, my friends.
+We are here with you and we see you and we love you. We are Q’uo. Thank you again. Adonai, my friends. ☥

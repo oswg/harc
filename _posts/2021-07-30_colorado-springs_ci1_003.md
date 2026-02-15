@@ -69,4 +69,4 @@ We have seen this issue of trust, which seems so black and white, unraveled into
 
 We commend you to the task of finding that gift, as always, finding the love in the moment. It is the thread that runs through all the Creation, all trials and tribulations, all joys and celebration. Celebrate your sorrows and grieve in joy. We are all coming back. The more you can trust in that fact, the inevitability of unity, the more your discrimination will serve you, not as a barrier to the creative potential of the unknown, but as your walking staff. The path, step by step, you discover, and we assure [you], my dear brothers and sisters, we will be with you on that path whenever you shall ask for our presence. 
 
-And with that thought, we leave you in the infinite love and light of the one Creator. We are those of Laitos. Adonai. Adonai vasu borragus.
+And with that thought, we leave you in the infinite love and light of the one Creator. We are those of Laitos. Adonai. Adonai vasu borragus. ☥

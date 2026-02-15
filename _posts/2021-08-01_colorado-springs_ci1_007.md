@@ -71,4 +71,4 @@ Your path is, in truth, not different. We ask that you begin by comforting each 
 
 As you choose your way, remember that we are also by your side. When you choose how to serve, you might think of us as a cool breeze in a heated moment and know that all is well and there is nothing to be proven; only a moment to yield to the Creator, and the next task to be done. And to make space for your next task, we will leave this instrument and take a step aside so that he may choose, as all of you do, how he shall spend his love.
 
-We are those of Q’uo. We love you so. Adonai, my friends. Adonai.
+We are those of Q’uo. We love you so. Adonai, my friends. Adonai. ☥

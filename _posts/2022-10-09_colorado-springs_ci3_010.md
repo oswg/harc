@@ -125,4 +125,4 @@ So we affirm that the feeling that it is too much to handle is itself a feeling 
 
 Before we close, we would briefly like to thank these instruments for making themselves available to us in an intensive way. We appreciate the effort that you have expended to meet with us, and we encourage you to continue on in your discipline and in your efforts. And though we cannot promise any particular reward, we will greet you with joy and thanksgiving each time you call upon us. You are friends to us, and we are grateful for that friendship. 
 
-So, my friends, we wish you godspeed in the abundant love and light of our One Infinite Creator. We are those of Q’uo. Adonai, my friends. Adonai.
+So, my friends, we wish you godspeed in the abundant love and light of our One Infinite Creator. We are those of Q’uo. Adonai, my friends. Adonai. ☥

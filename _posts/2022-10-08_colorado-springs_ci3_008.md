@@ -119,4 +119,4 @@ _(No questions offered)_
 
 Very well my friends. The gist is that it is the simplicity of this mission that is so difficult to realize in the day to day, but you have us by your side, and most importantly, you have each other. Listen to each other with your hearts, and you will take this to the heavens. 
 
-We now part from you and leave you in love and light, so that you may take a moment of relaxation and enjoy each other’s company. It is a source of strength and healing. We are your brothers and sisters of Q’uo. Adonai vasu borragus.
+We now part from you and leave you in love and light, so that you may take a moment of relaxation and enjoy each other’s company. It is a source of strength and healing. We are your brothers and sisters of Q’uo. Adonai vasu borragus. ☥

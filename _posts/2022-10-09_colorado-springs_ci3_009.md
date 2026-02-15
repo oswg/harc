@@ -156,4 +156,4 @@ And so that gives a kind of shadow structure, resembling in some respects the st
 
 So, with that we feel we have given enough of an overview of the circumstances of how the positive and negative paths are different with regard to the relation to the higher self, and what the role of the higher self in relation to each path might be seen to be. At this point, we feel that we have taken a good deal of what you know as your time, and feel it appropriate that ask that any further queries you have upon this subject be held for another time.
 
-We are those of Q'uo, and it has been a great honor to be able to be with you this day. We leave you in the love and in the light of the One Infinite Creator. Adonai, my friends, Adonai.
+We are those of Q'uo, and it has been a great honor to be able to be with you this day. We leave you in the love and in the light of the One Infinite Creator. Adonai, my friends, Adonai. ☥

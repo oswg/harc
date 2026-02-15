@@ -148,4 +148,4 @@ Can we assume, my brother, that this will suffice for now?
 
 And we are very well aware at the limited utility of continuing to apply words to this. Therefore, with your permission, my brothers and sisters, we take our leave of this instrument and of this energy complex you have created. It is ironic, for it, in its constitution, says much that would help you formulate your query. 
 
-And with these teasing thoughts we offer you our love in perfect measure with our light, for it is the Creator’s love and light. We are those of Q’uo. Adonai vasu borragus.
+And with these teasing thoughts we offer you our love in perfect measure with our light, for it is the Creator’s love and light. We are those of Q’uo. Adonai vasu borragus. ☥

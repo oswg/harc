@@ -129,4 +129,4 @@ With this summary, we bring the monologue to a close, and allow space for a sing
 
 We are most grateful to have been invited to your circle once again. It is our pleasure, each time, to commune with your group, and we encourage you to celebrate the growth that you experience as instruments, and to accept the growing pains that you experience in so growing. The purity of the effort is the most fundamental feature, and not the perfection of the product. And so we thank you for keeping the purity of the effort in view.
 
-So we take our leave in the love and the light of our One Infinite Creator. Godspeed, and Adonai. We are Q'uo.
+So we take our leave in the love and the light of our One Infinite Creator. Godspeed, and Adonai. We are Q'uo. ☥
