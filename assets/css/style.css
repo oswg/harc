@@ -117,6 +117,18 @@ img.custom-logo {
   padding: 1rem 0;
 }
 
+.pagination .nav-links {
+  position: relative;
+  min-height: 3.2em;
+  text-align: center;
+}
+
+.pagination .page-number {
+  display: inline-block;
+  line-height: 48px;
+  vertical-align: middle;
+}
+
 .widget_search .wp-block-search__inside-wrapper {
   display: flex;
   flex-wrap: nowrap;
