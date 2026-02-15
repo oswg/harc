@@ -48,4 +48,5 @@ designation_mappings:
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap

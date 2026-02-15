@@ -103,8 +103,19 @@ Jekyll::Hooks.register :site, :post_read do |site|
     date_str = data["date"].respond_to?(:strftime) ? data["date"].strftime("%Y-%m-%d") : data["date"].to_s
     session_padded = session.to_s.rjust(3, "0")
     title_slug = Jekyll::Utils.slugify(data["title"].to_s.gsub(/[''`]/, ""))
-
-    post.data["permalink"] = "/#{date_str}/#{circle_for_url}/#{event_for_url}/#{session_padded}/#{title_slug}/"
+    permalink = "/#{date_str}/#{circle_for_url}/#{event_for_url}/#{session_padded}/#{title_slug}/"
+    post.data["permalink"] = permalink
     post.instance_variable_set(:@url, nil) if post.instance_variable_defined?(:@url)
+
+    # Redirect from old permalink format: /date/circle/event/session/filename-slug (e.g. richmond-ccp-019)
+    if parsed && parsed[:circle] && parsed[:event]
+      filename_slug = Jekyll::Utils.slugify("#{parsed[:circle]}-#{parsed[:event]}-#{session}")
+      old_url = "/#{date_str}/#{circle_for_url}/#{event_for_url}/#{session_padded}/#{filename_slug}/"
+      if old_url != permalink
+        existing = post.data["redirect_from"] || []
+        existing = [existing] unless existing.is_a?(Array)
+        post.data["redirect_from"] = (existing + [old_url]).uniq
+      end
+    end
   end
 end
