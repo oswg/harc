@@ -77,6 +77,4 @@ As wanderers, you are the lucky ones who get a front row view of this incredible
 
 We are Laitos and we feel we have offered a significant amount of our thoughts on this subject, though obviously a very small fraction of all the aspects of this fantastic event that is occurring for all of you beings on this planet Earth. While we cannot interfere directly, we do encourage each of you to ask when you see fit, because there are ways that our energies can blend even though we are not incarnated at this time. But those of you who are incarnated have so much power, more than you realize in aiding and welcoming this new child who will be here soon. We thank you again and we take our leave of this group in gratitude and love. We are Laitos. Adonai.
 
-* * *
-
-1. For more discussion of Earth's relationship to the chain of logoi and humans specifically, see [Ra: 65.17](https://www.lawofone.info/s/65#17).
+[^1]: For more discussion of Earth's relationship to the chain of logoi and humans specifically, see [Ra: 65.17](https://www.lawofone.info/s/65#17).

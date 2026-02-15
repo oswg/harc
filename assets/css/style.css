@@ -161,6 +161,15 @@ img.custom-logo {
   max-width: 600px;
 }
 
+/* Footnote refs in text: Kramdown outputs <sup id="fnref:N"><a class="footnote">N</a></sup> */
+.entry-content sup[id^="fnref"],
+.entry-summary sup[id^="fnref"],
+.page-content sup[id^="fnref"] {
+  font-size: 0.75em;
+  vertical-align: super;
+  line-height: 0;
+}
+
 /* Desktop: align page title top with logo top in sidebar */
 @media only screen and (min-width: 955px) {
   #main {
