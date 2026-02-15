@@ -37,7 +37,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
 
-      - name: Transcribe posts with transcribe: true
+      - name: Transcribe posts with transcribe front matter
         run: ruby scripts/transcribe_missing_audio.rb
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
