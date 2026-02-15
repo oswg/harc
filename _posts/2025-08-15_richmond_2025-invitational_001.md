@@ -3,7 +3,6 @@ title: Hatonn on Blending Energies
 group_question: We are going to take a potluck in the tradition of Carla. So we are interested in any remarks the Confederation might wish to make this evening to kick off our 2025 Richmond Meditation Circle Invitational.
 introduction: In this short session inaugurating the Richmond Meditation Circle's 2025 Invitational, Hatonn pays a long overdue visit to discuss how the mysteries of oneness might be recognized in the illusion. Starting from the energetic nature of contact between the circle and their complex, they place before the seeker the choice of how they might perceive and make sense of outer events. This heuristic is extended to material objects and the operation of cause and effect, showing how the blending of energies enabling communication between the circle and Hatonn can be found analogously in all aspects of the illusion. The ubiquitous presence of this blending provides a hint about the unity behind the appearance of separation.
 categories:
-- Channeling Session
 - Circles/Richmond Meditation Circle
 - Contacts/Hatonn
 - Events/2025 Invitational

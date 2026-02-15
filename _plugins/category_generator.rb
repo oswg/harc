@@ -42,8 +42,7 @@ module Jekyll
       grouped = Hash.new { |h, k| h[k] = [] }
 
       site.categories.each do |category_name, posts|
-        # Skip "Channeling Session" default category if empty or unwanted
-        next if category_name == "Channeling Session" && posts.size > 50
+        next if category_name == "Channeling Session"
 
         slug = category_slug(category_name)
         next if slug.nil? || slug.empty?

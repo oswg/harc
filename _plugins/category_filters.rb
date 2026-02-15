@@ -16,6 +16,7 @@ module Jekyll
   module CategoryFilters
     def category_slug(category_name)
       return "" if category_name.to_s.strip.empty?
+      return "" if category_name.to_s == "Channeling Session"
       if category_name.to_s.include?("/")
         parent, child = category_name.to_s.split("/", 2).map(&:strip)
         return "" if parent.to_s.empty? || child.to_s.empty?

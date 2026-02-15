@@ -164,6 +164,20 @@ img.custom-logo {
   content: " | ";
 }
 
+.entry-footer .category-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0 0.5rem;
+}
+
+.entry-footer .category-links li + li::before {
+  content: " · ";
+  margin-right: 0.5rem;
+}
+
 .post-audio {
   margin-bottom: 2rem;
 }
