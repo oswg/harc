@@ -8,8 +8,9 @@ categories:
 - Instruments/Jeremy
 - Topics/Yellow Ray
 audio: "assets/audio/2021-08-01_colorado-springs_ci1_008.mp3"
+---
 
-_(Jeremy channeling_)
+_(Jeremy channeling)_
 
 **I am Q'uo** , and we greet you today in the love and light of our One Infinite Creator. We are so pleased to have yet another opportunity to work with this group and to provide an analysis from above that might help you as you wend your way through the cycle of lessons that attends the third density experience whose intensity we well remember.
 
