@@ -1,4 +1,5 @@
 # Find posts without audio key, infer S3 path from filename, download, transcribe, update post.
+# Fills in the S3 audio URL in frontmatter and adds transcription to the body, then commits.
 # Trigger manually from Actions tab.
 #
 # Required secrets: OPENAI_API_KEY, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
@@ -10,7 +11,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # for creating PR with updated posts
+  contents: write
 
 jobs:
   transcribe:
@@ -43,17 +44,14 @@ jobs:
           HARC_S3_PREFIX: ${{ vars.HARC_S3_PREFIX || 'audio' }}
           HARC_S3_REGION: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
 
-      - name: Create PR with updated posts
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: "transcribe-missing-audio-${{ github.run_id }}"
-          title: "Transcribe posts missing audio"
-          body: |
-            Auto-generated from Transcribe Missing Audio workflow.
-            - Found posts without `audio` key
-            - Downloaded MP3 from S3 (inferred from filename)
-            - Transcribed via OpenAI Whisper
-            - Added `audio` URL and transcript to each post
-            Review and merge when ready.
-          path: _posts
+      - name: Commit and push updated posts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _posts/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Transcribe: add audio URL and transcript to posts missing audio"
+            git push
+          fi
