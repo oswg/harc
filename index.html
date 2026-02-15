@@ -8,8 +8,11 @@ layout: default
 {% else %}
   {% assign posts_to_show = site.posts %}
 {% endif %}
+{% comment %}Exclude Training Session from main feed (see category_descriptions.yml){% endcomment %}
 {% for post in posts_to_show %}
+  {% unless post.categories contains "Training Session" %}
   {% include intro_only.html post=post %}
+  {% endunless %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
