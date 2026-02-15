@@ -32,6 +32,7 @@ module Transcriber
   TEXT
 
   def self.call(mp3_path)
+    puts "OPENAI_API_KEY=#{ENV["OPENAI_API_KEY"]}"
     client = OpenAI::Client.new(access_token: ENV["OPENAI_API_KEY"], request_timeout: 600)
     response = client.audio.transcribe(
       parameters: {
