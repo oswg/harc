@@ -18,7 +18,6 @@ categories:
 - Topics/Light Touch
 - Topics/Safety
 - Topics/Wisdom
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-18_colorado-springs_ci2_006.mp3"
 ---
 
 _(Steve channeling)_

@@ -9,7 +9,6 @@ categories:
 - Topics/Despair
 - Topics/Emotions
 - Topics/Empathy
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_colorado-springs_ci1_010.mp3"
 ---
 
 _(Jade channeling)_

@@ -14,7 +14,6 @@ categories:
 - Topics/Choice
 - Topics/Pain &amp; Suffering
 - Topics/Transformation
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_colorado-springs_ci2_003.mp3"
 ---
 
 _(Jade channeling)_

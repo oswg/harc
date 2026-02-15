@@ -16,7 +16,6 @@ categories:
 - Topics/Social Memory
 - Topics/Third Density
 - Topics/Wanderers
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-31_colorado-springs_ci1_005.mp3"
 ---
 
 _(Jade channeling)_

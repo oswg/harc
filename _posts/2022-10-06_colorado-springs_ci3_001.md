@@ -19,7 +19,6 @@ categories:
 - Topics/Transformation
 group_question: "What, in general, does it look like to live a balanced life in service to others while consistently attempting to further polarize toward service-to-others? How significant to such a life are obvious, outward activities that we associate with spirituality, such as meditation, energy healing, group worship, or anything at all that is expressly “spiritual”?"
 introduction: "In this first session from the Other Selves Working Group’s third channeling intensive, those of Q’uo discuss the nature of the service-to-others path, providing commentary on both the outward forms of service as well as the metaphysical and spiritual foundations of such service. Emphasis is placed on the connection between polarity and the individual self lived as so separate from the Creator. Those of Q’uo introduce a concept of atmospheres or auras surrounding these centers of focus constituting individuality, imputing to these auras many of the less tangible, more universal feelings that accompany individuality. The session ends with a discussion of the role of sacrifice in the expression of selfhood along both paths of polarity."
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-06_colorado-springs_ci3_001.mp3"
 ---
 
 _(Claire channeling)_

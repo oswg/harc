@@ -20,7 +20,6 @@ categories:
 - Topics/Service
 group_question: "What are the dangers of channeling? How would we best approach training in that context?"
 introduction: "This evening session features those of Q’uo discussing the pitfalls of channeling with a special focus on channeling instruction. They catalog several ways in which instruments can lose their tuning and protection, and the danger of this recklessness is magnified in teachers. We hold a responsibility to ourselves, to other selves, to students, and to the Creator to be fastidious in our channeling conduct, and this requires care in whom we choose to teach to channel.It is in the daily life that we can do the least exotic and most grounding work in recognizing and promoting that vibration we seek in our service as instruments."
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-08_colorado-springs_ci3_008.mp3"
 ---
 
 _(Jeremy channeling)_

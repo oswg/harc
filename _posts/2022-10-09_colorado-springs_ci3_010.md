@@ -26,7 +26,6 @@ categories:
 - Topics/Wisdom
 group_question: "What can Q’uo say about the catalyst of becoming overwhelmed or flooded?"
 introduction: "In this final session from the Other Selves Working Group’s third channeling intensive, those of Q’uo discuss the diverse circumstances in which an entity can suffer from feeling overwhelmed or flooded. Organizing these instances by their temporal orientation, Q’uo catalogs several energetic, catalytic, and emotional components that come into various levels of play in each type of overwhelm. Q’uo offers some general tips on balancing these feelings and relating to the pain and fear they can instigate, closing with a general message of encouragement for the instruments."
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-09_colorado-springs_ci3_010.mp3"
 ---
 
 _(Claire channeling)_

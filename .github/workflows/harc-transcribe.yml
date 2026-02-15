@@ -1,9 +1,8 @@
-# Find posts with transcribe: true, download their audio from the frontmatter URL,
-# transcribe, put transcript in the body, remove transcribe: true, then commit.
+# Detect orphan MP3s (in assets/audio/ without a matching post).
+# For each: transcribe, create a post with title: TBD and transcript in body.
 # Trigger on push or manually from Actions tab.
 #
-# Required secrets: OPENAI_API_KEY, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY (for S3)
-# Vars: HARC_S3_REGION (default: us-east-1) - used if S3 URLs need region
+# Required secrets: OPENAI_API_KEY
 
 name: Transcribe Audio
 
@@ -20,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -30,20 +31,12 @@ jobs:
       - name: Install OpenAI gem
         run: gem install openai -v "~> 0.46"
 
-      - name: Configure AWS
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
-
-      - name: Transcribe posts with transcribe front matter
+      - name: Transcribe orphan MP3s and create posts
         run: ruby scripts/transcribe_missing_audio.rb
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          AWS_REGION: ${{ vars.HARC_S3_REGION || 'us-east-1' }}
 
-      - name: Commit and push updated posts
+      - name: Commit and push new posts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -51,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Transcribe: add transcript to posts, remove transcribe flag"
+            git commit -m "Transcribe: create posts for orphan MP3s"
             git push
           fi

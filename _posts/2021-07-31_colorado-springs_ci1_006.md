@@ -11,7 +11,6 @@ categories:
 - Instruments/Steve
 - Topics/Balancing
 - Topics/Wisdom
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-31_colorado-springs_ci1_006.mp3"
 ---
 
 _(Steve channeling)_

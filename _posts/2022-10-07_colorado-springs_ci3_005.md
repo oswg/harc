@@ -20,7 +20,6 @@ categories:
 - Topics/Trust
 group_question: "How does one allow love to heal disappointment and resentment?"
 introduction: "In this session, Q’uo addresses the problem of the stubborn persistence of certain wounded affects, in this case, those of disappointment and resentment. An attempt is made to uncover the structure of the psyche such that these issues could pose such a great difficulty for those who seek to heal and to become whole. While those of Q’uo do not feel it possible to give a complete answer in the form of a formula for overcoming these wounds, a  few gentle suggestions about how one might address the condition are offered."
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-07_colorado-springs_ci3_005.mp3"
 ---
 
 _(Steve channeling)_

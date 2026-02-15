@@ -12,7 +12,6 @@ categories:
 - Topics/Humility
 - Topics/Second Density
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_colorado-springs_ci1_007.mp3"
 ---
 
 _(Jeremy channeling)_

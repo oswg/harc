@@ -17,7 +17,6 @@ categories:
 - Topics/Emotions
 - Topics/Magic
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_colorado-springs_ci2_002.mp3"
 ---
 
 _(Steve channeling)_

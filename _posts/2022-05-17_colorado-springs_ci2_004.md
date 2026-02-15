@@ -13,7 +13,6 @@ categories:
 - Topics/Polarity
 - Topics/Third Density
 - Topics/Thought Forms
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-17_colorado-springs_ci2_004.mp3"
 ---
 
 _(Joseph channeling)_

@@ -10,7 +10,6 @@ categories:
 - Instruments/Steve
 - Topics/Polarity
 - Topics/The Veil
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_colorado-springs_ci2_009.mp3"
 ---
 
 _(Steve channeling)_

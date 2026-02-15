@@ -15,7 +15,6 @@ categories:
 - Topics/Responsibility
 - Topics/Self-consciousness
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2025-08-15_richmond_2025-invitational_001.mp3"
 ---
 
 _(Jeremy channeling)_
