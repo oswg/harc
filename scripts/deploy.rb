@@ -14,14 +14,14 @@
 #   - MP3 files locally in assets/audio/ (they are gitignored)
 #
 # Usage:
+#   ruby scripts/deploy.rb
 #   HARC_S3_BUCKET=my-bucket ruby scripts/deploy.rb
-#   HARC_S3_BUCKET=my-bucket HARC_S3_PREFIX=audio HARC_S3_REGION=us-east-1 ruby scripts/deploy.rb
-#   HARC_S3_BUCKET=my-bucket ruby scripts/deploy.rb --dry-run
-#   HARC_S3_BUCKET=my-bucket ruby scripts/deploy.rb --no-push
+#   ruby scripts/deploy.rb --dry-run
+#   ruby scripts/deploy.rb --no-push
 #
-# Env vars:
-#   HARC_S3_BUCKET   (required) S3 bucket name
-#   HARC_S3_PREFIX   (default: audio) Object key prefix, e.g. "harc/audio"
+# Env vars (override built-in defaults):
+#   HARC_S3_BUCKET   (default: harc-assets) S3 bucket name
+#   HARC_S3_PREFIX   (default: audio) Object key prefix
 #   HARC_S3_REGION   (default: us-east-1, or AWS_REGION if set) AWS region
 #
 # Options:
@@ -31,16 +31,21 @@
 POSTS_DIR = "_posts"
 ASSETS_AUDIO = "assets/audio"
 
+# S3 defaults (override with env vars)
+DEFAULT_S3_BUCKET = "harc-assets"
+DEFAULT_S3_PREFIX = "audio"
+DEFAULT_S3_REGION = "us-east-1"
+
 def s3_bucket
-  ENV["HARC_S3_BUCKET"]&.strip.tap { |b| abort "Set HARC_S3_BUCKET (e.g. export HARC_S3_BUCKET=my-bucket)" if b.to_s.empty? }
+  (ENV["HARC_S3_BUCKET"] || DEFAULT_S3_BUCKET).strip.tap { |b| abort "S3 bucket cannot be empty" if b.empty? }
 end
 
 def s3_prefix
-  (ENV["HARC_S3_PREFIX"] || "audio").strip.chomp("/")
+  (ENV["HARC_S3_PREFIX"] || DEFAULT_S3_PREFIX).strip.chomp("/")
 end
 
 def s3_region
-  ENV["HARC_S3_REGION"] || ENV["AWS_REGION"] || "us-east-1"
+  ENV["HARC_S3_REGION"] || ENV["AWS_REGION"] || DEFAULT_S3_REGION
 end
 
 def s3_url_for(key)
