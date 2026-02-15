@@ -20,6 +20,9 @@ GEM
     google-protobuf (4.33.5)
       bigdecimal
       rake (>= 13)
+    google-protobuf (4.33.5-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
@@ -150,6 +153,7 @@ CHECKSUMS
   ffi (1.17.3-arm64-darwin) sha256=0c690555d4cee17a7f07c04d59df39b2fba74ec440b19da1f685c6579bb0717f
   forwardable-extended (2.6.0) sha256=1bec948c469bbddfadeb3bd90eb8c85f6e627a412a3e852acfd7eaedbac3ec97
   google-protobuf (4.33.5) sha256=1b64fb774c101b23ac3f6923eca24be04fd971635d235c4cd4cfe0d752620da0
+  google-protobuf (4.33.5-arm64-darwin) sha256=996d4e93c4232cc42f0facd821a92b4f4a926c3c9c1a768e7d768b33d9ef72f9
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
