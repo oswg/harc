@@ -8,7 +8,6 @@ categories:
 - Instruments/Jeremy
 - Topics/Yellow Ray
 audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_yellow_ray_and_orgs.mp3"
----
 
 _(Jeremy channeling_)
 
