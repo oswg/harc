@@ -11,8 +11,8 @@ permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 
-# Pagination (matches WP theme's posts_per_page: 15)
-paginate: 15
+# Pagination (matches WP theme's posts_per_page: 20)
+paginate: 20
 paginate_path: "/page:num/"
 
 # Custom logo path (relative to site root); set to empty to hide

@@ -4,7 +4,7 @@ Jekyll site for High Altitude Receiving Center. Theme converted from the WordPre
 
 ## Structure
 
-- **`_config.yml`** – Site title, pagination (15 posts per page), optional logo path.
+- **`_config.yml`** – Site title, pagination (20 posts per page), optional logo path.
 - **`_layouts/`** – `default`, `post`, `archive`.
 - **`_includes/`** – Header, footer, post subtitle, post excerpt.
 - **`index.html`** – Home page (paginated post list).
