@@ -14,6 +14,7 @@
 
 require "openai"
 require "shellwords"
+require "tmpdir"
 
 POSTS_DIR = "_posts"
 
