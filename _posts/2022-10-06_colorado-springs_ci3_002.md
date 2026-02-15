@@ -21,6 +21,8 @@ categories:
 - Topics/Thought Forms
 - Topics/Transformation
 - Topics/Trust
+group_question: "How does greeting across densities actually take place with respect to the dimension of free will, both in a positive and a negative sense. How does this contrast to respecting free will between third density entities?"
+introduction: "In this session, Q’uo gives a detailed account of the elements and issues affecting the dynamics of communication across the veil. This relates both to the intricacies of the inner planes and those of the outer planes, to the extent that either of these locales are implicated in the type of contact that is sought. The nuances of meaning associated with the positive and negative paths are explored, as is the role of time/space in serving as a vehicle for the perpetuation and enhancement of the qualitative characteristics associated with each path."
 audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-06_colorado-springs_ci3_002.mp3"
 ---
 

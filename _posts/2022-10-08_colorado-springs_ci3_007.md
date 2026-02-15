@@ -20,6 +20,8 @@ categories:
 - Topics/Significator
 - Topics/Spirit Complex
 - Topics/The Veil
+group_question: "What does it mean for the spirit to be complex, and how and why did it become complex?"
+introduction: "Q’uo here explores the way that the complexity of spirit arises from the initial complexity of mind, as a result of points of contact between the two dimensions of self. The specific role of the veil is discussed, and the sense in which that catalyst which is unused by mind tends to seep through, as an undigested remainder, into the spirit, creating residues that contribute to the complexification. These, in part, seed the tendency of the spirit complex to be experienced as a dark and dangerous place."
 audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-08_colorado-springs_ci3_007.mp3"
 ---
 
