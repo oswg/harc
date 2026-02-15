@@ -20,7 +20,7 @@ categories:
 - Topics/Polarity
 - Topics/Third Density
 - Topics/Transformation
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s03_quo_2022-10-07.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-07_colorado-springs_ci3_003.mp3"
 ---
 
 _(Jeremy channeling)_

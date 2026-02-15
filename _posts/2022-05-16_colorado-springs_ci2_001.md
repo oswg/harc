@@ -16,7 +16,7 @@ categories:
 - Topics/Protection
 - Topics/The Veil
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_1032_threeness_mix.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-16_colorado-springs_ci2_001.mp3"
 ---
 
 _(Joseph channeling)_

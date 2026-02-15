@@ -15,7 +15,7 @@ categories:
 - Topics/Group Mind
 - Topics/Mind Complex
 - Topics/Spirit Complex
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s06_quo_2022-10-08.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-08_colorado-springs_ci3_006.mp3"
 ---
 
 _(Jeremy channeling)_

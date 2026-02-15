@@ -12,7 +12,7 @@ categories:
 - Topics/Discernment
 - Topics/Forgiveness
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-30_02_forgiveness-1.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-30_colorado-springs_ci1_002.mp3"
 ---
 
 _(Steve channeling)_

@@ -21,7 +21,7 @@ categories:
 - Topics/Safety
 - Topics/The Veil
 - Topics/Thought Forms
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s09_quo_2022-10-09.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-09_colorado-springs_ci3_009.mp3"
 ---
 
 _(Steve channeling)_

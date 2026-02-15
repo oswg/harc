@@ -12,7 +12,7 @@ categories:
 - Topics/Discernment
 - Topics/Faith
 - Topics/Trust
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-30_trust.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-07-30_colorado-springs_ci1_003.mp3"
 ---
 
 _(Jeremy channeling)_

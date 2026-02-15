@@ -14,7 +14,7 @@ categories:
 - Topics/Octaval Evolution
 - Topics/Potentiator
 - Topics/Significator
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_archetypes.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2021-08-01_colorado-springs_ci1_009.mp3"
 ---
 
 _(Joseph channeling)_

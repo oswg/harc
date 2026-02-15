@@ -24,7 +24,7 @@ categories:
 - Topics/Higher Self
 - Topics/Pain &amp; Suffering
 - Topics/Wisdom
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s10_quo_2022-10-09.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-09_colorado-springs_ci3_010.mp3"
 ---
 
 _(Claire channeling)_

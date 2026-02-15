@@ -10,7 +10,7 @@ categories:
 - Topics/Empathy
 - Topics/Green Ray
 - Topics/Respect
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_2126_respect.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-05-19_colorado-springs_ci2_010.mp3"
 ---
 
 _(Joseph channeling)_

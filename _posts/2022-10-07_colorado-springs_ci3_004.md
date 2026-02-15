@@ -23,7 +23,7 @@ categories:
 - Topics/Service
 - Topics/Social Memory
 - Topics/Third Density
-audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/ci03s04_quo_2022-10-07.mp3"
+audio: "https://harc-assets.s3.us-east-1.amazonaws.com/audio/2022-10-07_colorado-springs_ci3_004.mp3"
 ---
 
 _(Claire channeling)_
