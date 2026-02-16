@@ -8,6 +8,8 @@ name: Transcribe Audio
 
 on:
   push:
+    branches-ignore:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -30,6 +32,9 @@ jobs:
 
       - name: Install OpenAI gem
         run: gem install openai -v "~> 0.46"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Transcribe orphan MP3s and create posts
         run: ruby scripts/transcribe_missing_audio.rb

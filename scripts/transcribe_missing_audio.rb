@@ -5,14 +5,21 @@
 # For each: transcribe, create a post with title: TBD and transcript in body.
 # Used by the transcribe-missing-audio GitHub Action.
 #
+# Large files (>= 25 MB, OpenAI's limit) are compressed to a temp copy for
+# transcription; originals in the repo are never modified.
+#
 # Usage:
 #   OPENAI_API_KEY=xxx ruby scripts/transcribe_missing_audio.rb
 #   OPENAI_API_KEY=xxx ruby scripts/transcribe_missing_audio.rb --dry-run
 #
 # Env:
 #   OPENAI_API_KEY   (required)
+#
+# Deps:
+#   ffmpeg, ffprobe  (for compressing files >= 25 MB)
 
 require "openai"
+require "tempfile"
 
 POSTS_DIR = "_posts"
 ASSETS_AUDIO = "assets/audio"
@@ -37,6 +44,36 @@ module Transcriber
       prompt: CHANNELING_PROMPT
     )
     response.text
+  end
+end
+
+MAX_FILE_SIZE_MB = 25
+
+def with_audio_for_transcription(mp3_path)
+  size_mb = File.size(mp3_path) / (1024.0 * 1024)
+
+  if size_mb < MAX_FILE_SIZE_MB
+    yield mp3_path
+    return
+  end
+
+  # Compress to temp copy (originals in repo are never modified)
+  duration = `ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "#{mp3_path}" 2>/dev/null`.to_f
+  duration = 3600.0 if duration <= 0
+
+  max_bits = MAX_FILE_SIZE_MB * 1024 * 1024 * 8 * 0.9
+  bitrate_bps = (max_bits / duration).to_i
+  bitrate_k = [[32, bitrate_bps / 1000].max, 128].min
+
+  Tempfile.create(["transcribe_", ".mp3"]) do |temp|
+    temp.close
+    temp_path = temp.path
+
+    success = system("ffmpeg", "-y", "-i", mp3_path, "-ac", "1", "-b:a", "#{bitrate_k}k",
+      temp_path, out: File::NULL, err: File::NULL)
+    abort "ffmpeg failed to compress audio (is ffmpeg installed?)" unless success
+
+    yield temp_path
   end
 end
 
@@ -90,7 +127,8 @@ def main
     end
 
     print "transcribe ... "
-    transcript = Transcriber.call(local_mp3)
+    transcript = nil
+    with_audio_for_transcription(local_mp3) { |audio_path| transcript = Transcriber.call(audio_path) }
     puts "OK (#{transcript.length} chars)"
 
     create_post(post_filename, transcript)

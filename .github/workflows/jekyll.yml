@@ -1,15 +1,13 @@
 # Build Jekyll with custom plugins and deploy to GitHub Pages
 # Required: Repository Settings → Pages → Source: "GitHub Actions"
-# Runs after Transcribe Audio completes (so transcripts are ready before deploy)
-# Also runs on manual workflow_dispatch
+# Runs on push to main (e.g. merged PR) and on manual workflow_dispatch
 
 name: Jekyll site CI
 
 on:
-  workflow_run:
-    workflows: [Transcribe Audio]
-    types: [completed]
-    branches: [main]
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -24,13 +22,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Skip if transcribe failed (only deploy on success or manual run)
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.ref }}
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
