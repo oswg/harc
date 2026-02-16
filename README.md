@@ -5,8 +5,7 @@ This repo constitutes a Jekyll static site generator for the High Altitude Recei
 
 ## Getting started
 
-The best way to start is to install git on your machine, designate a directory where this code lives, and clone the repository (`git clone https://github.com/oswg/harc.git` or use the Github CLI). Go into that directory, install Ruby and Bundler,
-and then `bundle install` and `bundle exec jekyll serve`. If everything goes right, you be able to navigate in your browser to [http://localhost:4000](http://localhost:4000) and see a usuable HARC site, right on your machine. Any changes you make to the content or code will be reflected on that site, so it's a good way to double check your submissions.
+The best way to start is to install git on your machine, designate a directory where this code lives, and clone the repository (`git clone https://github.com/oswg/harc.git` or use the Github CLI). Go into that directory, install Ruby and Bundler, and then `bundle install` and `bundle exec jekyll serve`. If everything goes right, you be able to navigate in your browser to [http://localhost:4000](http://localhost:4000) and see a usuable HARC site, right on your machine. Any changes you make to the content or code will be reflected on that site, so it's a good way to double check your submissions.
 
 ### Post and audio filename structure
 
@@ -38,7 +37,7 @@ Direct commits to `main` are disabled; that's the branch we use for publishing t
 2. Add the mp3 to the repo on that branch (under `/assets/audio`)
 3. Commit it and push: `git push origin <branch name>`
 4. Give it about 5 minutes or so, then `git pull origin main` should pull down a provisional post matching the filename structure of your mp3 but with the `.md` extension under `_posts/`.
-5. Flesh out the front matter data at the top of the post and submit a pull request. Other members of HARC will review and when approved, your post will be merged into main and published.git
+5. Flesh out the front matter data at the top of the post and submit a pull request. Other members of HARC will review and when approved, your post will be merged into `main` and published.
 
 You will need to talk to `jeremy6d` if you want to contribute.
 
