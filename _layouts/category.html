@@ -10,7 +10,7 @@ layout: default
   <h1 class="page-title">{{ page.title | category_display }}</h1>
   {% assign desc = site.data.category_descriptions[page.category] %}
   {% if desc and desc != "" %}
-  <p class="page-description">{{ desc }}</p>
+  <div class="page-description">{{ desc | markdownify }}</div>
   {% else %}
   <p class="page-description">Posts in this category (oldest first):</p>
   {% endif %}
