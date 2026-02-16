@@ -107,15 +107,23 @@ Jekyll::Hooks.register :site, :post_read do |site|
     post.data["permalink"] = permalink
     post.instance_variable_set(:@url, nil) if post.instance_variable_defined?(:@url)
 
-    # Redirect from old permalink format: /date/circle/event/session/filename-slug (e.g. richmond-ccp-019)
+    # Collect alternate URLs for redirects
+    redirect_urls = []
+    # Old format: /date/circle/event/session/filename-slug (e.g. richmond-ccp-019)
     if parsed && parsed[:circle] && parsed[:event]
       filename_slug = Jekyll::Utils.slugify("#{parsed[:circle]}-#{parsed[:event]}-#{session}")
       old_url = "/#{date_str}/#{circle_for_url}/#{event_for_url}/#{session_padded}/#{filename_slug}/"
-      if old_url != permalink
-        existing = post.data["redirect_from"] || []
-        existing = [existing] unless existing.is_a?(Array)
-        post.data["redirect_from"] = (existing + [old_url]).uniq
-      end
+      redirect_urls << old_url if old_url != permalink
+    end
+    # WordPress format: /date/session/title-slug (unpadded session, e.g. /2025-12-06/19/quo-on-crossing-the-threshold-into-the-new)
+    session_unpadded = session.to_i.to_s
+    redirect_urls << "/#{date_str}/#{session_unpadded}/#{title_slug}"
+    redirect_urls << "/#{date_str}/#{session_unpadded}/#{title_slug}/"
+
+    if redirect_urls.any?
+      existing = post.data["redirect_from"] || []
+      existing = [existing] unless existing.is_a?(Array)
+      post.data["redirect_from"] = (existing + redirect_urls).uniq
     end
   end
 end
