@@ -4,8 +4,5 @@ _site/
 .bundle/
 vendor/
 *.gem
-scripts/wxr_to_jekyll.rb
-scripts/rename_to_short_slugs.rb
-scripts/add_audio_from_wxr.rb
 scripts/*
 !scripts/transcribe_missing_audio.rb
