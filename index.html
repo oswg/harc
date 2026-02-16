@@ -9,8 +9,11 @@ layout: default
   {% assign posts_to_show = site.posts %}
 {% endif %}
 {% comment %}Exclude Training Session from main feed (see category_descriptions.yml){% endcomment %}
+{% assign first_displayed = true %}
 {% for post in posts_to_show %}
   {% unless post.categories contains "Training Session" %}
+  {% unless first_displayed %}<hr>{% endunless %}
+  {% assign first_displayed = false %}
   {% include intro_only.html post=post %}
   {% endunless %}
 {% endfor %}
