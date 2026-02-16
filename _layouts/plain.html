@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+	{% if site.logo and site.logo != "" %}
+	<link rel="icon" href="{{ site.logo | relative_url }}" sizes="any">
+	{% endif %}
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	<style>
+		body { min-height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
+		.plain-page { max-width: 40rem; padding: 0 1.5rem; text-align: center; }
+		.plain-page .logo { margin-bottom: 2rem; }
+		.plain-page .logo img { max-width: 200px; }
+	</style>
+</head>
+<body>
+	<div class="plain-page">
+		{% if site.logo and site.logo != "" %}
+		<div class="logo">
+			<a href="{{ '/' | relative_url }}"><img src="{{ site.logo | relative_url }}" alt="{{ site.title }}"></a>
+		</div>
+		{% endif %}
+		{{ content }}
+	</div>
+</body>
+</html>
