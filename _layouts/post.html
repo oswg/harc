@@ -10,6 +10,9 @@ layout: default
 <article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
     <div class="subtitle">
+      {% if doc.categories contains "Training Session" %}
+      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
+      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
       <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
@@ -18,6 +21,9 @@ layout: default
     </div>
     <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle-mobile">
+      {% if doc.categories contains "Training Session" %}
+      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
+      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
       <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
@@ -27,9 +33,14 @@ layout: default
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% if doc.introduction %}
+    {% if doc.introduction or doc.categories contains "Training Session" %}
     <h2>Introduction</h2>
+    {% if doc.categories contains "Training Session" %}
+    <p class="training-caveat">{{ site.data.category_descriptions["Training Session"] }}</p>
+    {% endif %}
+    {% if doc.introduction %}
     {{ doc.introduction | markdownify }}
+    {% endif %}
     {% endif %}
     {% if doc.group_question or doc.group_questions %}
     <h2>Group question</h2>
@@ -41,7 +52,7 @@ layout: default
     {% assign audio_file = 'assets/audio/' | append: audio_slug | append: '.mp3' %}
     {% assign has_audio = false %}
     {% for f in site.static_files %}
-      {% if f.path == audio_file %}{% assign has_audio = true %}{% break %}{% endif %}
+      {% if f.path contains audio_file %}{% assign has_audio = true %}{% break %}{% endif %}
     {% endfor %}
     {% if has_audio %}
     {% assign audio_full = audio_file | prepend: '/' | relative_url %}

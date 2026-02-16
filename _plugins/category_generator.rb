@@ -77,7 +77,14 @@ module Jekyll
       @dir = dir
       @name = "index.html"
       @category_name = category_name
-      @posts = posts.sort { |a, b| a.date <=> b.date } # oldest first
+      # Sort by date (oldest first), then by session number for same-day posts
+      @posts = posts.sort_by do |p|
+        [
+          p.date || Time.at(0),
+          (p.data["session"].to_s.empty? ? 0 : p.data["session"].to_i),
+          p.basename_without_ext.to_s
+        ]
+      end
       self.process(@name)
       self.data = {
         "layout" => "category",

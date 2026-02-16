@@ -34,7 +34,7 @@ Posts in the **Training Session** category get the training label and caveat on 
 
 ## Transcribe workflow
 
-MP3s are stored in the repo at `assets/audio/` and served from the filesystem. The transcribe workflow runs on push: it finds orphan MP3s (no matching post), transcribes each, and creates a new post with `title: TBD` and the transcript in the body. **Make sure you `git pull` after you give it a chance to create the stub post`.
+MP3s are stored in the repo at `assets/audio/` and served from the filesystem. The transcribe workflow runs on push: it finds orphan MP3s (no matching post), transcribes each, and creates a new post with `title: TBD` and the transcript in the body. **Make sure you `git pull` after you give it a chance to create the stub post`. You the need to edit the transcript, putting the introduction and group question in the appropriate front matter entries, adding instrument change notes, footnotes, paragraphs, and make sure Whisper AI didn't simply mess up the transcription (it sometimes does).
 
 **Convention:** Audio path is derived from the post filename. For `_posts/2024-06-09_harc_gathering-24_005.md`, the audio is `assets/audio/2024-06-09_harc_gathering-24_005.mp3`.
 

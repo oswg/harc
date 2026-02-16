@@ -12,7 +12,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination (increased from WP's 20 to better fill the layout)
-paginate: 20
+paginate: 25
 paginate_path: "/page:num/"
 
 # Custom logo path (relative to site root); set to empty to hide
