@@ -17,5 +17,6 @@ layout: default
 </header>
 
 {% for post in page.posts %}
+  {% unless forloop.first %}<hr>{% endunless %}
   {% include intro_only.html post=post %}
 {% endfor %}
