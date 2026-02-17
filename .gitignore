@@ -10,3 +10,4 @@ scripts/*
 !scripts/transcribe_missing_audio.rb
 !scripts/check_audio_links.rb
 !scripts/install_audio_sync_hook
+!scripts/resync_audio_to_s3.sh

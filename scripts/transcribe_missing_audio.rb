@@ -22,6 +22,7 @@
 #   aws CLI, ffmpeg, ffprobe
 
 require "openai"
+require "pathname"
 require "tempfile"
 
 POSTS_DIR = "_posts"
@@ -42,8 +43,11 @@ module Transcriber
 
   def self.call(mp3_path)
     client = OpenAI::Client.new(api_key: ENV["OPENAI_API_KEY"], timeout: 600)
+    file = Pathname(mp3_path).expand_path
+    # Use FilePart so API gets explicit filename and content-type (avoids "Invalid file format" errors)
+    file_part = OpenAI::FilePart.new(file, content_type: "audio/mpeg")
     response = client.audio.transcriptions.create(
-      file: File.open(mp3_path, "rb"),
+      file: file_part,
       model: "whisper-1",
       prompt: CHANNELING_PROMPT
     )
