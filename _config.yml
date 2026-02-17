@@ -18,6 +18,9 @@ paginate_path: "/page:num/"
 # Custom logo path (relative to site root); set to empty to hide
 logo: "/assets/logo.png"
 
+# Audio hosted on S3 (excluded from build to stay under GitHub Pages 1GB limit)
+audio_base_url: "https://harc-assets.s3.us-east-1.amazonaws.com/audio"
+
 # Default layout for posts (full transcript). Use post_intro for intro-only.
 defaults:
   - scope:
@@ -45,6 +48,9 @@ designation_mappings:
     gm: Guided Meditation
     2025-invitational: 2025 Invitational
     gathering-24: Gathering '24
+
+exclude:
+  - assets/audio
 
 plugins:
   - jekyll-paginate

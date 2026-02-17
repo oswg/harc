@@ -2,15 +2,7 @@
 
 # Liquid filters for category display and slug formatting.
 # Parent/Child categories: slug = parent-slug/child-slug, display = "Parent: Child"
-
-EVENT_CI_SLUGS = {
-  "first-channeling-intensive" => "ci1",
-  "second-channeling-intensive" => "ci2",
-  "third-channeling-intensive" => "ci3",
-  "fourth-channeling-intensive" => "ci4",
-  "fifth-channeling-intensive" => "ci5",
-  "sixth-channeling-intensive" => "ci6",
-}.freeze
+# Uses Harc::EVENT_CI_SLUGS from constants.rb
 
 module Jekyll
   module CategoryFilters
@@ -22,7 +14,7 @@ module Jekyll
         return "" if parent.to_s.empty? || child.to_s.empty?
         p_slug = Jekyll::Utils.slugify(parent)
         c_slug = Jekyll::Utils.slugify(child)
-        c_slug = EVENT_CI_SLUGS[c_slug] || c_slug if p_slug == "events"
+        c_slug = Harc::EVENT_CI_SLUGS[c_slug] || c_slug if p_slug == "events"
         return "" if p_slug.to_s.empty? || c_slug.to_s.empty?
         "#{p_slug}/#{c_slug}"
       else

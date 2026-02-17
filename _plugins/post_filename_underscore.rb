@@ -2,9 +2,10 @@
 
 # Jekyll plugin: Accept underscores in post filenames
 # Format: YYYY-MM-DD_circle_event_session-number (e.g. 2024-01-01_richmond_ccp_017.md)
-#
-# Jekyll normally requires a hyphen between the date and title. This patches
-# Document to accept either hyphen or underscore as the separator.
-# Note: A "already initialized constant" warning on build is expected and harmless.
+# Patches Document to accept hyphen or underscore between date and title.
+# Pattern defined in constants.rb.
 
-Jekyll::Document::DATE_FILENAME_MATCHER = %r!\A(?>.+/)*?(\d{2,4}-\d{1,2}-\d{1,2})[-_]([^/]*)(\.[^.]+)\z!.freeze
+if Jekyll::Document.const_defined?(:DATE_FILENAME_MATCHER, false)
+  Jekyll::Document.send(:remove_const, :DATE_FILENAME_MATCHER)
+end
+Jekyll::Document::DATE_FILENAME_MATCHER = Harc::DATE_FILENAME_MATCHER

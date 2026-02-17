@@ -3,15 +3,7 @@
 # Jekyll generator: create category archive pages at /category/parent/child/
 # Slugs conform to parent/child for hierarchical categories.
 # Run after posts are read so site.categories is populated.
-
-EVENT_CI_SLUGS = {
-  "first-channeling-intensive" => "ci1",
-  "second-channeling-intensive" => "ci2",
-  "third-channeling-intensive" => "ci3",
-  "fourth-channeling-intensive" => "ci4",
-  "fifth-channeling-intensive" => "ci5",
-  "sixth-channeling-intensive" => "ci6",
-}.freeze
+# Uses Harc::EVENT_CI_SLUGS from constants.rb.
 
 module Jekyll
   class CategoryArchiveGenerator < Generator
@@ -25,7 +17,7 @@ module Jekyll
         return nil if parent.empty? || child.empty?
         p_slug = Jekyll::Utils.slugify(parent)
         c_slug = Jekyll::Utils.slugify(child)
-        c_slug = EVENT_CI_SLUGS[c_slug] || c_slug if p_slug == "events"
+        c_slug = Harc::EVENT_CI_SLUGS[c_slug] || c_slug if p_slug == "events"
         return nil if p_slug.nil? || p_slug.empty? || c_slug.nil? || c_slug.empty?
         "#{p_slug}/#{c_slug}"
       else
@@ -33,8 +25,6 @@ module Jekyll
         s.to_s.empty? ? nil : s
       end
     end
-
-    SIDEBAR_PARENTS = %w[Circles Topics Events Contacts Instruments].freeze
 
     def generate(site)
       return unless site.categories && !site.categories.empty?
@@ -54,14 +44,14 @@ module Jekyll
         # Build grouped categories for sidebar
         if category_name.include?("/")
           parent, child = category_name.split("/", 2).map(&:strip)
-          grouped[parent] << { "name" => category_name, "slug" => slug, "child" => child } if SIDEBAR_PARENTS.include?(parent)
+          grouped[parent] << { "name" => category_name, "slug" => slug, "child" => child } if Harc::SIDEBAR_PARENTS.include?(parent)
         else
           grouped["Other"] << { "name" => category_name, "slug" => slug, "child" => category_name }
         end
       end
 
       # Sort children within each group; attach to site.data for layouts
-      grouped_list = SIDEBAR_PARENTS.map do |parent|
+      grouped_list = Harc::SIDEBAR_PARENTS.map do |parent|
         next unless grouped[parent]&.any?
         cats = grouped[parent].sort_by { |c| c["child"].downcase }
         { "parent" => parent, "categories" => cats }

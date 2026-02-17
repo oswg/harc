@@ -47,15 +47,12 @@ layout: default
     {{ doc.group_question | default: doc.group_questions | markdownify }}
     {% endif %}
     <h2>Channeled Message</h2>
-    {% comment %}Audio path derived from post filename: assets/audio/{{ page.name | remove: '.md' }}.mp3{% endcomment %}
+    {% comment %}Audio on S3: {{ site.audio_base_url }}/{{ page.name | remove: '.md' }}.mp3{% endcomment %}
     {% assign audio_slug = page.name | remove: '.md' %}
-    {% assign audio_file = 'assets/audio/' | append: audio_slug | append: '.mp3' %}
-    {% assign has_audio = false %}
-    {% for f in site.static_files %}
-      {% if f.path contains audio_file %}{% assign has_audio = true %}{% break %}{% endif %}
-    {% endfor %}
+    {% assign has_audio = audio_slug | has_audio_file %}
+    {% assign audio_base = site.audio_base_url | default: "https://harc-assets.s3.us-east-1.amazonaws.com/audio" %}
+    {% assign audio_full = audio_base | append: "/" | append: audio_slug | append: ".mp3" %}
     {% if has_audio %}
-    {% assign audio_full = audio_file | prepend: '/' | relative_url %}
     <div class="post-audio">
       <audio controls preload="metadata">
         <source src="{{ audio_full }}">

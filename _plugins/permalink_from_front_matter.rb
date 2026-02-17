@@ -28,8 +28,6 @@ def designation_slug_for_url(value, field, mappings)
   value_slug
 end
 
-CIRCLE_SLUG_OVERRIDES = { "harc_circle" => "harc" }.freeze
-
 def circle_from_categories(categories)
   return nil unless categories.is_a?(Array)
   categories.each do |cat|
@@ -90,7 +88,7 @@ Jekyll::Hooks.register :site, :post_read do |site|
 
     circle_from_cat = circle_from_categories(data["categories"])
     circle_raw = data["circle"]&.then { |c| Jekyll::Utils.slugify(c.to_s) } || circle_from_cat&.dig(:slug) || parsed&.dig(:circle)
-    circle_for_url = CIRCLE_SLUG_OVERRIDES[circle_raw.to_s] || designation_slug_for_url(circle_raw, "circle", mappings)
+    circle_for_url = Harc::CIRCLE_SLUG_OVERRIDES[circle_raw.to_s] || designation_slug_for_url(circle_raw, "circle", mappings)
 
     event_from_cat = event_from_categories(data["categories"])
     event_raw = data["event"]&.then { |e| Jekyll::Utils.slugify(e.to_s) } || event_from_cat&.dig(:slug) || parsed&.dig(:event)
