@@ -1,0 +1,23 @@
+#!/bin/bash
+# Sync assets/audio to S3 before push.
+# Requires: aws CLI, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
+# Install: ./scripts/install_audio_sync_hook
+
+set -e
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+S3_BUCKET="${HARC_S3_BUCKET:-harc-assets}"
+S3_PREFIX="${HARC_S3_PREFIX:-audio}"
+AUDIO_DIR="assets/audio"
+
+if [[ -d "$AUDIO_DIR" ]]; then
+  if aws s3 sync "$AUDIO_DIR/" "s3://${S3_BUCKET}/${S3_PREFIX}/" \
+    --exclude "*" --include "*.mp3" \
+    --cache-control "max-age=31536000" \
+    --content-type "audio/mpeg" 2>/dev/null; then
+    echo "[audio-sync] Synced $AUDIO_DIR to s3://${S3_BUCKET}/${S3_PREFIX}/"
+  else
+    echo "[audio-sync] Skipping S3 sync (aws cli failed - check AWS credentials)"
+  fi
+fi

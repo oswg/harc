@@ -1,4 +1,6 @@
 .DS_Store
+assets/audio/
+
 _site/
 .jekyll-cache/
 .bundle/
@@ -7,3 +9,4 @@ vendor/
 scripts/*
 !scripts/transcribe_missing_audio.rb
 !scripts/check_audio_links.rb
+!scripts/install_audio_sync_hook
