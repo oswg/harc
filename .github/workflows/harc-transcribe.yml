@@ -1,8 +1,7 @@
-# Detect orphan MP3s (in assets/audio/ without a matching post).
-# For each: transcribe, create a post with title: TBD and transcript in body.
-# Trigger on push or manually from Actions tab.
+# Detect orphan MP3s on S3 (no matching post). Download, transcribe, create post.
+# Trigger on push to non-main or manually from Actions tab.
 #
-# Required secrets: OPENAI_API_KEY
+# Required secrets: OPENAI_API_KEY, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
 
 name: Transcribe Audio
 
@@ -21,8 +20,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Configure AWS
+        uses: aws-actions/configure-aws-credentials@v4
         with:
-          lfs: true
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1

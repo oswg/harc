@@ -1,0 +1,13 @@
+#!/bin/bash
+# Install pre-push hook to sync assets/audio to S3 before each push.
+# Collaborators need AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY set.
+
+set -e
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+HOOK_SRC="$REPO_ROOT/hooks/pre-push"
+HOOK_DEST="$REPO_ROOT/.git/hooks/pre-push"
+
+mkdir -p "$(dirname "$HOOK_DEST")"
+cp "$HOOK_SRC" "$HOOK_DEST"
+chmod +x "$HOOK_DEST"
+echo "Installed pre-push hook. Ensure AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY are set."
