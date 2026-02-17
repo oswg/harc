@@ -1,6 +1,9 @@
 # Build Jekyll with custom plugins and deploy to GitHub Pages
 # Required: Repository Settings → Pages → Source: "GitHub Actions"
 # Runs on push to main (e.g. merged PR) and on manual workflow_dispatch
+#
+# S3 sync: assets/audio → s3://harc-assets/audio/
+# Required secrets: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY (for sync_audio job)
 
 name: Jekyll site CI
 
@@ -20,6 +23,27 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  sync_audio:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Sync MP3s to S3
+        run: |
+          aws s3 sync assets/audio/ s3://harc-assets/audio/ \
+            --delete \
+            --cache-control "max-age=31536000" \
+            --metadata-directive REPLACE \
+            --content-type "audio/mpeg"
+
   build:
     runs-on: ubuntu-latest
     steps:

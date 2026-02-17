@@ -6,3 +6,4 @@ vendor/
 *.gem
 scripts/*
 !scripts/transcribe_missing_audio.rb
+!scripts/check_audio_links.rb
