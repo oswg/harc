@@ -79,12 +79,7 @@
 			<main id="main" class="site-main" role="main">{{ content }}</main>
 		</div>
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
-			<div class="site-info">
-				<p>© 2021–{{ 'now' | date: '%Y' }} High Altitude Receiving Center and respective instruments</p>
-				<small>Jekyll site derived from the WordPress Amalie Lite theme.</small>
-			</div>
-		</footer>
+		{% include footer.html %}
 	</div>
 
 	<script src="{{ '/assets/js/secondary-toggle.js' | relative_url }}"></script>
