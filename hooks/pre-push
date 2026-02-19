@@ -13,6 +13,7 @@ AUDIO_DIR="assets/audio"
 
 if [[ -d "$AUDIO_DIR" ]]; then
   if aws s3 sync "$AUDIO_DIR/" "s3://${S3_BUCKET}/${S3_PREFIX}/" \
+    --size-only \
     --exclude "*" --include "*.mp3" \
     --cache-control "max-age=31536000" \
     --content-type "audio/mpeg" 2>/dev/null; then
