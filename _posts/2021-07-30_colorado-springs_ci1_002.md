@@ -24,7 +24,7 @@ Forgiveness is as much in the eye of the beholder as in that which has been behe
 
 In such an energy configuration, may we say, the apparent split between self and self can ultimately genuinely _be_ healed within a depth that may yet be incomprehensible to the one who seeks healing in this sacrament of forgiveness. One who wishes to invoke the sacrament of forgiveness, however, must do so, most especially in third density, where the veil so often reigns supreme, in such a way that once again the division between the forgiver and the forgiven remains in place. And so we will speak to both elements of this division in sequence beginning with the message we have to deliver through the one known as Jeremy. I am Laitos, and we now transfer this contact to the one known as Jeremy.
 
-_(Jeremy channeling) _
+_(Jeremy channeling)_
 
 We _(inaudible)_ again. **We are those of Laitos** , and we once again greet you in the love and the light of our One Infinite Creator. We thank this instrument for an extra dose of challenge which we are happy to cooperate with. We will continue on the topic of forgiveness.
 
