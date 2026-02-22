@@ -215,6 +215,15 @@ article .category-links li:not(:last-child)::after {
   max-width: 600px;
 }
 
+p.drop-cap::first-letter {
+  float: left;
+  font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  margin-top: 0.05em;
+}
+
 /* Footnote refs in text: Kramdown outputs <sup id="fnref:N"><a class="footnote">N</a></sup> */
 .entry-content sup[id^="fnref"],
 .entry-summary sup[id^="fnref"],
