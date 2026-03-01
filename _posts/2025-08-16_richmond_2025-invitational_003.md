@@ -140,7 +140,7 @@ I am Auxhall. I leave you now in the love and light of this infinite Creator of 
 
 [^8]: A reference to the earliest known channeling of Nona:
    > To be born into the flesh was the beginning of consciousness, of individuality; to grow by the exercise of free will until it became strong enough to catch a pale reflection of the Spirit of God.
-   - Nona via “Rosemary," _ Ancient Egypt Speaks (Hulme and Wood, 1937)_
+   - Nona via “Rosemary," _Ancient Egypt Speaks (Hulme and Wood, 1937)_
 
 [^9]: The account of this episode begins with [Ra via Rueckert: Session 68, Question 5](https://www.lawofone.info/s/68#5)
    .
