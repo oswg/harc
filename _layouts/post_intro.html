@@ -30,7 +30,7 @@ layout: default
     {% assign intro = doc.Introduction | default: doc.introduction | default: doc.excerpt %}
     {% if intro %}
       {% if doc.Introduction or doc.introduction %}
-        <p>{{ intro }}</p>
+        <p>{{ intro | markdownify }}</p>
       {% else %}
         {{ intro }}
       {% endif %}
