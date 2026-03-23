@@ -125,7 +125,7 @@ _(Steve channeling)_
 
 The astute observer of this interaction which has taken place this day will recognize that there are multiple voices at play, and will perhaps sense enough daylight between the voices, as to suggest the possibility that there is an actual disagreement in the response we have to offer.
 
-You know us as those of Q'uo, which is a kind of nominative gloss, if you will, that covers the convergence of three social memory complexes which have come together for purposes of communicating with you., who query us. And with regard to the vast majority of the questions that you pose to us, the differences in viewpoint merely shimmer like so many facets of the same gem.
+You know us as those of Q'uo, which is a kind of nominative gloss, if you will, that covers the convergence of three social memory complexes which have come together for purposes of communicating with you who query us. And with regard to the vast majority of the questions that you pose to us, the differences in viewpoint merely shimmer like so many facets of the same gem.
 
 We would like to suggest that there is a strong sense in which this remains true with regard to the present question, and that strong sense, we would suggest, is due to the fact that all who have gathered here today, from fourth density, from fifth density, and from sixth density, have arrived at their perspectives by participating in the same general bias, which is to say, the bias that embraces a relationship to the universe grounded in love. That remains true.
 

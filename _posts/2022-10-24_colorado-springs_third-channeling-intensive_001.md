@@ -52,7 +52,7 @@ Now, we would speak to the relationship between this sort of attitude toward sel
 
 _(Steve channeling)_&nbsp;
 
-**I am Q'uo** , and I am with this instrument., greeting you, once again, in the love and in the light of the Infinite Creator.
+**I am Q'uo** , and I am with this instrument, greeting you once again in the love and in the light of the Infinite Creator.
 
 Service is a concept which is universal in its application. There is no way, as we understand the term, for you to fail to serve. And, in a related sense, there is no way for you to fail to be spiritual in your service, because, as we understand it, spirit is constitutive of your very being. And so that does leave us, and you, facing a conundrum that is fundamental, which is to say: What could it possibly mean to _aspire_ to becoming more spiritual or serving in a better way? What means this distinction "better or worse"? What means, in fact, _any_ distinction at all in a creation which, as we have repeatedly reiterated, is one of _unity_? What possible sense could there be to wanting to be more, when you already belong to all that is, and all that ever there _could_ be?
 
