@@ -1,15 +1,22 @@
 ---
+Date: '2021-08-01'
+Circle: colorado-springs
 title: Q'uo on Yellow Ray Concerns in Organizations
-introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo lays the groundwork for social dynamics that span from the one-on-one relationship to the large institution, showing how these different scales of association allow for the issue of energies that allow us to work with the lessons of the yellow ray center. Conflict, humiliation, and frustration are far from errant experiences -- they are the means by which we learn the path towards social memory. If we can make our expectations within our groups plain, both to ourselves and to our other selves, we can set an example of the vast potential available to the group when each individual heart is opened and made vulnerable.
+Event: first-channeling-intensive
+Session: '008'
+Introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo lays the groundwork for social dynamics that span from the one-on-one relationship to the large institution, showing how these different scales of association allow for the issue of energies that allow us to work with the lessons of the yellow ray center. Conflict, humiliation, and frustration are far from errant experiences -- they are the means by which we learn the path towards social memory. If we can make our expectations within our groups plain, both to ourselves and to our other selves, we can set an example of the vast potential available to the group when each individual heart is opened and made vulnerable.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
 - Events/First Channeling Intensive
 - Instruments/Jeremy
 - Topics/Yellow Ray
+audio: /assets/audio/2021-08-01_yellow_ray_and_orgs.mp3
 ---
 
-_(Jeremy channeling)_
+
+
+_(Jeremy channeling_)
 
 **I am Q'uo** , and we greet you today in the love and light of our One Infinite Creator. We are so pleased to have yet another opportunity to work with this group and to provide an analysis from above that might help you as you wend your way through the cycle of lessons that attends the third density experience whose intensity we well remember.
 
@@ -57,4 +64,4 @@ _(No more questions)_
 
 We are again with this instrument, and we are those of Q'uo. We thank this group for the energy it has offered this instrument and our principle which once again finds itself the recipient of the greater portion of the learning. We offer the observation that we study your planet's unique social intercourses with great interest, and while we hope for a transition to fourth density that requires as little discomfort and sorrow as possible, we assure you that on the other side of this story that you are writing, you will look back and see a life well lived and you will perhaps be at a level where, like us, it will not be clear which of those lessons were purely individual and which were social. For my brothers and sisters, these distinctions are not so useful to our service to you, and we might suggest the contemplation of whether they are always and ever so useful to you, even as you sit here this morning.
 
-And with that thought, we thank this instrument for taking an ever so slight step aside. It is not so difficult, is it? And we thank this group for its steadfast support, its patience, and we now take our leave only in manifestation, never ever in spirit, leaving you in the love and the light of our infinite Creator. Adonai. We are those of Q'uo. Adonai. ☥
+And with that thought, we thank this instrument for taking an ever so slight step aside. It is not so difficult, is it? And we thank this group for its steadfast support, its patience, and we now take our leave only in manifestation, never ever in spirit, leaving you in the love and the light of our infinite Creator. Adonai. We are those of Q'uo. Adonai.

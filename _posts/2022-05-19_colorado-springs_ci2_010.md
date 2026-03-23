@@ -1,7 +1,11 @@
 ---
+Date: '2022-05-19'
+Circle: colorado-springs
 title: Q'uo on Love and Respect
-group_question: What is the difference between loving someone and respecting someone?
-introduction: In the final session of OSWG’s second channeling intensive, Q’uo explains the relationship between the concepts of respect and green ray love. They begin by defining respect as according dignity to another as an equal part of the Creator. They then characterize green ray love as seeing yourself and the other as part of the same whole, which requires that one first respects the other. Q’uo considers the situation of opening the heart to another who cannot return the act, as well as the situation in which mated entities struggle to maintain an open-hearted connection.
+Event: second-channeling-intensive
+Session: '010'
+Group Questions: What is the difference between loving someone and respecting someone?
+Introduction: In the final session of OSWG’s second channeling intensive, Q’uo explains the relationship between the concepts of respect and green ray love. They begin by defining respect as according dignity to another as an equal part of the Creator. They then characterize green ray love as seeing yourself and the other as part of the same whole, which requires that one first respects the other. Q’uo considers the situation of opening the heart to another who cannot return the act, as well as the situation in which mated entities struggle to maintain an open-hearted connection.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -10,7 +14,10 @@ categories:
 - Topics/Empathy
 - Topics/Green Ray
 - Topics/Respect
+audio: /assets/audio/2022-05-19_2126_respect.mp3
 ---
+
+
 
 _(Joseph channeling)_
 

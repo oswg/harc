@@ -1,10 +1,14 @@
 ---
+Date: '2022-05-16'
+Circle: colorado-springs
 title: Q'uo on Disciplining the Emotions into Love
-group_question: |-
+Event: second-channeling-intensive
+Session: '002'
+Group Questions: |-
   We would like Q’uo to expand on the meaning of the following passage from Ra, which can be found in session 64, question 4:
 
   "The principle behind any ritual of the white magical nature is to so configure the stimuli which reach down into the trunk of mind that this arrangement causes the generation of disciplined and purified emotion or love which then may be both protection and the key to the gateway to intelligent infinity."
-introduction: 'In this session Q’uo speaks to the process and the tribulations involved in the task that increasingly becomes central to the aspiring adept: the work of disciplining the emotions. Stress is laid upon the need to integrate work in the daily life with that work which is done in meditation. Q’uo develops in some detail the exigencies of daily work, showing how this fits in with our interactions with other selves. And the point is made that these interactions will not always be sweet and harmonious, even when there is a prevailing intent to make them so. Finally, attention is given to how the harvest of the work done in daily life can be brought into the more focused workings of the meditative situation.'
+Introduction: 'In this session Q’uo speaks to the process and the tribulations involved in the task that increasingly becomes central to the aspiring adept: the work of disciplining the emotions. Stress is laid upon the need to integrate work in the daily life with that work which is done in meditation. Q’uo develops in some detail the exigencies of daily work, showing how this fits in with our interactions with other selves. And the point is made that these interactions will not always be sweet and harmonious, even when there is a prevailing intent to make them so. Finally, attention is given to how the harvest of the work done in daily life can be brought into the more focused workings of the meditative situation.'
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -17,7 +21,10 @@ categories:
 - Topics/Emotions
 - Topics/Magic
 - Topics/Third Density
+audio: /assets/audio/2022-05-16_1206_love_tracking.mp3
 ---
+
+
 
 _(Steve channeling)_
 
@@ -63,17 +70,17 @@ _(Jeremy channeling)_
 
 We are those of Q’uo. We are with this instrument.
 
-If you are to harvest this experience, this taste of harmony, in such a way as to deepen your appreciation for that which you cannot fathom, for that which is a mystery, you must have some kind of exertion, you must have a reach over a line. This is an inherently unstable state of affairs. It is for this reason that we, who speak of love in its majesty and its grandeur, we exhort you to work on the self, not as a piece of art you are creating so much as a friend you are cultivating. 
+If you are to harvest this experience, this taste of harmony, in such a way as to deepen your appreciation for that which you cannot fathom, for that which is a mystery, you must have some kind of exertion, you must have a reach over a line. This is an inherently unstable state of affairs. It is for this reason that we, who speak of love in its majesty and its grandeur, we exhort you to work on the self, not as a piece of art you are creating so much as a friend you are cultivating.&nbsp;
 
-We wish to speak of discipline in this light, for what you struggle with as you wend your way through the many kaleidoscopic colors of love, so various and shimmering that they must feel unfathomable, is that this sense of self that you are becoming friends with is something you will find yourself at times distant from, and then always, my friends, always returning to. If this sounds like the invocation of the idea of patience, then we feel you have met our minds on this. Discipline is necessary in order to walk a path and not, shall we say, have the path walk you. This is how you can take what we might call a kind of spiritual risk in delving into those many colors of emotion that love refracts and reflects into so that you can understand and feel what you cannot think yourself into. 
+We wish to speak of discipline in this light, for what you struggle with as you wend your way through the many kaleidoscopic colors of love, so various and shimmering that they must feel unfathomable, is that this sense of self that you are becoming friends with is something you will find yourself at times distant from, and then always, my friends, always returning to. If this sounds like the invocation of the idea of patience, then we feel you have met our minds on this. Discipline is necessary in order to walk a path and not, shall we say, have the path walk you. This is how you can take what we might call a kind of spiritual risk in delving into those many colors of emotion that love refracts and reflects into so that you can understand and feel what you cannot think yourself into.&nbsp;
 
-This letting go that we have spoken of is part of a dance, my friends. How the rhythm moves you, how the harmonies modulate melodically; even if you know the tune, it feels different on the floor. You are offering this refined sense of self in more and more purity as you learn to take down the scaffolding at times, the scaffolding that afforded you the chance to work on a small imbalance. And it is for this reason, this priority of reflection that needs temporary structure at times, that you must learn that the adoption of the structure and the letting go of it is the full circle of experience. 
+This letting go that we have spoken of is part of a dance, my friends. How the rhythm moves you, how the harmonies modulate melodically; even if you know the tune, it feels different on the floor. You are offering this refined sense of self in more and more purity as you learn to take down the scaffolding at times, the scaffolding that afforded you the chance to work on a small imbalance. And it is for this reason, this priority of reflection that needs temporary structure at times, that you must learn that the adoption of the structure and the letting go of it is the full circle of experience.&nbsp;
 
-This is an aspect that you work on in your daily lives, and the white magical ritual is but a tool in which you open yourself to an invitation from that friend you have made, that friend that is the self you are working on. This self wants to show you the fullness and the richness of the love that is seemingly spread out through an experience of duration. What you should balance, if you care to, in understanding the ambiguous direction of your dance, is the character of the Creator, this fixed point beyond your reach and yet closer than your breath. 
+This is an aspect that you work on in your daily lives, and the white magical ritual is but a tool in which you open yourself to an invitation from that friend you have made, that friend that is the self you are working on. This self wants to show you the fullness and the richness of the love that is seemingly spread out through an experience of duration. What you should balance, if you care to, in understanding the ambiguous direction of your dance, is the character of the Creator, this fixed point beyond your reach and yet closer than your breath.&nbsp;
 
-It is in this way that working with ritual, working with discipline, and taking the time to view the many colors that the prism that is you reflects and refracts that you deepen the relationship with the self that you continually discover to be the Creator; and yet you must let go of that at certain times to tack in a different direction. This departure and return, the cycle that we previously spoke of, is wearying, my friends. It draws upon all of the resources that you can lay claim to, and yes, more. This is, however, the process of refinement, the process of clarifying experience from a jumble of feelings, thoughts, being states, into the root elements that the Creator affords its Creation, and my friends, when you can avail yourself of these elements at will you will be ready to take that leap in a direction you have not even contemplated. 
+It is in this way that working with ritual, working with discipline, and taking the time to view the many colors that the prism that is you reflects and refracts that you deepen the relationship with the self that you continually discover to be the Creator; and yet you must let go of that at certain times to tack in a different direction. This departure and return, the cycle that we previously spoke of, is wearying, my friends. It draws upon all of the resources that you can lay claim to, and yes, more. This is, however, the process of refinement, the process of clarifying experience from a jumble of feelings, thoughts, being states, into the root elements that the Creator affords its Creation, and my friends, when you can avail yourself of these elements at will you will be ready to take that leap in a direction you have not even contemplated.&nbsp;
 
-This is all part of the gambit of individuation, and if it strikes one as dangerous or unsettling, then take that moment of unsettled feeling and offer it to that Creator self who waits in the temple of your heart. You will find there inexhaustible patience will show you the possibilities of consciousness that make this seemingly endless plumbing of the mystery of love an act of joy. Joy, my friends, need not always be a secure feeling; it can, at times, have a sense of unsettledness and incompleteness, for in feeling this variety of love, you partake, in but a small but poignant way, of the innovative spirit of the creative act of which you are both product and producer. 
+This is all part of the gambit of individuation, and if it strikes one as dangerous or unsettling, then take that moment of unsettled feeling and offer it to that Creator self who waits in the temple of your heart. You will find there inexhaustible patience will show you the possibilities of consciousness that make this seemingly endless plumbing of the mystery of love an act of joy. Joy, my friends, need not always be a secure feeling; it can, at times, have a sense of unsettledness and incompleteness, for in feeling this variety of love, you partake, in but a small but poignant way, of the innovative spirit of the creative act of which you are both product and producer.&nbsp;
 
 And to continue on this subject we would ask this instrument to release the contact, allowing us to move to the one known of Jade. We are those of Q’uo.
 
@@ -93,7 +100,7 @@ At this time, we will leave this instrument and return to the one known as Steve
 
 _(Steve channeling)_
 
-**I am Q’uo** , and I am again with this instrument. 
+**I am Q’uo** , and I am again with this instrument.&nbsp;
 
 We would speak to you now as the brothers and sisters of sorrow, for we have for you a leavening to the bread which we have all baked together. We believe that we have offered through the various instruments that have offered themselves in service this day sufficient perspective on the various dimensions of the issue at play and the various facets of the love which we have suggested to you requires discipline and purification to serve as a carrier wave in the process of that magical working which is specifically directed to the opening of the gateway to Intelligent Infinity.
 

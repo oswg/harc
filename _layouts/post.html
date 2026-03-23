@@ -10,86 +10,56 @@ layout: default
 <article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
     <div class="subtitle">
-      {% if doc.categories contains "Training Session" %}
-      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
-      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
     <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle-mobile">
-      {% if doc.categories contains "Training Session" %}
-      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
-      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% if doc.introduction or doc.categories contains "Training Session" %}
+    {% if doc.Introduction or doc.introduction %}
     <h2>Introduction</h2>
-    {% if doc.categories contains "Training Session" %}
-    <p class="training-caveat">{{ site.data.category_descriptions["Training Session"] }}</p>
+    {{ doc.Introduction | default: doc.introduction | markdownify }}
     {% endif %}
-    {% if doc.introduction %}
-    {{ doc.introduction | markdownify }}
-    {% endif %}
-    {% endif %}
-    {% if doc.group_question or doc.group_questions %}
+    {% if doc["Group Questions"] or doc.group_questions %}
     <h2>Group question</h2>
-    {{ doc.group_question | default: doc.group_questions | markdownify }}
+    {{ doc["Group Questions"] | default: doc.group_questions | markdownify }}
     {% endif %}
-    <h2>Channeled Message</h2>
-    {% comment %}All posts have audio on S3{% endcomment %}
-    {% assign audio_slug = page.name | remove: '.md' %}
-    {% assign audio_base = site.audio_base_url | default: "https://harc-assets.s3.us-east-1.amazonaws.com/audio" %}
-    {% assign audio_full = audio_base | append: "/" | append: audio_slug | append: ".mp3" %}
+    <h2>Channeled message</h2>
+    {% assign audio_url = doc.audio | default: doc.Media %}
+    {% if audio_url %}
     <div class="post-audio">
       <audio controls preload="metadata">
-        <source src="{{ audio_full }}">
-        <p>Your browser does not support the audio element. <a href="{{ audio_full }}">Download audio</a>.</p>
+        <source src="{{ audio_url | relative_url }}">
+        <p>Your browser does not support the audio element. <a href="{{ audio_url | relative_url }}">Download audio</a>.</p>
       </audio>
     </div>
-    {% assign content_parts = content | split: '<div class="footnotes"' %}
-    {% if content_parts.size > 1 %}
-      {% assign before_footnotes = content_parts[0] %}
-      {% assign footnotes_rest = content_parts[1] %}
-      {% if before_footnotes contains '☥' %}
-        {{ before_footnotes }}<div class="footnotes"{{ footnotes_rest }}
-      {% else %}
-        {{ before_footnotes }}<p class="post-ankh">☥</p>
-<div class="footnotes"{{ footnotes_rest }}
-      {% endif %}
-    {% else %}
-      {% if content contains '☥' %}
-        {{ content }}
-      {% else %}
-        {{ content }}<p class="post-ankh">☥</p>
-      {% endif %}
     {% endif %}
+    {{ content | markdownify }}
   </div><!-- .entry-content -->
 
   {% if doc.categories and doc.categories.size > 0 %}
-  <hr>
-  <div class="category-list-wrap">
-  <ul class="category-links">
-    {% for cat in doc.categories %}
-    {% unless cat == "Channeling Session" %}
-    {% assign cat_slug = cat | category_slug %}
-    {% if cat_slug != '' %}
-    <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat | category_display }}</a></li>
-    {% endif %}
-    {% endunless %}
-    {% endfor %}
-  </ul>
-  </div>
+  <footer class="entry-footer entry-categories">
+    <h3>Categories</h3>
+    <ul class="category-links">
+      {% for cat in doc.categories %}
+      {% assign cat_slug = cat | category_slug %}
+      {% if cat_slug != '' %}
+      <li><a href="{{ '/category/' | append: cat_slug | append: '/' | relative_url }}">{{ cat | category_display }}</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </footer>
   {% endif %}
 
 </article>

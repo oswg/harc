@@ -1,6 +1,10 @@
 ---
+Date: '2021-08-01'
+Circle: colorado-springs
 title: Q'uo on the Significator, Matrix, and Potentiator
-introduction: In this session from the Other Selves Working Group's first channeling intensive, Q'uo elaborates on functional characteristics involved in three of the seven classifications used to study the archetypal mind. The significator provides a unifying concept of selfhood that derives elaboration from the mutual reinforcement of matrix and potentiator, variously synthesizing the activity/passivity and generation/reception dynamics that accrue from their respective masculine or feminine correspondences. In their answers to questions, Q'uo briefly touches on the choice archetype's relationship to the significator, and finally they establish the primacy of free will relative to the archetypal mind, suggesting a mysterious, macrocosmic superstructure governing octaval evolution.
+Event: first-channeling-intensive
+Session: '009'
+Introduction: In this session from the Other Selves Working Group's first channeling intensive, Q'uo elaborates on functional characteristics involved in three of the seven classifications used to study the archetypal mind. The significator provides a unifying concept of selfhood that derives elaboration from the mutual reinforcement of matrix and potentiator, variously synthesizing the activity/passivity and generation/reception dynamics that accrue from their respective masculine or feminine correspondences. In their answers to questions, Q'uo briefly touches on the choice archetype's relationship to the significator, and finally they establish the primacy of free will relative to the archetypal mind, suggesting a mysterious, macrocosmic superstructure governing octaval evolution.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -14,7 +18,10 @@ categories:
 - Topics/Octaval Evolution
 - Topics/Potentiator
 - Topics/Significator
+audio: /assets/audio/2021-08-01_archetypes.mp3
 ---
+
+
 
 _(Joseph channeling)_
 
@@ -54,4 +61,4 @@ Now, perhaps there is another aspect of the question that you might appreciate: 
 
 Is there another query?
 
-We are those of Q’uo. We are grateful for the opportunity to speak to this circle and through this instrument, who at this moment is critical of his own performance. We shall remind everyone of the importance of accepting where you are as you are, that there is no simple jest in the statement that all is well, even if it may be important for you to feel that all is not well. So, to the best of your ability be at peace. Rejoice in your efforts to serve, accept your limitations, continue in your seeking, in your study, in your efforts at discipline. There are no mistakes, so enjoy the surprises. We thank you again and we take our departure in the love and the light of the one creator. Adonai. ☥
+We are those of Q’uo. We are grateful for the opportunity to speak to this circle and through this instrument, who at this moment is critical of his own performance. We shall remind everyone of the importance of accepting where you are as you are, that there is no simple jest in the statement that all is well, even if it may be important for you to feel that all is not well. So, to the best of your ability be at peace. Rejoice in your efforts to serve, accept your limitations, continue in your seeking, in your study, in your efforts at discipline. There are no mistakes, so enjoy the surprises. We thank you again and we take our departure in the love and the light of the one creator. Adonai.

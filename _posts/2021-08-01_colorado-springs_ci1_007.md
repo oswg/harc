@@ -1,6 +1,10 @@
 ---
+Date: '2021-08-01'
+Circle: colorado-springs
 title: Q'uo on Humility
-introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo discusses humility, starting with comparing our condition to that of the second density sapling vulnerably striving towards the light without self-consciousness. Q’uo then ties in false humility, arrogance, acceptance of self, protection, specialization, and authority to explore the experiences that we encounter as we hone the personality shells that third density provides us. Given the service we expect to perform, Q’uo suggests we seek to share the burden and comfort one another, recognizing we all started out as more naive and less wise than we are now.
+Event: first-channeling-intensive
+Session: '007'
+Introduction: In this session from the Other Selves Working Group's first channeling intensive in Colorado Springs, Q’uo discusses humility, starting with comparing our condition to that of the second density sapling vulnerably striving towards the light without self-consciousness. Q’uo then ties in false humility, arrogance, acceptance of self, protection, specialization, and authority to explore the experiences that we encounter as we hone the personality shells that third density provides us. Given the service we expect to perform, Q’uo suggests we seek to share the burden and comfort one another, recognizing we all started out as more naive and less wise than we are now.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -12,7 +16,10 @@ categories:
 - Topics/Humility
 - Topics/Second Density
 - Topics/Third Density
+audio: /assets/audio/2021-08-01_humility.mp3
 ---
+
+
 
 _(Jeremy channeling)_
 
@@ -70,4 +77,4 @@ Your path is, in truth, not different. We ask that you begin by comforting each 
 
 As you choose your way, remember that we are also by your side. When you choose how to serve, you might think of us as a cool breeze in a heated moment and know that all is well and there is nothing to be proven; only a moment to yield to the Creator, and the next task to be done. And to make space for your next task, we will leave this instrument and take a step aside so that he may choose, as all of you do, how he shall spend his love.
 
-We are those of Q’uo. We love you so. Adonai, my friends. Adonai. ☥
+We are those of Q’uo. We love you so. Adonai, my friends. Adonai.

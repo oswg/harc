@@ -10,33 +10,27 @@ layout: default
 <article id="post-{{ doc.id | slugify }}" class="post type-post status-publish format-standard hentry">
   <header class="entry-header">
     <div class="subtitle">
-      {% if doc.categories contains "Training Session" %}
-      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
-      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
     <h2 class="entry-title"><a href="{{ doc.url | relative_url }}" rel="bookmark">{{ doc.title }}</a></h2>
     <div class="subtitle-mobile">
-      {% if doc.categories contains "Training Session" %}
-      <span class="training-label"><i class="fas fa-user-graduate"></i> Training session</span>
-      {% endif %}
       <span class="subtitle-line">{{ doc.circle_display | default: doc.circle }}</span>
       <span class="subtitle-line">{{ doc.event_display | default: doc.event }}</span>
-      <span class="subtitle-line">Session {{ doc.session | plus: 0 }}</span>
+      <span class="subtitle-line">Session {{ doc.session }}</span>
       <span class="subtitle-line">
         {{ doc.date | date: "%A, %B %-d, %Y" }} </span>
     </div>
   </header><!-- .entry-header -->
 
   <div class="entry-content">
-    {% assign intro = doc.introduction | default: doc.excerpt %}
+    {% assign intro = doc.Introduction | default: doc.introduction | default: doc.excerpt %}
     {% if intro %}
-      {% if doc.introduction %}
-        <p>{{ intro }}</p>
+      {% if doc.Introduction or doc.introduction %}
+        <p>{{ intro | markdownify }}</p>
       {% else %}
         {{ intro }}
       {% endif %}
