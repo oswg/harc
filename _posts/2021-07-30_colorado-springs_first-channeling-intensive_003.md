@@ -19,7 +19,7 @@ categories:
 audio: /assets/audio/2021-07-30_trust.mp3
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

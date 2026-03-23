@@ -21,7 +21,7 @@ categories:
 audio: /assets/audio/2021-08-01_archetypes.mp3
 ---
 
-## Channeled Message
+
 
 _(Joseph channeling)_
 

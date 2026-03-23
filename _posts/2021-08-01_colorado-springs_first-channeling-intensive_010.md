@@ -16,7 +16,7 @@ categories:
 audio: /assets/audio/2021-08-01_empathy_edit.mp3
 ---
 
-## Channeled Message
+
 
 _(Jade channeling)_
 

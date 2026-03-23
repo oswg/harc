@@ -27,6 +27,15 @@ layout: default
   </header><!-- .entry-header -->
 
   <div class="entry-content">
+    {% if doc.Introduction or doc.introduction %}
+    <h2>Introduction</h2>
+    {{ doc.Introduction | default: doc.introduction | markdownify }}
+    {% endif %}
+    {% if doc["Group Questions"] or doc.group_questions %}
+    <h2>Group question</h2>
+    {{ doc["Group Questions"] | default: doc.group_questions | markdownify }}
+    {% endif %}
+    <h2>Channeled message</h2>
     {% assign audio_url = doc.audio | default: doc.Media %}
     {% if audio_url %}
     <div class="post-audio">
@@ -36,15 +45,7 @@ layout: default
       </audio>
     </div>
     {% endif %}
-    {% if doc.Introduction or doc.introduction %}
-    <h2>Introduction</h2>
-    {{ doc.Introduction | default: doc.introduction | markdownify }}
-    {% endif %}
-    {% if doc["Group Questions"] or doc.group_questions %}
-    <h2>Group question</h2>
-    {{ doc["Group Questions"] | default: doc.group_questions | markdownify }}
-    {% endif %}
-    {{ content }}
+    {{ content | markdownify }}
   </div><!-- .entry-content -->
 
   {% if doc.categories and doc.categories.size > 0 %}

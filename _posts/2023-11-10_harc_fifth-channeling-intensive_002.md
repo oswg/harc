@@ -34,7 +34,7 @@ categories:
 - Topics/Thought Forms
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

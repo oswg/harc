@@ -39,7 +39,7 @@ categories:
 - Topics/Yellow Ray
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

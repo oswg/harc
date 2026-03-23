@@ -26,7 +26,7 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

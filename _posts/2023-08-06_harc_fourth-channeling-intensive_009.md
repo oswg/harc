@@ -30,7 +30,7 @@ categories:
 - Topics/Time and space
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 

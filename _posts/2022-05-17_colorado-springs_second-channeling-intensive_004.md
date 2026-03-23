@@ -20,7 +20,7 @@ categories:
 audio: /assets/audio/2022-05-17_1952_thought_forms.mp3
 ---
 
-## Channeled Message
+
 
 _(Joseph channeling)_
 

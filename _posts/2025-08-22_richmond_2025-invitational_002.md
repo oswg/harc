@@ -32,7 +32,7 @@ categories:
 audio: /assets/audio/2025-08-16_richmond_2025-invitational_002.mp3
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 

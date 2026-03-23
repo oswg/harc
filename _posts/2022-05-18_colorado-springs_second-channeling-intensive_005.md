@@ -23,7 +23,7 @@ categories:
 audio: /assets/audio/2022-05-18_1005_spirit_and_self_consciousness.mp3
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

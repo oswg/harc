@@ -25,7 +25,7 @@ categories:
 audio: /assets/audio/2022-05-18_1640_safety.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

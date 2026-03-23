@@ -34,7 +34,7 @@ categories:
 - Training Session
 ---
 
-## Channeled message
+
 
 _(Baris channeling)&nbsp;_
 

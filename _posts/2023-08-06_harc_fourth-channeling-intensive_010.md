@@ -21,7 +21,7 @@ categories:
 - Topics/Octaval Evolution
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

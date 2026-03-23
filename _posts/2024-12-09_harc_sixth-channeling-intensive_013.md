@@ -25,7 +25,7 @@ categories:
 - Training Session
 ---
 
-## Channeled message
+
 
 _(Linus channeling)_
 

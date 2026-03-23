@@ -36,7 +36,7 @@ categories:
 - Topics/Spirit Complex
 ---
 
-## Channeled message
+
 
 _(Please note the recording was started just after the channeling began, and the opening words were transcribed from memory)_
 

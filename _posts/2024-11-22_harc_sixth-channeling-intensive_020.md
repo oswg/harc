@@ -31,7 +31,7 @@ categories:
 - Topics/Will
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 

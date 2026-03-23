@@ -14,7 +14,7 @@ categories:
 audio: /assets/audio/2021-08-01_yellow_ray_and_orgs.mp3
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling_)
 

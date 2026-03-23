@@ -18,7 +18,7 @@ categories:
 audio: /assets/audio/2022-05-18_2137_biases.mp3
 ---
 
-## Channeled Message
+
 
 _(Joseph channeling)_
 

@@ -17,7 +17,7 @@ categories:
 audio: /assets/audio/2022-05-19_1929_all_is_well.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

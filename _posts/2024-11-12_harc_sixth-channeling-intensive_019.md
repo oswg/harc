@@ -38,7 +38,7 @@ categories:
 - Topics/Yellow Ray
 ---
 
-## Channeled message
+
 
 **I am Q'uo** &nbsp;and am with this instrument at this time on this beautiful planet's surface, greeting each here in the love and light and the sacred promise of our One Infinite Creator. How marvelous these times together have been, my friends
 

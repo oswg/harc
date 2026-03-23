@@ -37,7 +37,7 @@ categories:
 - Topics/Wisdom
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 

@@ -20,7 +20,7 @@ categories:
 audio: /assets/audio/2022-05-19_0959_anxiety.mp3
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

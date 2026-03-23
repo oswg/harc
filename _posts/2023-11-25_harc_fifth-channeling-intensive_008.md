@@ -25,7 +25,7 @@ categories:
 - Topics/Transformation
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

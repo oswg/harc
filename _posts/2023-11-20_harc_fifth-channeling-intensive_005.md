@@ -37,7 +37,7 @@ categories:
 - Topics/Trust
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

@@ -36,7 +36,7 @@ categories:
 - Training Session
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 

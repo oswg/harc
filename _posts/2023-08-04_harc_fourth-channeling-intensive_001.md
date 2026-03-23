@@ -15,7 +15,7 @@ categories:
 - Topics/Transformation
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

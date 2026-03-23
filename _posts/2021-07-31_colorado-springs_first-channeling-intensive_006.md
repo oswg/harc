@@ -18,7 +18,7 @@ categories:
 audio: /assets/audio/2021-07-31_love_and_wisdom.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

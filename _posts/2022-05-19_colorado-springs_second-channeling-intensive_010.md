@@ -17,7 +17,7 @@ categories:
 audio: /assets/audio/2022-05-19_2126_respect.mp3
 ---
 
-## Channeled Message
+
 
 _(Joseph channeling)_
 

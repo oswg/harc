@@ -24,7 +24,7 @@ categories:
 - Training Session
 ---
 
-## Channeled Message
+
 
 (_Jamie Channeling_)
 

@@ -23,7 +23,7 @@ categories:
 audio: /assets/audio/2021-07-31_earth_healing.mp3
 ---
 
-## Channeled Message
+
 
 _(Jade channeling)_
 

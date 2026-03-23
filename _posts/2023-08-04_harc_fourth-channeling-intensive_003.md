@@ -17,7 +17,7 @@ categories:
 - Topics/Timelessness
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

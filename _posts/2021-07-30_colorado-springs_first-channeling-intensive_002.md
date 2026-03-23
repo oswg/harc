@@ -19,7 +19,7 @@ categories:
 audio: /assets/audio/2021-07-30_02_forgiveness-1.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

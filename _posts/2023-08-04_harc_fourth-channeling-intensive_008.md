@@ -17,7 +17,7 @@ categories:
 - Topics/Trust
 ---
 
-## Channeled message
+
 
 (_Nithin Channeling_)
 

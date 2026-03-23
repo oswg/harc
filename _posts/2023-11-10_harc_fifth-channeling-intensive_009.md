@@ -38,7 +38,7 @@ categories:
 - Topics/Will
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

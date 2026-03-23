@@ -28,7 +28,7 @@ categories:
 - Topics/Wanderers
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

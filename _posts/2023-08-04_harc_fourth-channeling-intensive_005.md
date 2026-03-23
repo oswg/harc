@@ -14,7 +14,7 @@ categories:
 - Topics/Service
 ---
 
-## Channeled Message
+
 
 _(Nithin channeling)_
 

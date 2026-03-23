@@ -24,7 +24,7 @@ categories:
 - Topics/The Veil
 ---
 
-## Channeled message
+
 
 _(Steve channeling)_
 

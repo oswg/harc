@@ -30,7 +30,7 @@ categories:
 - Topics/Third Density
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

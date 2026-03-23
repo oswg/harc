@@ -19,7 +19,7 @@ categories:
 audio: /assets/audio/2021-08-01_humility.mp3
 ---
 
-## Channeled Message
+
 
 _(Jeremy channeling)_
 

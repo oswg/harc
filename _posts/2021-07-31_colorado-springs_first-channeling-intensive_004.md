@@ -20,7 +20,7 @@ categories:
 audio: /assets/audio/2021-07-31_service_edit.mp3
 ---
 
-## Channeled Message
+
 
 _(Joseph channeling)_
 

@@ -21,7 +21,7 @@ categories:
 audio: /assets/audio/2022-05-16_1720_transformation_of_mind.mp3
 ---
 
-## Channeled Message
+
 
 _(Jade channeling)_
 

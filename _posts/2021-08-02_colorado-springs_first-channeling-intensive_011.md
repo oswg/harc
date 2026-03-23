@@ -16,7 +16,7 @@ categories:
 audio: /assets/audio/2021-08-02_love_desire_despair_healing.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve Channeling)_
 

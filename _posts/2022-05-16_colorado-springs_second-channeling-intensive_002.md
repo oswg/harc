@@ -24,7 +24,7 @@ categories:
 audio: /assets/audio/2022-05-16_1206_love_tracking.mp3
 ---
 
-## Channeled Message
+
 
 _(Steve channeling)_
 

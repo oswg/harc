@@ -15,7 +15,7 @@ categories:
 - Topics/Faith
 ---
 
-## Channeled message
+
 
 _(Jeremy channeling)_
 
