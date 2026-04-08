@@ -1,11 +1,11 @@
 ---
-Date: '2022-05-17'
-Circle: colorado-springs
+date: '2022-05-17'
+circle: colorado-springs
 title: Q'uo on Thought-Forms and the Development of Group Minds
-Event: second-channeling-intensive
-Session: '004'
-Group Questions: What is the nature of group consciousness and the effect of thought-forms upon this consciousness, both in the sense in which this consciousness can be manipulated in a negative way through thought-forms, and in the sense in which it can be influenced in a positive way through thought forms?
-Introduction: Q'uo describes the nature of group minds, focusing on their similarities to and differences from individual minds. They then introduce thought-forms as a means of communication between minds, whether group or individual. Thought-forms, Q’uo reminds us, are not always consciously or even coherently assembled. But when they are consciously formed by a polarized entity, they will have different features and target different realms of activity depending on which polarity produces them.
+event: second-channeling-intensive
+session: '004'
+group_question: What is the nature of group consciousness and the effect of thought-forms upon this consciousness, both in the sense in which this consciousness can be manipulated in a negative way through thought-forms, and in the sense in which it can be influenced in a positive way through thought forms?
+introduction: Q'uo describes the nature of group minds, focusing on their similarities to and differences from individual minds. They then introduce thought-forms as a means of communication between minds, whether group or individual. Thought-forms, Q’uo reminds us, are not always consciously or even coherently assembled. But when they are consciously formed by a polarized entity, they will have different features and target different realms of activity depending on which polarity produces them.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Q'uo
@@ -18,6 +18,7 @@ categories:
 - Topics/Third Density
 - Topics/Thought Forms
 audio: /assets/audio/2022-05-17_1952_thought_forms.mp3
+
 ---
 
 

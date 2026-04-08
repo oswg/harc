@@ -1,10 +1,10 @@
 ---
-Date: '2021-07-30'
-Circle: colorado-springs
+date: '2021-07-30'
+circle: colorado-springs
 title: Laitos on Trust
-Event: first-channeling-intensive
-Session: '003'
-Introduction: In this session from the Other Selves Working Group first channeling intensive in Colorado Springs, Laitos explores the different aspects involved in trust, from trust in self, to the extension of trust to the other self, to the more generalized trust in the Creation generally. While trust ought not be blind and wanton, for there are often dangers to balance, we learn through our disappointments how to accept others as they are, to cultivate a faith in their good intentions and highest they have to offer. If we can believe in the fundamentally didactic nature of our catalyst, we can use both trust and distrust to explore the current of our lives, which will always bring us back to another opportunity to balance between openness and discernment.
+event: first-channeling-intensive
+session: '003'
+introduction: In this session from the Other Selves Working Group first channeling intensive in Colorado Springs, Laitos explores the different aspects involved in trust, from trust in self, to the extension of trust to the other self, to the more generalized trust in the Creation generally. While trust ought not be blind and wanton, for there are often dangers to balance, we learn through our disappointments how to accept others as they are, to cultivate a faith in their good intentions and highest they have to offer. If we can believe in the fundamentally didactic nature of our catalyst, we can use both trust and distrust to explore the current of our lives, which will always bring us back to another opportunity to balance between openness and discernment.
 categories:
 - Circles/Colorado Springs Circle
 - Contacts/Laitos
@@ -17,6 +17,7 @@ categories:
 - Topics/Faith
 - Topics/Trust
 audio: /assets/audio/2021-07-30_trust.mp3
+
 ---
 
 

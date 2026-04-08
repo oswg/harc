@@ -1,9 +1,9 @@
 ---
-Date: '2022-10-24'
-Circle: colorado-springs
+date: '2022-10-24'
+circle: colorado-springs
 title: Q'uo on Recognizing Service
-Event: third-channeling-intensive
-Session: '001'
+event: third-channeling-intensive
+session: '001'
 categories:
 - Circles/Colorado Springs Circle
 - Events/Third Channeling Intensive
@@ -22,6 +22,7 @@ categories:
 - Topics/Service
 - Topics/Transformation
 audio: /assets/audio/ci03s01_quo_2022-10-06.mp3
+
 ---
 
 ## **Introduction**
