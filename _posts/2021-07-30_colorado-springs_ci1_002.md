@@ -16,7 +16,7 @@ categories:
 - Topics/Discernment
 - Topics/Forgiveness
 - Topics/Third Density
-audio: /assets/audio/2021-07-30_02_forgiveness-1.mp3
+# 
 
 ---
 

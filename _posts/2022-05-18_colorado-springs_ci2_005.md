@@ -20,7 +20,7 @@ categories:
 - Topics/Self-consciousness
 - Topics/Spirit Complex
 - Topics/Third Density
-audio: /assets/audio/2022-05-18_1005_spirit_and_self_consciousness.mp3
+
 
 ---
 

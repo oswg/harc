@@ -17,7 +17,7 @@ categories:
 - Topics/Emotions
 - Topics/Second Density
 - Topics/Third Density
-audio: /assets/audio/2022-05-19_0959_anxiety.mp3
+
 
 ---
 

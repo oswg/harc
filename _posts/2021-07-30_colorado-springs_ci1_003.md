@@ -16,7 +16,7 @@ categories:
 - Topics/Discernment
 - Topics/Faith
 - Topics/Trust
-audio: /assets/audio/2021-07-30_trust.mp3
+
 
 ---
 

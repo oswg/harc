@@ -14,7 +14,7 @@ categories:
 - Topics/Empathy
 - Topics/Green Ray
 - Topics/Respect
-audio: /assets/audio/2022-05-19_2126_respect.mp3
+
 
 ---
 

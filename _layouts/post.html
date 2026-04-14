@@ -36,12 +36,12 @@ layout: default
     {{ doc.group_question | markdownify }}
     {% endif %}
     <h2>Channeled message</h2>
-    {% assign audio_url = doc.audio | default: doc.media %}
-    {% if audio_url %}
+    {% assign audio_href = doc | post_audio_href %}
+    {% if audio_href != '' %}
     <div class="post-audio">
       <audio controls preload="metadata">
-        <source src="{{ audio_url | relative_url }}">
-        <p>Your browser does not support the audio element. <a href="{{ audio_url | relative_url }}">Download audio</a>.</p>
+        <source src="{{ audio_href }}">
+        <p>Your browser does not support the audio element. <a href="{{ audio_href }}">Download audio</a>.</p>
       </audio>
     </div>
     {% endif %}

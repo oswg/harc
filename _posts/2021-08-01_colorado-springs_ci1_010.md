@@ -13,7 +13,7 @@ categories:
 - Topics/Despair
 - Topics/Emotions
 - Topics/Empathy
-audio: /assets/audio/2021-08-01_empathy_edit.mp3
+
 
 ---
 

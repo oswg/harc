@@ -11,7 +11,7 @@ categories:
 - Events/First Channeling Intensive
 - Instruments/Jeremy
 - Topics/Yellow Ray
-audio: /assets/audio/2021-08-01_yellow_ray_and_orgs.mp3
+
 
 ---
 

@@ -18,7 +18,7 @@ categories:
 - Topics/Despair
 - Topics/Discernment
 - Topics/Healing
-audio: /assets/audio/2021-08-02_going_home.mp3
+
 
 ---
 

@@ -16,7 +16,7 @@ categories:
 - Topics/Humility
 - Topics/Second Density
 - Topics/Third Density
-audio: /assets/audio/2021-08-01_humility.mp3
+
 
 ---
 

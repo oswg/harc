@@ -18,7 +18,7 @@ categories:
 - Topics/Octaval Evolution
 - Topics/Potentiator
 - Topics/Significator
-audio: /assets/audio/2021-08-01_archetypes.mp3
+
 
 ---
 

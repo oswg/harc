@@ -20,7 +20,7 @@ categories:
 - Topics/Social Memory
 - Topics/Third Density
 - Topics/Wanderers
-audio: /assets/audio/2021-07-31_earth_healing.mp3
+
 
 ---
 

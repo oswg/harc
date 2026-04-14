@@ -18,7 +18,7 @@ categories:
 - Topics/Choice
 - Topics/Pain &amp; Suffering
 - Topics/Transformation
-audio: /assets/audio/2022-05-16_1720_transformation_of_mind.mp3
+
 
 ---
 

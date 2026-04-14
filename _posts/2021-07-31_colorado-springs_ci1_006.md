@@ -15,7 +15,7 @@ categories:
 - Instruments/Steve
 - Topics/Balancing
 - Topics/Wisdom
-audio: /assets/audio/2021-07-31_love_and_wisdom.mp3
+
 
 ---
 

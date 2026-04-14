@@ -17,7 +17,7 @@ categories:
 - Topics/Free Will
 - Topics/Service
 - Topics/Third Density
-audio: /assets/audio/2021-07-31_service_edit.mp3
+
 
 ---
 

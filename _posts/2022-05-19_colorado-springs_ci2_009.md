@@ -14,7 +14,7 @@ categories:
 - Instruments/Steve
 - Topics/Polarity
 - Topics/The Veil
-audio: /assets/audio/2022-05-19_1929_all_is_well.mp3
+
 
 ---
 

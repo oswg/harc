@@ -17,7 +17,7 @@ categories:
 - Topics/Polarity
 - Topics/Third Density
 - Topics/Thought Forms
-audio: /assets/audio/2022-05-17_1952_thought_forms.mp3
+
 
 ---
 

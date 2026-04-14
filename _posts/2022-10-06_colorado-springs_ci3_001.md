@@ -21,7 +21,7 @@ categories:
 - Topics/Polarity
 - Topics/Service
 - Topics/Transformation
-audio: /assets/audio/ci03s01_quo_2022-10-06.mp3
+
 
 ---
 

@@ -15,7 +15,7 @@ categories:
 - Topics/Archetypal Mind
 - Topics/Biases
 - Topics/Significator
-audio: /assets/audio/2022-05-18_2137_biases.mp3
+
 
 ---
 

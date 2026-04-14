@@ -29,7 +29,6 @@ categories:
 - Topics/The Veil
 - Topics/Third Density
 - Topics/Thought Forms
-audio: /assets/audio/2025-08-16_richmond_2025-invitational_002.mp3
 
 ---
 
