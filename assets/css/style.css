@@ -168,6 +168,26 @@ img.custom-logo {
 .post .entry-content {
   padding-bottom: 1em;
 }
+
+/* Drop cap on first paragraph after initial channeling attribution */
+.post .entry-content > p:has(> em:only-child):not(p:has(> em:only-child) ~ p:has(> em:only-child)) + p::first-letter {
+  float: left;
+  font-family: "Cormorant Garamond", Palatino, Georgia, serif;
+  font-size: 3.25em;
+  line-height: 0.85;
+  margin: 0.05em 0.12em 0 0;
+  font-weight: 600;
+}
+
+@supports (initial-letter: 3) {
+  .post .entry-content > p:has(> em:only-child):not(p:has(> em:only-child) ~ p:has(> em:only-child)) + p::first-letter {
+    float: none;
+    initial-letter: 3;
+    initial-letter-align: auto;
+    margin: 0;
+  }
+}
+
 .post hr {
   margin: 0.5em 0;
 }
