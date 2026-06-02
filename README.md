@@ -55,7 +55,7 @@ Direct commits to `main` are disabled; that's the branch we use for publishing t
 1. Create your own branch for the new content
 2. Add the MP3 to `assets/audio/` locally (gitignored; synced to S3 by pre-push hook)
 3. Run `./scripts/install_audio_sync_hook` if you haven't, set AWS credentials, then push: `git push origin <branch name>`
-4. Give it about 5 minutes or so, then `git pull origin main` should pull down a provisional post matching the filename structure of your mp3 but with the `.md` extension under `_posts/`.
+4. Give it about 5 minutes or so, then `git pull origin <branch name>` should pull down a provisional post matching the filename structure of your mp3 but with the `.md` extension under `_posts/`.
 5. Flesh out the front matter data at the top of the post and submit a pull request. Other members of HARC will review and when approved, your post will be merged into `main` and published.
 
 You will need to talk to `jeremy6d` if you want to contribute.
