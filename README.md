@@ -75,6 +75,20 @@ You will need to talk to `jeremy6d` if you want to contribute.
 
 MP3s are stored on S3 (synced from local `assets/audio/` by the pre-push hook) and served from S3. The transcribe workflow runs when changes are pushed to a branch _other than_ `main`. It finds orphan MP3s on S3 (no matching post), downloads each, transcribes, and creates a new post with dummy frontmatter and the transcript in the body. **Make sure you `git pull` after you give it a chance to create the stub post.** You then need to edit the transcript, adding introduction, group question, instrument change notes, footnotes, paragraphs, and correcting any Whisper errors.
 
+## GitLab server bootstrap
+
+For a standalone Ubuntu 22.04 or 24.04 VPS (GitLab EE, Pages, Runner, hardened SSH on port 24197):
+
+```bash
+export ADMIN_SSH_PUBLIC_KEY="$(cat ~/.ssh/id_ed25519.pub)"
+export ADMIN_USER=deploy
+export GITLAB_EXTERNAL_URL=https://git.example.com
+export GITLAB_PAGES_URL=https://pages.example.io
+sudo -E ./scripts/setup_gitlab_server.sh
+```
+
+See the script header in [`scripts/setup_gitlab_server.sh`](scripts/setup_gitlab_server.sh) for optional variables (`ADMIN_IP`, Let's Encrypt, root password).
+
 ## Usage rights and copyright
 
 This entire repository and any forks are copyrighted work. You may share freely as long as you attribute the work to HARC or the instruments involved. Feel free to fork, but keep in mind that it won't be published until it's approved by HARC staff.
