@@ -107,3 +107,4 @@ If you set **`ADMIN_IP`**, SSH (and thus host admin) only works from that CIDR; 
 
 - Bootstrap script and environment variables: [`scripts/setup_gitlab_server.sh`](../scripts/setup_gitlab_server.sh)
 - Example invocation: [README § GitLab server bootstrap](../README.md#gitlab-server-bootstrap)
+- Pages custom domains: [GitLab Pages and custom domains](gitlab-pages-custom-domains.md)

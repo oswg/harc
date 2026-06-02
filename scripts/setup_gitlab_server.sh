@@ -1,5 +1,5 @@
 #!/bin/bash
-# All-in-one GitLab server setup for Ubuntu LTS (22.04 / 24.04)
+# All-in-one GitLab server setup for Ubuntu 24.04 LTS (Noble)
 #
 # Bootstraps host hardening (SSH key-only on port 24197, UFW, fail2ban,
 # unattended security upgrades) then installs GitLab EE, Pages, Runner, and Docker.
@@ -17,7 +17,10 @@
 #   GITLAB_LETSENCRYPT_EMAIL    Contact email for Let's Encrypt (required if LE enabled)
 #   SSH_PORT                    SSH port (default: 24197)
 #
+# Run on the Ubuntu 24.04 server (via SSH), not on your laptop.
+#
 # Example:
+#   ssh root@your-server
 #   export ADMIN_SSH_PUBLIC_KEY="$(cat ~/.ssh/id_ed25519.pub)"
 #   export ADMIN_USER=deploy
 #   export ADMIN_IP=203.0.113.10/32
@@ -42,6 +45,7 @@ GITLAB_ROOT_PASSWORD="${GITLAB_ROOT_PASSWORD:-}"
 GITLAB_ENABLE_LETSENCRYPT="${GITLAB_ENABLE_LETSENCRYPT:-0}"
 GITLAB_LETSENCRYPT_EMAIL="${GITLAB_LETSENCRYPT_EMAIL:-}"
 SSH_PORT="${SSH_PORT:-24197}"
+UBUNTU_CODENAME="noble"  # Ubuntu 24.04 LTS
 
 SSHD_DROPIN="/etc/ssh/sshd_config.d/99-gitlab-setup.conf"
 GITLAB_RB="/etc/gitlab/gitlab.rb"
@@ -63,26 +67,6 @@ preflight() {
     echo "  export ADMIN_SSH_PUBLIC_KEY=\"\$(cat ~/.ssh/id_ed25519.pub)\""
     exit 1
   fi
-
-  if [[ ! -f /etc/os-release ]]; then
-    echo "ERROR: /etc/os-release not found; Ubuntu LTS required."
-    exit 1
-  fi
-
-  # shellcheck source=/dev/null
-  source /etc/os-release
-  if [[ "${ID:-}" != "ubuntu" ]]; then
-    echo "ERROR: Ubuntu LTS required (found: ${ID:-unknown})."
-    exit 1
-  fi
-
-  case "${VERSION_ID:-}" in
-    22.04|24.04) ;;
-    *)
-      echo "ERROR: Ubuntu 22.04 or 24.04 LTS required (found: ${VERSION_ID:-unknown})."
-      exit 1
-      ;;
-  esac
 
   if [[ "$GITLAB_ENABLE_LETSENCRYPT" == "1" && -z "$GITLAB_LETSENCRYPT_EMAIL" ]]; then
     echo "ERROR: GITLAB_LETSENCRYPT_EMAIL is required when GITLAB_ENABLE_LETSENCRYPT=1"
@@ -271,9 +255,7 @@ install_docker() {
   install -m 0755 -d /etc/apt/keyrings
   curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
   chmod a+r /etc/apt/keyrings/docker.asc
-  # shellcheck source=/dev/null
-  . /etc/os-release
-  echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu ${VERSION_CODENAME} stable" \
+  echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu ${UBUNTU_CODENAME} stable" \
     | tee /etc/apt/sources.list.d/docker.list >/dev/null
   apt-get update
   DEBIAN_FRONTEND=noninteractive apt-get install -y docker-ce docker-ce-cli containerd.io

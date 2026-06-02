@@ -77,9 +77,10 @@ MP3s are stored on S3 (synced from local `assets/audio/` by the pre-push hook) a
 
 ## GitLab server bootstrap
 
-For a standalone Ubuntu 22.04 or 24.04 VPS (GitLab EE, Pages, Runner, hardened SSH on port 24197):
+For a standalone Ubuntu 24.04 LTS VPS (GitLab EE, Pages, Runner, hardened SSH on port 24197). Run on the server via SSH, not locally:
 
 ```bash
+ssh root@your-server
 export ADMIN_SSH_PUBLIC_KEY="$(cat ~/.ssh/id_ed25519.pub)"
 export ADMIN_USER=deploy
 export GITLAB_EXTERNAL_URL=https://git.example.com
