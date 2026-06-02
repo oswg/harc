@@ -169,22 +169,26 @@ img.custom-logo {
   padding-bottom: 1em;
 }
 
-/* Drop cap on first paragraph after initial channeling attribution */
-.post .entry-content > p:has(> em:only-child):not(p:has(> em:only-child) ~ p:has(> em:only-child)) + p::first-letter {
+/* Drop cap on opening paragraph after channeling attribution (see #channeled-message in post layout) */
+.post .entry-content > #channeled-message + .post-audio + p + p::first-letter,
+.post .entry-content > #channeled-message + p + p::first-letter,
+.post .entry-content > .post-audio ~ h2#channeled-message + p + p::first-letter {
   float: left;
   font-family: "Cormorant Garamond", Palatino, Georgia, serif;
   font-size: 3.25em;
   line-height: 0.85;
-  margin: 0.05em 0.12em 0 0;
+  margin: 0.05em 0.2em 0 0;
   font-weight: 600;
 }
 
 @supports (initial-letter: 3) {
-  .post .entry-content > p:has(> em:only-child):not(p:has(> em:only-child) ~ p:has(> em:only-child)) + p::first-letter {
+  .post .entry-content > #channeled-message + .post-audio + p + p::first-letter,
+  .post .entry-content > #channeled-message + p + p::first-letter,
+  .post .entry-content > .post-audio ~ h2#channeled-message + p + p::first-letter {
     float: none;
     initial-letter: 3;
     initial-letter-align: auto;
-    margin: 0;
+    margin: 0 0.2em 0 0;
   }
 }
 

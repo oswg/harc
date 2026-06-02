@@ -35,7 +35,7 @@ layout: default
     <h2>Group question</h2>
     {{ doc.group_question | markdownify }}
     {% endif %}
-    <h2>Channeled message</h2>
+    <h2 id="channeled-message">Chaneled message</h2>
     {% assign audio_href = doc | post_audio_href %}
     {% if audio_href != '' %}
     <div class="post-audio">
