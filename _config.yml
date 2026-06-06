@@ -1,9 +1,13 @@
 # HARC Jekyll site (converted from HARC Amalie Lite Child WordPress theme)
 
 title: "High Altitude Receiving Center"
-description: ""
+description: "Inspirational messages from the Confederation of Planets in Service to the One Infinite Creator"
 baseurl: ""
 url: "https://har.center"
+twitter_site: "@otherselveswg"
+social_image: "/assets/og-image.png"
+social_image_width: 1200
+social_image_height: 630
 # Default permalink (used for posts without date/event/session/title front matter)
 # Posts with date, event, session, title get: /YYYY-MM-DD/event/session/title-slug/ (session padded to 3 digits)
 permalink: /:year/:month/:day/:title/
